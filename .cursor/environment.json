@@ -1,0 +1,15 @@
+{
+  "$schema": "https://app.cursor.sh/environment.schema.json",
+  "setup": [
+    "sudo apt update && sudo apt install -y python3 python3-pip",
+    "python3 -m pip install --upgrade pip",
+    "pip install requests beautifulsoup4 pillow jinja2"
+  ],
+  "env": {
+    "PYTHONUNBUFFERED": "1"
+  },
+  "language": "python",
+  "postSetupCommands": [
+    "echo '[✔] Python 環境與依賴安裝完成。'"
+  ]
+}
