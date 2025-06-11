@@ -1,0 +1,136 @@
+{
+  "code": "stove-supporter",
+  "name": "爐灶支架",
+  "brand": "燕三条キッチン研究所",
+  "desc": "廚房工具和生活方式都進入了緊湊的時代。有時，小型化的烹飪器具和標準尺寸的爐灶之間會出現縫隙。為了消除這種不穩定的煩惱，推出了迷你尺寸的爐架。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "爐灶支架"
+    },
+    {
+      "label": "定價",
+      "value": "1,650日圓（含稅150日圓）"
+    },
+    {
+      "label": "品號",
+      "value": "4w1h_004"
+    },
+    {
+      "label": "尺寸",
+      "value": "約13.2×13.2×高 2.3公分"
+    },
+    {
+      "label": "材質",
+      "value": "本體 / 鋼（矽膠樹脂塗裝）"
+    },
+    {
+      "label": "重量",
+      "value": "約150克"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    }
+  ],
+  "wh": [
+    {
+      "title": "Who",
+      "text": "一個人生活或兩個人一起生活。"
+    },
+    {
+      "title": "When",
+      "text": "使用小型烹飪器具的機會增加了。"
+    },
+    {
+      "title": "What",
+      "text": "小份食材、少量油、加熱加溫。"
+    },
+    {
+      "title": "Why",
+      "text": "當把調理器具放在爐灶上時，尺寸感覺有很大的偏差。"
+    },
+    {
+      "title": "How",
+      "text": "爐灶的穩定性是基本前提，如果不合適會讓人感到不安。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-stove-supporter_mainimg.webp",
+      "url": null,
+      "alt": "爐架",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_thema.webp",
+      "url": null,
+      "alt": "爐架",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-stove-supporter__stove-supporter_slide_01.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-stove-supporter__stove-supporter_slide_02.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-stove-supporter__stove-supporter_slide_03.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_01.webp",
+      "alt": "適合各種形狀的爐灶。",
+      "title": "適合各種形狀的爐灶。",
+      "desc": "為了適應各種不同的爐灶，我們在背面設置了多個掛鉤。每邊設有兩個，角落也各有兩個爪子，這樣即使爐灶的形狀和大小不同，也能夠穩固地卡在爪子之間的溝槽中，不會滑動。也適用於卡式爐。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_02.webp",
+      "alt": "提升單人熱壓三明治的穩定性。",
+      "title": "提升熱壓三明治機的穩定性。",
+      "desc": "「爐灶支架上那個小小的凹形是什麼？」答案是，專為單人熱壓三明治設計的手柄支架。這個「支撐」可以防止晃動和搖晃，大幅提升單人熱壓三明治的穩定性。這是一個回應過去需求的便利工具，讓你可以輕鬆無需用手固定地烤製。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_03.webp",
+      "alt": "即使是小型油炸鍋，也不會滑動，使用安心。",
+      "title": "小型油炸鍋也不打滑，使用安心。",
+      "desc": "手感有些粗糙，呈現出霧面的質感。這是為了讓調理器具的平底部分不易滑動而設計的穩定性工夫。也不容易留下刮痕，請放心大膽地使用。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_04.webp",
+      "alt": "咖啡壺等，放置得很好。",
+      "title": "咖啡壺等的穩定性很好。",
+      "desc": "除了適合用於單人熱壓三明治機和小型油炸鍋外，也非常適合用於咖啡壺、牛奶鍋、濃縮咖啡機等。能在加熱小型烹飪器具時發揮出色的性能。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_05.webp",
+      "alt": "掛在鉤子上，掛在支架上。",
+      "title": "掛在鉤子上，掛在支架上。",
+      "desc": "由方形框架連結而成的設計，具有通透感，提供了多處可懸掛的地方。只要掛在抽油煙機或是鐵絲架上，隨時都能輕鬆取用。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##適用於單人熱壓三明治機 ##適用於小型油炸鍋 ##適用於迷你烹飪器具 ##適合爐灶 ##穩定加熱 ##防止晃動"
+}

@@ -1,0 +1,118 @@
+{
+  "code": "turner",
+  "name": "菱形轉向器",
+  "brand": "燕三条キッチン研究所",
+  "desc": "是否可以將每天使用平底鍋烹飪時有用的功能集於一身？經過對翻炒、刮除、不破壞食材的翻面等各種動作的研究，最終設計出了一款能夠以舒適且自由的角度輕鬆插入的獨特工具。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "菱形轉盤"
+    },
+    {
+      "label": "定價",
+      "value": "1,650日圓（含稅150日圓）"
+    },
+    {
+      "label": "品號",
+      "value": "4w1h_008"
+    },
+    {
+      "label": "尺寸",
+      "value": "約28×9.2×高 0.6cm\n（頭部/約6.1×8.2cm）（手柄/約1.6cm）"
+    },
+    {
+      "label": "材質",
+      "value": "矽膠樹脂（芯材/不鏽鋼）"
+    },
+    {
+      "label": "耐熱溫度",
+      "value": "約200℃"
+    },
+    {
+      "label": "重量",
+      "value": "約70克"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "可吊掛式收納"
+    }
+  ],
+  "wh": [
+    {
+      "title": "Who",
+      "text": "無論是料理、擺盤還是清理，都是以簡便為優先。"
+    },
+    {
+      "title": "When",
+      "text": "所以早、中、晚餐的主要工具是平底鍋。"
+    },
+    {
+      "title": "What",
+      "text": "無論是肉類、魚類、蛋類還是蔬菜，任何尺寸都能完美適配。"
+    },
+    {
+      "title": "Why",
+      "text": "只需一個工具，就能輔助所有平底鍋料理！"
+    },
+    {
+      "title": "how",
+      "text": "可以縱橫雙面使用，輕鬆炒、刮、翻。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-turner_mainimg.webp",
+      "url": null,
+      "alt": "turner",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-turner__turner_thema.webp",
+      "url": null,
+      "alt": "turner",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-turner__turner_slide_01.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-turner__turner_feature_01.webp",
+      "alt": "菱形和可彎曲的尖端設計，便於插入。",
+      "title": "菱形和可彎曲的尖端設計，便於插入。",
+      "desc": "為了能以舒適自然的角度插入，頭部設計成薄菱形且尖端柔軟可彎曲。此外，由於不易變形，能輕鬆舉起食材，僅需手腕的最小動作即可翻轉，無需抬起手肘。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-turner__turner_feature_03.webp",
+      "alt": "即使是大型食材也能輕鬆放置的平坦性。",
+      "title": "即使是大型食材也能輕鬆放置的平坦性。",
+      "desc": "從握柄到末端都是平坦的。超薄的鏟頭可以輕鬆滑入較大的漢堡排或燉魚下方，並牢固支撐。不僅可以雙面使用，不分左右手，還與菱形平底鍋相性絕佳。",
+      "youtube": null
+    },
+    {
+      "filename": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_turner_feature_03.png",
+      "alt": "不易積累污垢，不會刮傷平底鍋。",
+      "title": "不易積聚污垢，且不會刮傷平底鍋。",
+      "desc": "手柄部分與本體無縫連接，覆蓋著黑色矽膠。不易顯色轉移，不會刮傷平底鍋。除了可以用洗碗機清洗外，其良好的排水材質感也是一大魅力。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##柔韌 ##容易插入 ##可用於長短兩邊 ##適合大型食材 ##適合左右利手 ##可用於洗碗機 ##與菱形平底鍋相性極佳"
+}

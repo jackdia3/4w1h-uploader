@@ -1,0 +1,144 @@
+{
+  "code": "rice",
+  "name": "電飯煲二重奏",
+  "brand": "燕三条キッチン研究所",
+  "desc": "由於麵包、麵類和即食米飯的興起，沒有電飯煲的家庭正在增加？推測現代的米飯狀況，追求即使是少量也能美味的煮飯方式，於是開發出了一款能慢慢蒸煮加熱的、方便的兩人用炊飯鍋。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "雙層電飯煲"
+    },
+    {
+      "label": "定價",
+      "value": "6,600日圓（含稅600日圓）"
+    },
+    {
+      "label": "品號",
+      "value": "4w1h_010"
+    },
+    {
+      "label": "尺寸",
+      "value": "約15.8 × 20.4 × 高度11.7cm\n（深度 外鍋 約9.5cm 內鍋 約6cm）（底部厚度 約0.7mm）"
+    },
+    {
+      "label": "材質",
+      "value": "外鍋・內鍋 / 不鏽鋼(含鉻18%)\n              (外鍋 / 氟樹脂塗膜加工)\n              蓋把手 / 酚醛樹脂\n              蓋子 / 不鏽鋼"
+    },
+    {
+      "label": "重量",
+      "value": "約790克"
+    },
+    {
+      "label": "滿水容量",
+      "value": "外鍋 / 約2.0L 內鍋 / 約0.7L"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "適用於IH和瓦斯爐"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "早上吃麵包，中午吃便利商店的食物，吃米飯的機會減少了。"
+    },
+    {
+      "title": "Who",
+      "text": "一個人或兩個人生活的話，煮飯本身的門檻就比較高。"
+    },
+    {
+      "title": "What",
+      "text": "如果要吃的話，基本上會追求「美味的飯」。"
+    },
+    {
+      "title": "Why",
+      "text": "電飯煲總是沉甸甸的，總是佔據固定的位置。"
+    },
+    {
+      "title": "How",
+      "text": "磨利、冷卻、不需調整火候、清理也方便的煮飯工具是什麼？"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-rice_mainimg.webp",
+      "url": null,
+      "alt": "rice",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-rice__rice_thema.webp",
+      "url": null,
+      "alt": "rice",
+      "status": "error"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-rice__rice_slide_01.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-rice__rice_slide_02.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-rice__rice_slide_03.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-rice__rice_feature_01.webp",
+      "alt": "讓用餐變得輕鬆，恰到好處的尺寸感",
+      "title": "讓用餐變得輕鬆，恰到好處的尺寸感",
+      "desc": "這是一款全不鏽鋼鍋，能煮出適合兩位成人食用的適量米飯。即使家中沒有電飯煲，也能輕鬆煮出新鮮米飯，隨時享用。容量最大約為1.5合，煮熟後最多可達約500克的米飯。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-rice__rice_feature_02.webp",
+      "alt": "只需加熱，放著不管的煮飯法。",
+      "title": "只需加熱，放著不管的煮飯方式。",
+      "desc": "烹煮方法只需在外鍋加水加熱。利用從蒸氣孔流入內鍋的蒸氣力量，讓米慢慢熟透。因此，即使不調整火力也不會燒焦，能煮出鬆軟光亮的米飯。\n\n※白米需浸泡約30分鐘，加熱約20分鐘，蒸約10分鐘即可完成。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-rice__rice_feature_03.webp",
+      "alt": "冷啟動和緩緩蒸汽的實力如何？",
+      "title": "冷啟動和緩慢蒸汽的實力如何？",
+      "desc": "採用的是「加入冰塊後，米飯會變得更加鬆軟甜美」的原理。據說這是因為在加熱時溫度會逐漸上升。因此，採用了這種「蒸氣」炊飯法。洗米後，將整個鍋子放入冰箱冷卻，這樣可以預期溫度上升得更加緩慢。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-rice__rice_feature_05.webp",
+      "alt": "可用於洗碗機，堅固且不易刮傷的材質。",
+      "title": "可用於洗碗機的、耐用且不易刮傷的材質。",
+      "desc": "由於內鍋是不鏽鋼材質，因此不必擔心電飯煲中氟素脫落的問題。即使在清理時用力刷洗，也不易刮傷且耐用。由於採用「蒸氣」炊飯，不會粘鍋，因此與洗碗機的相性也非常好。",
+      "youtube": null
+    },
+    {
+      "filename": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_rice_feature_05.jpg",
+      "alt": "也可以進行蒸煮料理或火鍋等應用料理。",
+      "title": "也可以進行蒸煮料理或火鍋等應用料理。",
+      "desc": "健康的的蒸料理、肉包和燒賣，甚至還有起司和巧克力火鍋等派對菜單都能廣泛運用！還可以用內鍋整體製作布丁和蒸蛋糕等甜點。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "## 2人用電鍋 ## 簡便米飯料理 ## 蒸汽慢煮 ## 冰箱浸水 ## 搖晃洗米 ## 蒸煮料理 ## 起司火鍋"
+}

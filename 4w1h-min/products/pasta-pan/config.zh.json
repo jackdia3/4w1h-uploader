@@ -1,0 +1,137 @@
+{
+  "code": "pasta-pan",
+  "name": "多功能義大利麵鍋",
+  "brand": "燕三条キッチン研究所",
+  "desc": "一般的的義大利麵鍋是可以裝滿大量水的深鍋。但是，如果將「長義大利麵平放著煮」這個想法轉換90度，就能用少量的水煮熟，並且創造出一個可以同時完成三種功能的烹飪器具。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "多功能義大利麵鍋"
+    },
+    {
+      "label": "定價",
+      "value": "7,700日圓（含稅700日圓）"
+    },
+    {
+      "label": "品號",
+      "value": "4w1h_006"
+    },
+    {
+      "label": "尺寸",
+      "value": "約34×23×高度10.2公分"
+    },
+    {
+      "label": "材質",
+      "value": "本體/複合材料 （鋁不銹鋼（鉻18％））（底部厚度約2.0mm）  \n手柄・蓋子把手/酚醛樹脂  \n蓋子/不銹鋼"
+    },
+    {
+      "label": "重量",
+      "value": "約1,380克"
+    },
+    {
+      "label": "滿水容量",
+      "value": "約3.8公升"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "適用於IH與瓦斯爐"
+    }
+  ],
+  "wh": [
+    {
+      "title": "Who",
+      "text": "無論是一個人、夫妻，還是有小孩。"
+    },
+    {
+      "title": "When",
+      "text": "有時候會想要快速解決午餐或晚餐。"
+    },
+    {
+      "title": "What",
+      "text": "這時候出場次數增加的就是簡單方便的義大利麵。"
+    },
+    {
+      "title": "how",
+      "text": "但是倒掉熱水和清理的負擔相當重。"
+    },
+    {
+      "title": "Why",
+      "text": "能不能用一個鍋子完成煮、瀝水和炒的過程呢？"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-pasta-pan_mainimg.webp",
+      "url": null,
+      "alt": "pasta-pan",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_thema.webp",
+      "url": null,
+      "alt": "pasta-pan",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-pasta-pan__pasta-pan_slide_01.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-pasta-pan__pasta-pan_slide_02.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-pasta-pan__pasta-pan_slide_03.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_feature_01.webp",
+      "alt": "要用最少的水煮長麵條，該怎麼做？",
+      "title": "要用最少的水煮長麵條的方法是什麼？",
+      "desc": "煮煮義大利麵的第一道關卡是用深鍋煮大量的水。無論是加水還是倒水，都是相當費力的工作。因此，這個設計考慮了「如何用最少的水煮麵」。將義大利麵的放入方向從縱向改為橫向，平放煮麵就不需要深度。水量也可以減少，因此可以更快地將水煮沸。（義大利麵的量最多可達約500克）",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_feature_02.webp",
+      "alt": "不需要濾網，因為波形縫隙的排水效果極佳。",
+      "title": "使用波形狀的縫隙，排水效果極佳，不需要濾網。",
+      "desc": "意外地費時的瀝水作業。如果可以的話，沒有濾網、只需一個動作是理想的。這一點是通過蓋子上的波形縫隙實現的。縫隙不會讓義大利麵飛出，且不會阻擋水流，並且凹槽設計的把手可以固定蓋子，只需傾斜即可完成瀝水。為了徹底瀝乾水分，鍋體設計了促進水流的傾斜面。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_feature_05.webp",
+      "alt": "從現在開始，鍋子的把手將成為蓋子的固定放置位置。",
+      "title": "從現在開始，鍋的把手將成為蓋子的固定位置。",
+      "desc": "水煮沸後的壓力來自於鍋蓋的處理。如果找不到地方放置，可以在打開的同時，將鍋蓋輕輕插入把手中。它可以以約80度和約110度兩個角度立起，因此在煮的過程中不容易沾上水滴。",
+      "youtube": null
+    },
+    {
+      "filename": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_pasta-pan_feature_05.jpg",
+      "alt": "不僅是義大利麵，燙過的溫熱蔬菜也有爽快的瀝水感。",
+      "title": "不僅是義大利麵，燙熟的溫野菜也有爽快的瀝水感。",
+      "desc": "這是一款容易加熱且能均勻傳熱的淺型鍋，因此在煮蔬菜時非常實用。對於玉米和蘆筍等較長的蔬菜也很擅長。除了麵類之外，還可以從波形縫隙的反面迅速瀝乾水分。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##橫向煮義大利麵 ##水量少 ##瀝水效果極佳 ##不需要濾網 ##單鍋料理 ##不需要蓋子放置空間 ##溫熱蔬菜也可以"
+}

@@ -1,0 +1,136 @@
+{
+  "code": "stove-supporter",
+  "name": "コンロサポーター",
+  "brand": "燕三条キッチン研究所",
+  "desc": "キッチンツールも、暮らし方も、コンパクトな時代になりました。\r\n      ときには小さくなった調理器具と、標準サイズのコンロに隙間が生まれることも。\r\n      そんなガタつきストレスをなくす、ミニサイズの五徳ができました。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "コンロサポーター"
+    },
+    {
+      "label": "定価",
+      "value": "1,650円（税150円）"
+    },
+    {
+      "label": "品番",
+      "value": "4w1h_004"
+    },
+    {
+      "label": "サイズ",
+      "value": "約13.2×13.2×高さ 2.3cm"
+    },
+    {
+      "label": "材質",
+      "value": "本体 / スチール（シリコーン樹脂塗装）"
+    },
+    {
+      "label": "重量",
+      "value": "約150g"
+    },
+    {
+      "label": "カラー",
+      "value": "ブラック（本体）"
+    },
+    {
+      "label": "原産国",
+      "value": "日本"
+    }
+  ],
+  "wh": [
+    {
+      "title": "Who",
+      "text": "ひとり暮らしや、ふたり暮らしで。"
+    },
+    {
+      "title": "When",
+      "text": "小ぶりな調理器具の利用機会が増えた。"
+    },
+    {
+      "title": "What",
+      "text": "小さな食材、少ない油、あっため加熱。"
+    },
+    {
+      "title": "Why",
+      "text": "調理器具をコンロに置くと、サイズ感に大きなズレが。"
+    },
+    {
+      "title": "How",
+      "text": "コンロの安定は大前提、フィットしないと不安です。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-stove-supporter_mainimg.webp",
+      "url": null,
+      "alt": "stove-supporter",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_thema.webp",
+      "url": null,
+      "alt": "stove-supporter",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-stove-supporter__stove-supporter_slide_01.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-stove-supporter__stove-supporter_slide_02.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-stove-supporter__stove-supporter_slide_03.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_01.webp",
+      "alt": "いろいろな形のコンロに、しっかりフィット。",
+      "title": "いろいろな形のコンロに、しっかりフィット。",
+      "desc": "多種多様なコンロに対応できるよう、裏面に複数の引っ掛かりを設けました。一辺につき２つ、角にも2つずつツメを付けることで、形や大きさなどコンロのタイプが異なっても、ツメの間にある溝にガチッとハマってズレない土台をつくります。カセットコンロにもフィットします。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_02.webp",
+      "alt": "ホットサンドソロの、安定感をアップ。",
+      "title": "ホットサンドソロの、安定感をアップ。",
+      "desc": "「コンロサポーターの上に、ちょこんと付いた凹形は何？」その答えは、ホットサンドソロ専用のハンドルスタンド。ガタつきやグラつきを防ぐこの「支え」によって、ホットサンドソロの安定感を大幅アップ。これまで寄せられていたご要望に応えた、手放しで焼ける便利な道具です。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_03.webp",
+      "alt": "コンパクトフライヤーも、滑らず安心。",
+      "title": "コンパクトフライヤーも、滑らず安心。",
+      "desc": "手触りは、少しザラつきのあるマットな質感。これは調理器具のフラットな底面を、滑りにくくする安定感の工夫です。キズも気になりにくいので、ぜひガシガシ使ってください。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_04.webp",
+      "alt": "コーヒーポットなどの、座りがイイ。",
+      "title": "コーヒーポットなどの、座りがイイ。",
+      "desc": "ホットサンドソロやコンパクトフライヤーのほか、コーヒーポット、ミルクパン、エスプレッソメーカーなどにも最適。小ぶりな調理器具の加熱で、パフォーマンスを発揮します。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-stove-supporter__stove-supporter_feature_05.webp",
+      "alt": "フックに吊って、スタンドに引っ掛けて。",
+      "title": "フックに吊って、スタンドに引っ掛けて。",
+      "desc": "四角いフレームを連結したような、抜け感のあるデザインなので、引っ掛けどころ満載。レンジフードやワイヤーラックなどに吊るしておけば、いつでもサッと手に取れます。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##ホットサンドソロ用 ##コンパクトフライヤー用 ##ミニ調理器具用 ##コンロにフィット ##安定加熱 ##ガタつきオフ"
+}

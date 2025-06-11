@@ -1,0 +1,141 @@
+{
+  "code": "pan",
+  "name": "ひし形フライパン",
+  "brand": "燕三条キッチン研究所",
+  "desc": "炒めてから煮る。この2つの手順を経て、すすむ料理は結構多い。\r\n      そこで炒めやすく、汁物を器に移しやすい、深さと角度をじっくり研究。\r\n      するとフライパンと鍋がひとつになったひし形の万能ツールができました。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "ひし形フライパン"
+    },
+    {
+      "label": "定価",
+      "value": "7,700円（税700円）"
+    },
+    {
+      "label": "品番",
+      "value": "4w1h_003"
+    },
+    {
+      "label": "サイズ",
+      "value": "約25×41.5×高さ 11.5cm"
+    },
+    {
+      "label": "鍋サイズ",
+      "value": "約22.5×22.5×深さ 7cm"
+    },
+    {
+      "label": "材質",
+      "value": "本体・ハンドル金具 / アルミニウム合金（ふっ素樹脂塗膜加工）\r\nはり底 / ステンレス鋼（クロム18％）（底の厚さ 約3.0mm（はり底を含む））\r\n            ハンドル・蓋つまみ / フェノール樹脂\r\n            ガラス蓋 / 強化ガラス"
+    },
+    {
+      "label": "重量",
+      "value": "約855g（鍋のみ） / 約1,365g（蓋込み）"
+    },
+    {
+      "label": "満水容量",
+      "value": "約2.6L"
+    },
+    {
+      "label": "カラー",
+      "value": "ブラック（本体）"
+    },
+    {
+      "label": "原産国",
+      "value": "日本"
+    },
+    {
+      "label": "その他",
+      "value": "IH・ガス火対応"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "夕食の場面、炒め煮メニューの登場頻度は高い。"
+    },
+    {
+      "title": "What",
+      "text": "夕食の場面、炒め煮メニューの登場頻度は高い。"
+    },
+    {
+      "title": "How",
+      "text": "プロっぽく炒められて、盛り付けもスムーズなのが理想。"
+    },
+    {
+      "title": "Who",
+      "text": "調理道具は、必要最小限のものだけあればいい。"
+    },
+    {
+      "title": "Why",
+      "text": "炒めて煮る、どちらにも適した、万能な形ってないの？"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-pan_mainimg.webp",
+      "url": null,
+      "alt": "pan",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-pan__pan_thema.webp",
+      "url": null,
+      "alt": "pan",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-pan__pan_slide_01.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-pan__pan_slide_02.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-pan__pan_slide_03.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-pan__pan_feature_01.webp",
+      "alt": "3つ口コンロで、隣り合う鍋とぶつかりにくい。",
+      "title": "3つ口コンロで、隣り合う鍋とぶつかりにくい。",
+      "desc": "めずらしい、ひし形デザインのフライパン。丸みをカットしたすっきりシャープな形なので、奥に位置する3口めのコンロにほかの鍋を置いても収まりがよく、ぶつかりにくいのが特徴です。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-pan__pan_feature_02.webp",
+      "alt": "角の部分から、具やスープを移しやすい。",
+      "title": "角の部分から、具やスープを移しやすい。",
+      "desc": "盛り付けやすさの明暗をわけるのは、注ぎ口があるかどうか。左右両方に注ぎ口が突き出た格好のひし形なら、レードルなしでも具やスープをこぼさず器に移せます。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-pan__pan_feature_03.webp",
+      "alt": "フライ返しがスッと入る、気持ちいい角度。",
+      "title": "フライ返しがスッと入る、気持ちいい角度。",
+      "desc": "さらに注目したのは、フライ返しを使う時の手の傾き。人の自然な動作特性を研究し、フライ返しをスムーズに差し込みやすい形に調整しました。",
+      "youtube": null
+    },
+    {
+      "filename": null,
+      "alt": "",
+      "title": "炒め物であおっても、鍋肌が具をキャッチ。",
+      "desc": "「プロっぽく具が宙を舞う炒め物をつくれないか?」そんな理想を叶えてくれるのがこのフライパンです。チャーハンなどでバラバラと散らばりがちな具を、角度のある鍋肌があおった先でブロック&キャッチ。初心者も、料理が苦手な人も、得意げにフライパンを振ってみたくなる楽しいキッチンツールです。",
+      "youtube": "https://www.youtube.com/embed/EaeJRuWnERM"
+    }
+  ],
+  "notices": [],
+  "hashtags": "##炒め煮 ##具が宙を舞う ##試したくなる ##盛り付けしやすい ##ひとつで万能フライパン"
+}

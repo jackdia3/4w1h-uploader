@@ -1,0 +1,134 @@
+{
+  "code": "pan",
+  "name": "菱形平底鍋",
+  "brand": "燕三条キッチン研究所",
+  "desc": "先炒再煮。經過這兩個步驟的料理相當多。因此，我們仔細研究了易於翻炒和便於將湯汁倒入碗中的深度和角度。結果，我們創造出了一個結合了平底鍋和鍋子的菱形萬能工具。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "菱形平底鍋"
+    },
+    {
+      "label": "定價",
+      "value": "7,700日圓（含稅700日圓）"
+    },
+    {
+      "label": "品號",
+      "value": "4w1h_003"
+    },
+    {
+      "label": "尺寸",
+      "value": "約25×41.5×高 11.5公分"
+    },
+    {
+      "label": "鍋子的尺寸",
+      "value": "約22.5×22.5×深度7公分"
+    },
+    {
+      "label": "材質",
+      "value": "本體・手柄金具 / 鋁合金（氟樹脂塗膜加工）  \n鍋底 / 不鏽鋼（鉻18%）（底部厚度約3.0mm（含鍋底））  \n手柄・蓋子把手 / 酚醛樹脂  \n玻璃蓋 / 強化玻璃"
+    },
+    {
+      "label": "重量",
+      "value": "約855g（僅鍋）/ 約1,365g（含蓋）"
+    },
+    {
+      "label": "滿水容量",
+      "value": "約2.6公升"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "適用於IH和瓦斯爐"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "在晚餐的場合中，炒煮菜餚的出現頻率很高。"
+    },
+    {
+      "title": "What",
+      "text": "在晚餐的場合中，炒煮菜的出現頻率很高。"
+    },
+    {
+      "title": "How",
+      "text": "理想是能像專業人士一樣炒菜，並且擺盤也很順利。"
+    },
+    {
+      "title": "Who",
+      "text": "調理工具只需要具備最基本的即可。"
+    },
+    {
+      "title": "Why",
+      "text": "沒有一種形狀既適合炒又適合煮的萬能形狀嗎？"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-pan_mainimg.webp",
+      "url": null,
+      "alt": "pan",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-pan__pan_thema.webp",
+      "url": null,
+      "alt": "pan",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-pan__pan_slide_01.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-pan__pan_slide_02.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-pan__pan_slide_03.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-pan__pan_feature_01.webp",
+      "alt": "三口爐灶設計，不容易讓相鄰的鍋子互相碰撞。",
+      "title": "三口爐灶設計，鍋子不容易互相碰撞。",
+      "desc": "這是一款罕見的菱形設計平底鍋。由於其圓角被切割成簡潔銳利的形狀，即使在後方的第三個爐口放置其他鍋具也能很好地安置，不易相互碰撞是其特點。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-pan__pan_feature_02.webp",
+      "alt": "從角落的部分更容易將配料和湯移出。",
+      "title": "從角落的部分更容易將配料和湯移出。",
+      "desc": "擺盤的便利與否取決於是否有注口。如果是兩側都有注口的菱形設計，即使不用湯勺也能將食材或湯不灑出地移到碗中。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-pan__pan_feature_03.webp",
+      "alt": "鍋鏟能順利滑入的舒適角度。",
+      "title": "鍋鏟能順利插入，令人愉快的角度。",
+      "desc": "更加引人注目的是使用鍋鏟時手部的傾斜角度。我們研究了人類自然的動作特性，並調整了鍋鏟的形狀，使其更容易順暢地插入。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##炒煮 ##食材在空中飛舞 ##讓人想嘗試 ##容易擺盤 ##一鍋多用的萬能平底鍋"
+}

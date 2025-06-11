@@ -1,0 +1,146 @@
+{
+  "code": "flyer",
+  "name": "燕三条キッチン研究所",
+  "brand": "燕三条キッチン研究所",
+  "desc": "比起煮、烤，炸東西總讓人覺得麻煩又費工。這款小方鍋，專為台灣小家庭設計，油量省、省空間，炸完直接當油壺收納，讓你輕鬆享受炸物美味，後續清理也不再是負擔。",
+  "spec": {
+    "": "傳統炸鍋又大又佔空間，這款小方鍋讓你炸物也能很輕鬆。"
+  },
+  "wh": [
+    {
+      "icon": null,
+      "icon_alt": "When",
+      "title": "什麼時候適合用？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "只想炸一點點、做便當、或兩人小聚，油不用多，剛剛好。"
+    },
+    {
+      "icon": null,
+      "icon_alt": "Who",
+      "title": "誰適合？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "租屋族、小家庭、怕油煙、怕麻煩但又愛吃炸物的你。"
+    },
+    {
+      "icon": null,
+      "icon_alt": "What",
+      "title": "可以炸什麼？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "蝦子、炸雞、蔬菜、天婦羅、薯條、甚至小魚乾都沒問題。"
+    },
+    {
+      "icon": null,
+      "icon_alt": "Why",
+      "title": "為什麼要選這個？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "小巧不佔空間，油量省，炸完直接當油壺收納，超方便。"
+    },
+    {
+      "icon": null,
+      "icon_alt": "How",
+      "title": "怎麼用最方便？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "炸完直接蓋上鍋蓋，油留著下次用，省時又省力。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-flyer_main.webp",
+      "url": null,
+      "alt": "コンパクトに、揚げたい。",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-flyer_slides_01.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_slides_02.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_slides_03.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      }
+    ],
+    "features": [
+      {
+        "filename": "uncle-benny-flyer_features_01.webp",
+        "url": null,
+        "alt": "features",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_features_02.webp",
+        "url": null,
+        "alt": "features",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_features_03.webp",
+        "url": null,
+        "alt": "features",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_features_04.webp",
+        "url": null,
+        "alt": "features",
+        "status": "ok"
+      }
+    ],
+    "background": {
+      "filename": "uncle-benny-flyer_main.webp",
+      "url": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_flyer_mainimg.jpg",
+      "status": "ok"
+    }
+  },
+  "notices": [],
+  "features": [
+    {
+      "filename": "_flyer_feature_01.jpg",
+      "title": "省油又健康，炸物不再有負擔",
+      "desc": "小容量設計，油量省，炸出來的食物一樣酥脆美味，健康又不浪費。",
+      "alt": "省油又健康，炸物不再有負擔"
+    },
+    {
+      "filename": "_flyer_feature_02.jpg",
+      "title": "加熱快，炸物不用等",
+      "desc": "鍋身小巧，油很快就熱好，臨時想吃炸物也能馬上動手。",
+      "alt": "加熱快，炸物不用等"
+    },
+    {
+      "filename": "_flyer_feature_03.jpg",
+      "title": "雙面瀝油架，炸完直接瀝油",
+      "desc": "附贈瀝油架，炸完直接放上去，油瀝乾更健康，還能立著放省空間。",
+      "alt": "雙面瀝油架，炸完直接瀝油"
+    },
+    {
+      "filename": "_flyer_feature_04.jpg",
+      "title": "炸鍋=油壺，收納超方便",
+      "desc": "炸完直接蓋上鍋蓋，油不用倒來倒去，廚房不再油膩膩。",
+      "alt": "炸鍋=油壺，收納超方便"
+    }
+  ],
+  "keywords": [
+    "#省油省空間",
+    "#小家庭必備",
+    "#炸鍋油壺二合一",
+    "#快速加熱",
+    "#炸物不麻煩",
+    "#廚房收納神器"
+  ],
+  "attributes": {}
+}

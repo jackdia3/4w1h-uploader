@@ -1,0 +1,144 @@
+{
+  "code": "pasta-pan",
+  "name": "マルチパスタパン",
+  "brand": "燕三条キッチン研究所",
+  "desc": "パスタ鍋はたっぷりの湯が入る、ずんどう形が一般的。\r\nでも「ロングパスタを、寝かせて茹でる」と発想を90度転換してみたら、\r\n少量の湯でも茹でられる、ひとつで3役こなす調理器具ができました。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "マルチパスタパン"
+    },
+    {
+      "label": "定価",
+      "value": "7,700円（税700円）"
+    },
+    {
+      "label": "品番",
+      "value": "4w1h_006"
+    },
+    {
+      "label": "サイズ",
+      "value": "約34×23×高さ 10.2cm"
+    },
+    {
+      "label": "材質",
+      "value": "本体/複合材 \r\n（アルミニウムステンレス鋼（クロム18％））(底の厚さ 約2.0mm)\r\n持ち手・蓋つまみ/フェノール樹脂\r\n蓋/ステンレス"
+    },
+    {
+      "label": "重量",
+      "value": "約1,380g"
+    },
+    {
+      "label": "満水容量",
+      "value": "約3.8L"
+    },
+    {
+      "label": "カラー",
+      "value": "ブラック（本体）"
+    },
+    {
+      "label": "原産国",
+      "value": "日本"
+    },
+    {
+      "label": "その他",
+      "value": "IH・ガス火対応"
+    }
+  ],
+  "wh": [
+    {
+      "title": "Who",
+      "text": "ひとりでも、夫婦でも、子どもがいても。"
+    },
+    {
+      "title": "When",
+      "text": "昼食や夕食を、ササッとすませたい時がある。"
+    },
+    {
+      "title": "What",
+      "text": "そこで出番が増えるのが、手軽なパスタ。"
+    },
+    {
+      "title": "how",
+      "text": "でも湯をすてる時と、後片付けの負担は結構重い。"
+    },
+    {
+      "title": "Why",
+      "text": "茹でる＋湯を切る＋炒めるを、ひとつの鍋でできないか？"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-pasta-pan_mainimg.webp",
+      "url": null,
+      "alt": "pasta-pan",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_thema.webp",
+      "url": null,
+      "alt": "pasta-pan",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-pasta-pan__pasta-pan_slide_01.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-pasta-pan__pasta-pan_slide_02.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-pasta-pan__pasta-pan_slide_03.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_feature_01.webp",
+      "alt": "ロングパスタを、最少の湯で茹でるには？",
+      "title": "ロングパスタを、最少の湯で茹でるには？",
+      "desc": "パスタの第1関門は深めの鍋で大量の湯を沸かすこと。水を入れる時もすてる時も、結構な力仕事です。そこで「最少の湯で茹でるには？」を考えたのがこの形。パスタの投入方向をタテからヨコへ転換し、寝かせて茹でれば深さは不要。水量も少なく済むので、すばやく湯を沸かせます。（パスタ量は約500gまで）",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_feature_02.webp",
+      "alt": "湯切れ抜群の波形スリットで、ザルいらず。",
+      "title": "湯切れ抜群の波形スリットで、ザルいらず。",
+      "desc": "意外と手間取る湯切り作業。できればザルなし、ワンアクションが理想です。それを可能にしたのが、フタに入れた波形スリット。パスタが飛び出ず湯をせき止めない隙間と、凹みでフタをホールドできる持ち手により、傾けるだけで湯切り完了。残さず湯を切るために、本体に水流を促す傾斜を付けました。",
+      "youtube": null
+    },
+    {
+      "filename": null,
+      "alt": "",
+      "title": "茹でて、湯を切り、炒めるまでをスムーズに。",
+      "desc": "パスタは手順ごとに道具が変わり、大きな洗い物が増えがちです。それなら茹でて炒めるまでの手順を、コレひとつで完結させようと、本体内側をふっ素で塗装。調理も後片付けの手間も、大幅カットを目指しました。",
+      "youtube": "https://www.youtube.com/embed/ZjaG08dg_pY"
+    },
+    {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_feature_04.webp",
+      "alt": "これからは鍋の持ち手が、フタ置き場の定位置に。",
+      "title": "これからは鍋の持ち手が、フタ置き場の定位置に。",
+      "desc": "湯が沸いたあとのストレスがフタの扱い。置き場に困るなら、開けた流れで持ち手にスッと差し込んでしまいましょう。約80度と約110度の2つの角度で立てられるので、茹でる間も水滴が付きにくい設計です。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-pasta-pan__pasta-pan_feature_05.webp",
+      "alt": "パスタだけじゃない、温野菜も爽快な湯切り感。",
+      "title": "パスタだけじゃない、温野菜も爽快な湯切り感。",
+      "desc": "火が通りやすく、均一に熱が伝わる浅形パンなので、野菜を茹でる時も大活躍。とうもろこしやアスパラガスなど、長さのある野菜も得意です。麺類以外は波形スリットの反対側から、勢いよく湯切りができます。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##パスタをヨコ茹で ##湯量少なめ ##湯切れ抜群 ##ザルいらず ##ワンパン料理 ##フタ置き場不要 ##温野菜も"
+}

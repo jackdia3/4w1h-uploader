@@ -1,0 +1,13 @@
+{
+  "4w1h": {
+    "main": ".mainimg img, img.hero",
+    "slides": "img[src*='_slide_']",
+    "details": "img.detail, img[src*='detail']",
+    "features": "img[src*='_feature_'], img[src*='feature']",
+    "backgrounds": {
+      "flyer": "_flyer_mainimg.jpg",
+      "hotsand": "_hotsand_mainimg.jpg"
+    },
+    "about": "img[src*='about']"
+  }
+} 

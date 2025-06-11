@@ -1,0 +1,138 @@
+{
+  "code": "flat-kettle",
+  "name": "平底水壺",
+  "brand": "燕三条キッチン研究所",
+  "desc": "燒水時必不可少的水壺，在日常生活中扮演著重要角色。由於其獨特的形狀，是否常常讓您在收納時感到困擾，或是一直放在爐子上呢？為了解決這些煩惱，現推出了一款如同平坦盒子的水壺。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "平底水壺"
+    },
+    {
+      "label": "定價",
+      "value": "6,050日圓（含稅550日圓）"
+    },
+    {
+      "label": "品號",
+      "value": "4w1h_007"
+    },
+    {
+      "label": "尺寸",
+      "value": "約22.7×22.7×高 7公分"
+    },
+    {
+      "label": "材質",
+      "value": "本體／不鏽鋼（鉻18％・鎳8％）（底部厚度約0.6mm）旋鈕・把手／酚醛樹脂"
+    },
+    {
+      "label": "重量",
+      "value": "約800克"
+    },
+    {
+      "label": "滿水容量",
+      "value": "約1.6公升"
+    },
+    {
+      "label": "顏色",
+      "value": "銀色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "適用於IH和瓦斯爐"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "每天，每天早晨，按照日常習慣。"
+    },
+    {
+      "title": "Who",
+      "text": "全家人都經常使用。"
+    },
+    {
+      "title": "What",
+      "text": "不僅可以燒開水，還可以煮茶。"
+    },
+    {
+      "title": "Why",
+      "text": "為什麼會難以取放、佔地方、形狀複雜呢？"
+    },
+    {
+      "title": "how",
+      "text": "提升收納性，設計成考慮到冷藏存放的形狀。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-flat-kettle_mainimg.webp",
+      "url": null,
+      "alt": "平底水壺",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_thema.webp",
+      "url": null,
+      "alt": "平底水壺",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-flat-kettle__flat-kettle_slide_01.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flat-kettle__flat-kettle_slide_02.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_feature_01.webp",
+      "alt": "重新檢視各個零件，將水壺變成超薄型。",
+      "title": "重新檢視各個零件，將水壺變身為超薄型。",
+      "desc": "這款水壺的外觀與以往的水壺完全不同。一般來說，圓形的壺身和長長的壺嘴被壓縮，除了手柄外，壺身的高度被縮減到僅5厘米。通過設計成方形，雖然纖薄但仍能確保1.6升的容量。與普通水壺相比，與火接觸的底面更寬，因此沸騰速度更快。也適用於IH爐。",
+      "youtube": null
+    },
+    {
+      "filename": null,
+      "alt": "抱歉，我沒有收到任何內容。請提供您想翻譯的日文文本。",
+      "title": "在冰箱中也能輕鬆取放的實用尺寸。",
+      "desc": "在開發時，我們對除了燒水以外的用途進行了詳細檢驗。設計上可以在水壺中煮出麥茶、烏龍茶、湯包等，然後直接放入冰箱儲存。我們重視的是不會碰到冰箱隔板，且方便取放的尺寸和設計。兩個手柄向左右打開時，幾乎不占空間，不會造成妨礙。",
+      "youtube": "https://www.youtube.com/embed/4KOF9LjZA7g"
+    },
+    {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_feature_03.webp",
+      "alt": "食材的保存容器，具備可堆疊的穩定性。",
+      "title": "食材保存容器的穩定堆疊感。",
+      "desc": "冰箱是各種食材的儲存場所。因此，儲存容器是否可以堆疊也是一個重點。這個水壺不僅頂面和底面是平的，連左右打開的把手上方也很穩定，讓人放心。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_feature_04.webp",
+      "alt": "防止晃動、易於握持的兩個把手。",
+      "title": "防止晃動、易於握持的兩個手柄。",
+      "desc": "「4w1h」水壺特意設計成兩個把手，而不是一個。這是為了在傾斜水壺時不會晃動，能夠穩定操作。此外，水壺的材質選用了不易生鏽且耐用的不鏽鋼。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_feature_05.webp",
+      "alt": "即使只有一點點的寬度也能立起來，整齊地收納。",
+      "title": "即使是狹窄的空間也能豎立放置，整齊收納。",
+      "desc": "即使是放棄的抽屜角落，也能放入這款無浪費空間的簡潔水壺。可以直立放置，因此可以存放在文件盒中。請享受水壺與平底鍋等烹飪器具並排的劃時代景象。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##超薄型水壺 ##高儲存性 ##煮茶或高湯 ##冰箱儲存 ##雙手柄設計 ##可直立放置"
+}

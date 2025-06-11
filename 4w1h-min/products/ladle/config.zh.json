@@ -1,0 +1,129 @@
+{
+  "code": "ladle",
+  "name": "菱形湯勺",
+  "brand": "燕三条キッチン研究所",
+  "desc": "咖哩、燉菜、和風或中華風的勾芡料理等，這些都是受歡迎的濃稠料理。但是用圓形的湯勺總是無法完全舀乾淨，濃稠的部分會殘留在鍋底，這一直是個困擾。因此，我們設計了一種像刮刀一樣的湯勺，能夠徹底刮乾淨不留殘餘。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "菱形勺子"
+    },
+    {
+      "label": "定價",
+      "value": "1,650日圓（含稅150日圓）"
+    },
+    {
+      "label": "品號",
+      "value": "4ｗ1ｈ_009"
+    },
+    {
+      "label": "尺寸",
+      "value": "約28.2×10.4×高 0.6cm\n（頭部/約8.5×8.5cm） （手柄/約1.6cm）"
+    },
+    {
+      "label": "材質",
+      "value": "矽膠樹脂（芯材/不銹鋼）"
+    },
+    {
+      "label": "耐熱溫度",
+      "value": "約200℃"
+    },
+    {
+      "label": "重量",
+      "value": "約110克"
+    },
+    {
+      "label": "容量",
+      "value": "約50毫升"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "可懸掛式收納"
+    }
+  ],
+  "wh": [
+    {
+      "title": "Who",
+      "text": "有食量大的家庭成員或會準備預先料理的自炊類型。"
+    },
+    {
+      "title": "What",
+      "text": "拿手料理是家人也喜愛的、可以增加份量的勾芡料理。"
+    },
+    {
+      "title": "When",
+      "text": "儘管如此，飯後要和鍋底的殘渣奮鬥還是相當麻煩的。"
+    },
+    {
+      "title": "How",
+      "text": "但話說回來，用刮刀的話會增加清洗的工作。"
+    },
+    {
+      "title": "how",
+      "text": "圓圓的、深深的，無法完全舀起，湯勺的形狀是正確的嗎？"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-ladle_mainimg.webp",
+      "url": null,
+      "alt": "ladle",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-ladle__ladle_thema.webp",
+      "url": null,
+      "alt": "ladle",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-ladle__ladle_slide_01.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-ladle__ladle_feature_01.webp",
+      "alt": "徹底刮乾淨，讓咖哩也清爽無比。",
+      "title": "刮到角落，讓咖哩也乾乾淨淨。",
+      "desc": "這是一款結合了湯勺和刮刀功能的廚具，增強了刮除的功能。矽膠的直線邊緣能夠緊密貼合，不會刮傷平底鍋，輕鬆去除醬料。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-ladle__ladle_feature_04.webp",
+      "alt": "方便品嚐和擺盤的三角注口。",
+      "title": "方便品嚐和擺盤的三角形注口。",
+      "desc": "由於菱形的形狀，出現了三個在精細作業中發揮力量的角。在品嚐或將食物盛入小碗時，這種設計在精準倒入時非常實用。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-ladle__ladle_feature_03.webp",
+      "alt": "不分慣用手，插入順暢。",
+      "title": "不分慣用手，插入順暢。",
+      "desc": "無論是右撇子還是左撇子，都可以在舒適自然的手部角度下輕鬆插入，並以最小的動作舀取。建議搭配菱形平底鍋一起使用。",
+      "youtube": null
+    },
+    {
+      "filename": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_ladle_feature_03.png",
+      "alt": "不易積聚污垢，保持潔淨持久。",
+      "title": "不易積聚污垢，保持清潔持久。",
+      "desc": "本體的握把部分也無縫隙地覆蓋了矽膠，不易積聚污垢，顏色轉移也不明顯。材質排水性良好，亦可使用洗碗機清洗。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##可刮除 ##3口量勺 ##方便品嚐 ##適合小碗 ##左右手皆可使用 ##可用洗碗機清洗 ##與菱形平底鍋絕佳搭配"
+}

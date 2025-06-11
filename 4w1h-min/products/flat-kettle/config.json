@@ -1,0 +1,138 @@
+{
+  "code": "flat-kettle",
+  "name": "フラットケトル",
+  "brand": "燕三条キッチン研究所",
+  "desc": "湯を沸かすのに必要な、毎日の生活に欠かせないケトル。\r\nその独特な形ゆえ収納に困ったり、コンロに置きっぱなしになっていませんか？\r\nそんな悩みを解消する、平らな箱のようなケトルができました。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "フラットケトル"
+    },
+    {
+      "label": "定価",
+      "value": "6,050円（税550円）"
+    },
+    {
+      "label": "品番",
+      "value": "4w1h_007"
+    },
+    {
+      "label": "サイズ",
+      "value": "約22.7×22.7×高さ 7cm"
+    },
+    {
+      "label": "材質",
+      "value": "本体/ステンレス鋼(クロム18％・ニッケル8％)(底の厚さ 約0.6mm)つまみ・取っ手/フェノール樹脂"
+    },
+    {
+      "label": "重量",
+      "value": "約800g"
+    },
+    {
+      "label": "満水容量",
+      "value": "約1.6L"
+    },
+    {
+      "label": "カラー",
+      "value": "シルバー（本体）"
+    },
+    {
+      "label": "原産国",
+      "value": "日本"
+    },
+    {
+      "label": "その他",
+      "value": "IH・ガス火対応"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "毎日、毎朝、ルーティンで。"
+    },
+    {
+      "title": "Who",
+      "text": "家族みんなが多用する。"
+    },
+    {
+      "title": "What",
+      "text": "湯を沸かすだけでなく、お茶を煮出したりすることも。"
+    },
+    {
+      "title": "Why",
+      "text": "出し入れしにくく、場所をとる、複雑な形なのはなぜ？"
+    },
+    {
+      "title": "how",
+      "text": "収納性をアップして、冷蔵ストックまで想定した形に。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-flat-kettle_mainimg.webp",
+      "url": null,
+      "alt": "flat-kettle",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_thema.webp",
+      "url": null,
+      "alt": "flat-kettle",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-flat-kettle__flat-kettle_slide_01.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flat-kettle__flat-kettle_slide_02.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_feature_01.webp",
+      "alt": "各パーツを見直して、ケトルを超薄形に変身。",
+      "title": "各パーツを見直して、ケトルを超薄形に変身。",
+      "desc": "これまでのケトルとは、まったく異なる見た目が特徴。一般的には丸いボディや長い注ぎ口を圧縮し、持ち手を除く本体高さを5cmまで薄くしました。四角にすることで、スリムなのに1.6ℓもの容量を確保。普通のケトルより火と接する底面が広く、沸騰までがスピーディー。IHにも対応しています。",
+      "youtube": null
+    },
+    {
+      "filename": null,
+      "alt": "",
+      "title": "冷蔵庫でも出し入れしやすい、機能的なサイズ。",
+      "desc": "開発時には湯沸かし以外の用途も大検証。麦茶やウーロン茶、だしパックなどをケトルで煮出したあと、そのまま冷蔵庫にストックできる設計に。重視したのは冷蔵庫の仕切りにぶつからず、出し入れしやすいサイズとデザイン。2本のハンドルは、左右に開けばほぼノースペースになり、じゃまになりません。",
+      "youtube": "https://www.youtube.com/embed/4KOF9LjZA7g"
+    },
+    {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_feature_03.webp",
+      "alt": "食材の保存容器を、積み重ねられる安定感。",
+      "title": "食材の保存容器を、積み重ねられる安定感。",
+      "desc": "冷蔵庫はさまざまな食材のストック場所。そのため保存容器などを、積み重ねられるかどうかもポイントでした。このケトルは天面と底面がフラットなだけでなく、左右に開くハンドルの上まで安定感があるので安心です。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_feature_04.webp",
+      "alt": "グラつきを防止する、持ちやすい2本のハンドル。",
+      "title": "グラつきを防止する、持ちやすい2本のハンドル。",
+      "desc": "「4w1h」のケトルは、あえて持ち手を1本ではなく、2本にしています。これは本体を傾けた時にグラつかず、安定して扱うために配慮したもの。また本体の素材にはサビにくくて長持ちする、ステンレスを採用しました。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-flat-kettle__flat-kettle_feature_05.webp",
+      "alt": "わずかな幅でも立てて置けて、すっきり収まる。",
+      "title": "わずかな幅でも立てて置けて、すっきり収まる。",
+      "desc": "諦めていた引き出しの隅っこにも、ムダのないすっきりボディのこのケトルなら入れられます。タテ置きできるのでファイルボックス収納可能。ケトルがフライパンなどの調理器具と並ぶ、画期的な光景を満喫してください。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##超薄形ケトル ##高い収納性 ##お茶やだしを煮出す ##冷蔵庫にストック ##2本の持ち手 ##タテ置きできる"
+}

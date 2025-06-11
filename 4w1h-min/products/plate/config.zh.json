@@ -1,0 +1,129 @@
+{
+  "code": "plate",
+  "name": "解凍板",
+  "brand": "燕三条キッチン研究所",
+  "desc": "有工作的日子裡，無論早晚，準備餐食都是與時間的一場小戰鬥。因此，我們檢驗了在忙碌日子中大顯身手的冷凍食材的烹調過程。重新檢視了解凍方法後，發現了一個能提升美味的省時工具。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "解凍板"
+    },
+    {
+      "label": "定價",
+      "value": "4,400日圓（含稅400日圓）"
+    },
+    {
+      "label": "品號",
+      "value": "4w1h_005"
+    },
+    {
+      "label": "尺寸",
+      "value": "盤子 / 約21×15×高 2.3公分  \n蓋板托盤 / 約21.5×15.5×高 3.1公分"
+    },
+    {
+      "label": "材質",
+      "value": "板材 / 鋁合金（矽樹脂塗裝）\n            蓋托盤 / 聚碳酸酯"
+    },
+    {
+      "label": "重量",
+      "value": "約680g（盤子/ 約420g，蓋托盤/ 約130g（每片））"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "平日總是忙忙碌碌的，吃飯的時間也常常被催促。"
+    },
+    {
+      "title": "Who",
+      "text": "給媽媽或爸爸，還有獨自生活的人。"
+    },
+    {
+      "title": "What",
+      "text": "冷凍食材是日常料理的強大助手。"
+    },
+    {
+      "title": "Why",
+      "text": "自然解凍需要時間，而用微波爐解凍總是失敗。"
+    },
+    {
+      "title": "Why",
+      "text": "縮短解凍和去除粗熱的時間，正是減輕烹飪負擔的竅門。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-plate_mainimg.webp",
+      "url": null,
+      "alt": "plate",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-plate__plate_thema.webp",
+      "url": null,
+      "alt": "plate",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-plate__plate_slide_01.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-plate__plate_slide_02.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-plate__plate_slide_03.webp",
+        "url": null,
+        "alt": "幻燈片",
+        "status": "ok"
+      }
+    ],
+    "notice_img": null
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-plate__plate_feature_03.webp",
+      "alt": "接水盤大幅縮短了解凍時間。",
+      "title": "接水盤大幅縮短了解凍時間。",
+      "desc": "基本套裝包括一個盤子和兩個可以當作蓋子的覆蓋托盤。將溫水倒入作為接水盤的覆蓋托盤中，然後將冷凍的薄切豬里脊肉（※）放在盤子上約5分鐘。當表面開始變得濕潤時，翻面再放約5分鐘。雖然發泡托盤中的肉因霜而變得硬邦邦，但使用「解凍盤」約10分鐘後即可將肉取下，達到可烹調的狀態。<br>※解凍2mm厚的豬里脊肉180g：室溫26℃，使用約380cc（至最大水位線）的溫水（40℃）",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-plate__plate_feature_04.webp",
+      "alt": "無論是使用時還是收納時，都不佔空間，適合各種場所。",
+      "title": "無論是使用時還是收納時，都不佔空間，適合各種場所。",
+      "desc": "即使在狹小的廚房也能輕鬆使用的A5尺寸。雖然體積小，但可以放置厚切肉、整塊雞腿肉、魚片等。可以當作蓋子的接水托盤可以重疊存放，因此不佔空間。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-plate__plate_feature_05.webp",
+      "alt": "熱騰騰的米飯迅速冷卻。",
+      "title": "熱騰騰的白飯，迅速冷卻。",
+      "desc": "不僅解凍，還能快速去除餘熱。只需在托盤中加水，將熱騰騰的飯放在板子上，即可冷卻至易於冷凍的溫度。放在便當盒中的飯（※），在22分鐘內溫度下降了38℃。<br>※使用不銹鋼製的便當盒去除餘熱：室溫21℃，使用78℃的飯。",
+      "youtube": null
+    },
+    {
+      "filename": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_plate_feature_05.jpg",
+      "alt": "出色的瀝水效果，讓清理工作也能節省時間。",
+      "title": "出色的瀝水效果，讓清理工作也能節省時間。",
+      "desc": "盤子背面的鋸齒狀鰭片設計，考慮到了清洗後的瀝水功能。鰭片設置了適當的角度，使水能順著流下。表面則採用不易沾污且便於清理的平坦形狀。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "##縮短解凍時間 ##滴水去除 ##減壓 ##提升美味 ##緊湊設計 ##去除米飯餘熱 ##卓越的瀝水能力"
+}
