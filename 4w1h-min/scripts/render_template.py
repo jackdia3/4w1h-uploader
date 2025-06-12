@@ -7,6 +7,21 @@ import sys
 from jinja2 import Environment, FileSystemLoader
 from pathlib import Path
 
+# 允許的規格表欄位
+ALLOWED_SPEC_KEYS = [
+    "型號",
+    "尺寸",
+    "鍋子尺寸",
+    "重量",
+    "材質",
+    "滿水容量",
+    "耐熱溫度",
+    "容量",
+    "顏色",
+    "原產國",
+    "其他"
+]
+
 # 基礎注意事項（所有商品通用）
 DEFAULT_NOTICES = [
     "原廠授權公司貨，請放心選購。",
@@ -75,7 +90,7 @@ def render_template(config_path, output_path=None):
             for feature in config["features"]
         ],
         "hashtags": config["hashtags"].split(),
-        "spec": {item["label"]: item["value"] for item in config["spec"]},
+        "spec": {item["label"]: item["value"] for item in config["spec"] if item["label"] in ALLOWED_SPEC_KEYS},
         "notices": merge_notices(config.get("notices", []))  # 合併基礎注意事項
     }
 

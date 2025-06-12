@@ -13,6 +13,21 @@ lang = None
 if len(sys.argv) > 2:
     lang = sys.argv[2].lower()
 
+# 允許的規格表欄位
+ALLOWED_SPEC_KEYS = [
+    "型號",
+    "尺寸",
+    "鍋子尺寸",
+    "重量",
+    "材質",
+    "滿水容量",
+    "耐熱溫度",
+    "容量",
+    "顏色",
+    "原產國",
+    "其他"
+]
+
 BASE = pathlib.Path(__file__).resolve().parents[1]
 PROD = BASE / "products" / prod_code
 CONFIG_PATH = PROD / "config.json"
@@ -102,10 +117,11 @@ def generate_spec_html(spec):
     html = '<table class="spec">\n'
     html += '    <tbody>\n'
     for key, value in spec.items():
-        html += f'        <tr>\n'
-        html += f'            <th>{key}</th>\n'
-        html += f'            <td>{value}</td>\n'
-        html += f'        </tr>\n'
+        if key in ALLOWED_SPEC_KEYS:
+            html += f'        <tr>\n'
+            html += f'            <th>{key}</th>\n'
+            html += f'            <td>{value}</td>\n'
+            html += f'        </tr>\n'
     html += '    </tbody>\n'
     html += '</table>'
     return html
