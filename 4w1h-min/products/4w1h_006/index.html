@@ -1,0 +1,627 @@
+
+<style>
+    /* ========== 共用區 ========== */
+    body {
+        font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .full-img {
+        display: block;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        height: auto;
+    }
+
+    .center-img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    /* 主要內容區塊寬度統一 */
+    .txt-wrap,
+    .spec,
+    .tags,
+    .notice,
+    .wh-containers {
+        max-width: 62%;
+        margin: 2.2em auto;
+    }
+
+    .txt-wrap {
+        line-height: 1;
+        text-align: left;
+    }
+
+    .tags {
+        text-align: center;
+        font-size: 0.9em;
+        color: #888;
+    }
+
+    /* 產品特點列表 */
+    .feature-list {
+        list-style: none;
+        padding-left: 1.4em;
+    }
+
+    .feature-list li {
+        position: relative;
+        margin: 0.9em 0;
+    }
+
+    .feature-list li::before {
+        content: "•";
+        position: absolute;
+        left: -1.2em;
+    }
+
+    /* 規格表格 */
+    .spec {
+        border-collapse: collapse;
+        font-size: 1em;
+        width: 100%;
+        max-width: 800px;
+        border: 1px solid #e9ecef;
+        margin: 2em auto;
+    }
+
+    .spec .note {
+        color: #c00;
+        font-weight: 500;
+    }
+
+    .spec th,
+    .spec td {
+        border: 1px solid #e9ecef;
+        padding: 1em;
+        text-align: left;
+    }
+
+    .spec th {
+        background: #f8f9fa;
+        width: 30%;
+        font-weight: 600;
+    }
+
+    /* 主文字區塊 */
+    .main-text {
+        max-width: 700px;
+        margin: 2em auto;
+        text-align: left;
+        font-size: 1em;
+    }
+
+    /* 主圖與主文字同寬容器 */
+    .main-block {
+        max-width: 900px;
+        margin: 0 auto 2em auto;
+        text-align: center;
+        position: relative;
+    }
+
+    .main-block img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto 1.2em auto;
+    }
+
+    .main-block .center-img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        max-width: 180px;
+        width: 32vw;
+        margin: 0;
+    }
+
+    /* YouTube 影片區塊 */
+    .youtube {
+        text-align: center;
+        margin: 2em auto 1.5em auto;
+        max-width: 700px;
+        margin-bottom: 2em;
+        margin-top: 2em;
+    }
+
+    .youtube iframe {
+        width: 100%;
+        max-width: 100%;
+        aspect-ratio: 16/9;
+        height: auto;
+        display: inline-block;
+        border: none;
+    }
+
+    /* hero區塊 */
+    .hero-section {
+        position: relative;
+        width: 100vw;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        overflow: hidden;
+        background: #fff;
+    }
+
+    .hero-img {
+        width: 100vw;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .hero-logo {
+        text-align: center;
+    }
+
+    .hero-logo img {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        width: 200px;
+        text-align: center;
+    }
+
+    /* feature區塊 */
+    .feature-block {
+        max-width: 900px;
+        margin: 0 auto 2.5em auto;
+        text-align: center;
+    }
+
+    /* .feature-block img,
+    .feature-block iframe {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        display: block;
+    } */
+    .rte img.full-img,
+    .feature-block img.full-img {
+        width: 100%;
+        max-width: 900px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .feature-block .main-text {
+        text-align: left;
+        margin: 0 auto;
+        max-width: 100%;
+        margin-bottom: 2em;
+        margin-top: 1.5em;
+        max-width: 700px;
+    }
+
+    /* 標題圖統一樣式 */
+    .wh-title-img {
+        height: 48px;
+        vertical-align: baseline;
+    }
+
+    .wh-title-img-why {
+        margin-bottom: -10px;
+    }
+
+    /* hashtag區塊 */
+    .hashtag-box {
+        background-image: repeating-linear-gradient(45deg,
+                #f2f3f4,
+                #f2f3f4 4px,
+                #f9f9f9 4px,
+                #f9f9f9 8px);
+        color: #777;
+        box-sizing: border-box;
+        border: 1px solid #e9ecef;
+        padding: 12px 16px;
+        margin: 2em auto;
+        font-size: 12px;
+        line-height: 1.8;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    /* 響應式設計 */
+    @media (max-width: 768px) {
+
+        .rte img.full-img,
+        .feature-block img.full-img {
+
+            width: 100vw;
+            max-width: none;
+            /* 移除原本的 max-width 限制 */
+            margin-left: calc(-50vw + 50%);
+        }
+
+        .main-text,
+        .feature-block {
+            max-width: 92%;
+            margin: 0 auto;
+            margin-bottom: 2em;
+            margin-top: 1.5em;
+        }
+
+        .main-text .p1 {
+            margin-top: 1.2em;
+            margin-bottom: 1.8em;
+        }
+
+        .main-block .center-img {
+            width: 30vw;
+            max-width: 320px;
+        }
+    }
+
+    /* Berry 間距優化：main-text 內段落行距與段距 */
+    .main-text .p1 {
+        line-height: 1.8;
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+    }
+</style>
+
+<!-- ===== HERO ===== -->
+<section class="hero-section">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006_hero.webp"
+        class="hero-img"
+        alt="4w1h_006"
+        loading="lazy"
+    >
+</section>
+<div class="hero-logo">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4W1H_logo.png"
+        alt="4W1H 品牌標誌"
+    >
+</div>
+<div class="main-text">
+    
+</div>
+
+<!-- When / Who / What / Why -------------------------------------------->
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+<article>
+    <div class="main-text">
+        <p style="text-align: center" class="p1">
+            <img
+                height="36"
+                width="220"
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006_thema.webp"
+                alt="最快速地將義大利麵端上餐桌。"
+            >
+            <br>
+        </p>
+        <p class="p1">
+            一般的的義大利麵鍋通常是深桶型，可以裝滿大量的水。然而，若將「長條義大利麵橫放著煮」這個想法轉換90度，就能用少量的水也能煮熟，並且成為一個能同時完成三種功能的烹飪器具。
+        </p>
+    </div>
+</article>
+
+<!-- 4W1H ----------------------------- -->
+<div class="wh-block" style="text-align: center">
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-who.png"
+            alt="Who"
+        >
+        <div class="main-text">
+            <p class="p1">
+                無論是一個人、夫妻，還是有小孩的家庭。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-when.png"
+            alt="When"
+        >
+        <div class="main-text">
+            <p class="p1">
+                有時候，我們只想快速解決午餐或晚餐。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-what.png"
+            alt="What"
+        >
+        <div class="main-text">
+            <p class="p1">
+                在這時候，簡單方便的義大利麵就派上用場了。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-how.png"
+            alt="how"
+        >
+        <div class="main-text">
+            <p class="p1">
+                但是倒水的時候和後續清理的負擔相當沉重。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-why.png"
+            alt="Why"
+        >
+        <div class="main-text">
+            <p class="p1">
+                能不能用一個鍋子就完成煮麵、瀝水、炒麵的所有步驟呢？
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<section id="feature" class="inview view">
+    <div class="containers">
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006__pasta-pan_feature_01.webp"
+                class="full-img"
+                alt="要用最少的水煮長條義大利麵該怎麼做呢？"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">要用最少的水煮長條義大利麵該怎麼做呢？</span>
+                    <br>煮義大利麵的第一個挑戰，就是要用深鍋煮大量的水。無論是加水還是倒水，都是一項不小的力氣活。因此，我們思考了「如何用最少的水煮麵？」而設計出這個形狀。將義大利麵從直立投入改為橫放平躺著煮，就不需要深鍋了。水量也可以減少，因此能更快地煮沸。（可煮的義大利麵量約為500克）
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006__pasta-pan_feature_02.webp"
+                class="full-img"
+                alt="波形縫隙設計，瀝水效果極佳，不需要濾網。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">波形縫隙設計，瀝水效果極佳，不需要濾網。</span>
+                    <br>意外地費時的瀝水作業。如果可以的話，沒有濾網、一步到位是理想的選擇。實現這一點的是蓋子上的波形縫隙。這些縫隙讓湯水不會溢出，同時不會阻擋水流，並且凹槽設計的把手可以固定蓋子，只需傾斜鍋子就能完成瀝水。為了徹底瀝乾湯水，鍋身特別設計了引導水流的傾斜角度。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            
+            <div class="youtube">
+                <iframe
+                    src="https://www.youtube.com/embed/ZjaG08dg_pY"
+                    title="順暢完成煮、瀝水、炒的所有步驟。"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                ></iframe>
+            </div>
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">順暢完成煮、瀝水、炒的所有步驟。</span>
+                    <br>煮義大利麵時，每個步驟都需要不同的工具，常常會增加大量的清洗工作。因此，我們設計了這款多功能義大利麵鍋，讓煮麵到炒麵的所有步驟都能在一個鍋子裡完成。鍋內側經過氟素塗層處理，旨在大幅減少烹飪和清理的麻煩。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006__pasta-pan_feature_04.webp"
+                class="full-img"
+                alt="從今以後，鍋子的把手就是蓋子的固定位置。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">從今以後，鍋子的把手就是蓋子的固定位置。</span>
+                    <br>煮沸後的麻煩就是蓋子的處理。如果不知道該把蓋子放哪裡，那就順手插入鍋子的把手上吧。這款設計可以在約80度和約110度兩個角度立起，讓煮麵時水滴不容易附著。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006__pasta-pan_feature_05.webp"
+                class="full-img"
+                alt="不僅僅是義大利麵，燙青菜也能輕鬆瀝乾。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">不僅僅是義大利麵，燙青菜也能輕鬆瀝乾。</span>
+                    <br>這款淺型鍋導熱均勻，火力容易穿透，煮蔬菜時也非常好用。像是玉米和蘆筍這類較長的蔬菜也能輕鬆處理。除了麵條之外，還可以從波形開口的另一側快速瀝水。
+                </p>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<!-- 尺寸示意 ---------------------------------------------------------- -->
+<div class="containers">
+    <div class="feature-block">
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006__pasta-pan_slide_01.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006__pasta-pan_slide_02.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_006__pasta-pan_slide_03.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+    </div>
+</div>
+
+<article>
+    <div class="hashtag-box">
+        <meta charset="UTF-8">
+        <p>
+            
+            ##橫向煮麵 
+            
+            ##少量水煮 
+            
+            ##瀝水超方便 
+            
+            ##免濾網 
+            
+            ##一鍋料理 
+            
+            ##免找鍋蓋放置處 
+            
+            ##溫野菜也行
+            
+        </p>
+    </div>
+</article>
+
+<!-- SPEC 表 ------------------------------------------------------------->
+<table class="spec">
+    <tbody>
+        
+        <tr>
+            <th>品名</th>
+            <td>多功能義大利麵鍋</td>
+        </tr>
+        
+        <tr>
+            <th>定價</th>
+            <td>7,700日圓（含稅700日圓）</td>
+        </tr>
+        
+        <tr>
+            <th>型號</th>
+            <td>4w1h_006</td>
+        </tr>
+        
+        <tr>
+            <th>尺寸</th>
+            <td>約34×23×高 10.2cm</td>
+        </tr>
+        
+        <tr>
+            <th>材質</th>
+            <td>本體/複合材質  
+（鋁合金不鏽鋼（鉻18％））（底部厚度 約2.0mm）  
+把手・蓋子旋鈕/酚醛樹脂  
+蓋子/不鏽鋼</td>
+        </tr>
+        
+        <tr>
+            <th>重量</th>
+            <td>約1,380公克</td>
+        </tr>
+        
+        <tr>
+            <th>滿水容量</th>
+            <td>約3.8公升</td>
+        </tr>
+        
+        <tr>
+            <th>顏色</th>
+            <td>黑色（本體）</td>
+        </tr>
+        
+        <tr>
+            <th>原產國</th>
+            <td>日本</td>
+        </tr>
+        
+        <tr>
+            <th>其他</th>
+            <td>適用於IH爐與瓦斯爐</td>
+        </tr>
+        
+    </tbody>
+</table>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<!-- 使用注意 ----------------------------------------------------------->
+<div class="feature-block">
+    <div class="main-text">
+        <p><span style="text-decoration: underline">注意事項</span></p>
+        <ul>
+            
+            <li style="text-align: left">原廠授權公司貨，請放心選購。</li>
+            
+            <li style="text-align: left">鑑賞期非試用期，經拆封使用過後無提供退換貨服務。</li>
+            
+            <li style="text-align: left">首次使用前請以中性清潔劑手洗並充分乾燥。</li>
+            
+            <li style="text-align: left">商品顏色會因拍照光線環境或手機螢幕色差等因素有所差異，依實際出貨為準。</li>
+            
+            <li style="text-align: left">商品細節如有疑問，歡迎聯繫客服。</li>
+            
+        </ul>
+        
+    </div>
+</div> 

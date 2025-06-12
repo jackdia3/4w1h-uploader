@@ -1,0 +1,622 @@
+
+<style>
+    /* ========== 共用區 ========== */
+    body {
+        font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .full-img {
+        display: block;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        height: auto;
+    }
+
+    .center-img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    /* 主要內容區塊寬度統一 */
+    .txt-wrap,
+    .spec,
+    .tags,
+    .notice,
+    .wh-containers {
+        max-width: 62%;
+        margin: 2.2em auto;
+    }
+
+    .txt-wrap {
+        line-height: 1;
+        text-align: left;
+    }
+
+    .tags {
+        text-align: center;
+        font-size: 0.9em;
+        color: #888;
+    }
+
+    /* 產品特點列表 */
+    .feature-list {
+        list-style: none;
+        padding-left: 1.4em;
+    }
+
+    .feature-list li {
+        position: relative;
+        margin: 0.9em 0;
+    }
+
+    .feature-list li::before {
+        content: "•";
+        position: absolute;
+        left: -1.2em;
+    }
+
+    /* 規格表格 */
+    .spec {
+        border-collapse: collapse;
+        font-size: 1em;
+        width: 100%;
+        max-width: 800px;
+        border: 1px solid #e9ecef;
+        margin: 2em auto;
+    }
+
+    .spec .note {
+        color: #c00;
+        font-weight: 500;
+    }
+
+    .spec th,
+    .spec td {
+        border: 1px solid #e9ecef;
+        padding: 1em;
+        text-align: left;
+    }
+
+    .spec th {
+        background: #f8f9fa;
+        width: 30%;
+        font-weight: 600;
+    }
+
+    /* 主文字區塊 */
+    .main-text {
+        max-width: 700px;
+        margin: 2em auto;
+        text-align: left;
+        font-size: 1em;
+    }
+
+    /* 主圖與主文字同寬容器 */
+    .main-block {
+        max-width: 900px;
+        margin: 0 auto 2em auto;
+        text-align: center;
+        position: relative;
+    }
+
+    .main-block img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto 1.2em auto;
+    }
+
+    .main-block .center-img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        max-width: 180px;
+        width: 32vw;
+        margin: 0;
+    }
+
+    /* YouTube 影片區塊 */
+    .youtube {
+        text-align: center;
+        margin: 2em auto 1.5em auto;
+        max-width: 700px;
+        margin-bottom: 2em;
+        margin-top: 2em;
+    }
+
+    .youtube iframe {
+        width: 100%;
+        max-width: 100%;
+        aspect-ratio: 16/9;
+        height: auto;
+        display: inline-block;
+        border: none;
+    }
+
+    /* hero區塊 */
+    .hero-section {
+        position: relative;
+        width: 100vw;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        overflow: hidden;
+        background: #fff;
+    }
+
+    .hero-img {
+        width: 100vw;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .hero-logo {
+        text-align: center;
+    }
+
+    .hero-logo img {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        width: 200px;
+        text-align: center;
+    }
+
+    /* feature區塊 */
+    .feature-block {
+        max-width: 900px;
+        margin: 0 auto 2.5em auto;
+        text-align: center;
+    }
+
+    /* .feature-block img,
+    .feature-block iframe {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        display: block;
+    } */
+    .rte img.full-img,
+    .feature-block img.full-img {
+        width: 100%;
+        max-width: 900px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .feature-block .main-text {
+        text-align: left;
+        margin: 0 auto;
+        max-width: 100%;
+        margin-bottom: 2em;
+        margin-top: 1.5em;
+        max-width: 700px;
+    }
+
+    /* 標題圖統一樣式 */
+    .wh-title-img {
+        height: 48px;
+        vertical-align: baseline;
+    }
+
+    .wh-title-img-why {
+        margin-bottom: -10px;
+    }
+
+    /* hashtag區塊 */
+    .hashtag-box {
+        background-image: repeating-linear-gradient(45deg,
+                #f2f3f4,
+                #f2f3f4 4px,
+                #f9f9f9 4px,
+                #f9f9f9 8px);
+        color: #777;
+        box-sizing: border-box;
+        border: 1px solid #e9ecef;
+        padding: 12px 16px;
+        margin: 2em auto;
+        font-size: 12px;
+        line-height: 1.8;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    /* 響應式設計 */
+    @media (max-width: 768px) {
+
+        .rte img.full-img,
+        .feature-block img.full-img {
+
+            width: 100vw;
+            max-width: none;
+            /* 移除原本的 max-width 限制 */
+            margin-left: calc(-50vw + 50%);
+        }
+
+        .main-text,
+        .feature-block {
+            max-width: 92%;
+            margin: 0 auto;
+            margin-bottom: 2em;
+            margin-top: 1.5em;
+        }
+
+        .main-text .p1 {
+            margin-top: 1.2em;
+            margin-bottom: 1.8em;
+        }
+
+        .main-block .center-img {
+            width: 30vw;
+            max-width: 320px;
+        }
+    }
+
+    /* Berry 間距優化：main-text 內段落行距與段距 */
+    .main-text .p1 {
+        line-height: 1.8;
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+    }
+</style>
+
+<!-- ===== HERO ===== -->
+<section class="hero-section">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005_hero.webp"
+        class="hero-img"
+        alt="型號：4w1h_005"
+        loading="lazy"
+    >
+</section>
+<div class="hero-logo">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4W1H_logo.png"
+        alt="4W1H 品牌標誌"
+    >
+</div>
+<div class="main-text">
+    
+</div>
+
+<!-- When / Who / What / Why -------------------------------------------->
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+<article>
+    <div class="main-text">
+        <p style="text-align: center" class="p1">
+            <img
+                height="36"
+                width="220"
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005_thema.webp"
+                alt="高效烹飪。"
+            >
+            <br>
+        </p>
+        <p class="p1">
+            在有工作的日子裡，無論是早上還是晚上，做飯總是在和時間賽跑。  
+因此，我們檢驗了在忙碌日子中大顯身手的冷凍食材的烹調過程。  
+重新審視解凍方法後，我們開發出了一款能提升美味的省時工具。
+        </p>
+    </div>
+</article>
+
+<!-- 4W1H ----------------------------- -->
+<div class="wh-block" style="text-align: center">
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-when.png"
+            alt="When"
+        >
+        <div class="main-text">
+            <p class="p1">
+                平日總是忙忙碌碌，吃飯時間總是被催促。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-who.png"
+            alt="Who"
+        >
+        <div class="main-text">
+            <p class="p1">
+                給媽媽、爸爸，或是獨居生活的你。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-what.png"
+            alt="What"
+        >
+        <div class="main-text">
+            <p class="p1">
+                冷凍食材是日常料理的好幫手。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-why.png"
+            alt="Why"
+        >
+        <div class="main-text">
+            <p class="p1">
+                自然解凍需要花費時間，而用微波爐解凍則常常失敗。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-why.png"
+            alt="Why"
+        >
+        <div class="main-text">
+            <p class="p1">
+                縮短解凍和去除餘熱的時間，正是減輕烹飪負擔的訣竅。
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<section id="feature" class="inview view">
+    <div class="containers">
+        
+        <div class="feature-block">
+            
+            
+            <div class="youtube">
+                <iframe
+                    src="https://www.youtube.com/embed/PP5nV3Fe_44"
+                    title="以壓倒性的解凍力，節省時間又減少滴水。"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                ></iframe>
+            </div>
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">以壓倒性的解凍力，節省時間又減少滴水。</span>
+                    <br>為了縮短料理時間，我們專注於解凍能力。這款解凍プレート可以讓每天使用的冷凍食材瞬間脫離、切割和加熱。快速解凍的秘密在於盤子背面的鋸齒狀散熱片（專利）。由於解凍時間短，食材的滴水量被降到最低，讓美味和口感都得到提升。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005__plate_feature_02.webp"
+                class="full-img"
+                alt="水接盤大幅縮短解凍時間。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">水接盤大幅縮短解凍時間。</span>
+                    <br>基本套組包含一片解凍板和兩片可作為蓋子的托盤。將溫水倒入作為接水盤的托盤中，然後將冷凍的薄切豬里脊肉（※）放在解凍板上，約5分鐘。當表面開始變得濕潤時，翻面再等約5分鐘。即使發泡托盤上的肉還是結霜狀態，但使用「解凍板」約10分鐘後就能輕鬆將肉取下，達到可烹調的狀態。
+
+※解凍2mm厚的豬里脊肉180g：室溫26℃，使用約380cc（至最高水位線）的溫水（40℃）
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005__plate_feature_03.webp"
+                class="full-img"
+                alt="無論是使用時還是收納時，都不占空間，適合各種場所。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">無論是使用時還是收納時，都不占空間，適合各種場所。</span>
+                    <br>即使在狹小的廚房裡也能輕鬆使用的A5尺寸。雖然小巧，但可以放置厚切肉、雞腿肉塊、魚片等食材。蓋子兼作接水托盤，能夠重疊收納，不佔空間。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005__plate_feature_04.webp"
+                class="full-img"
+                alt="熱騰騰的白飯，快速降溫。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">熱騰騰的白飯，快速降溫。</span>
+                    <br>不僅可以快速解凍，還能迅速去除餘熱。只需在托盤中加水，然後將熱騰騰的飯放在解凍板上，就能迅速降溫至適合冷凍的溫度。放在便當盒裡的飯（※），溫度在22分鐘內就下降了38℃。
+
+※使用不鏽鋼製的便當盒進行餘熱去除：室溫21℃，飯的溫度為78℃。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005__plate_feature_05.webp"
+                class="full-img"
+                alt="出色的瀝水效果，讓清理後續更省時。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">出色的瀝水效果，讓清理後續更省時。</span>
+                    <br>盤子背面的鋸齒狀散熱片，設計時已考慮到清洗後的瀝水需求。沿著散熱片的水流設計，使水能順暢流走，並設有適當的角度。表面則採用不易沾污的平坦形狀，讓清理變得更加輕鬆。
+                </p>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<!-- 尺寸示意 ---------------------------------------------------------- -->
+<div class="containers">
+    <div class="feature-block">
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005__plate_slide_01.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005__plate_slide_02.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_005__plate_slide_03.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+    </div>
+</div>
+
+<article>
+    <div class="hashtag-box">
+        <meta charset="UTF-8">
+        <p>
+            
+            ##快速解凍 
+            
+            ##滴水不漏 
+            
+            ##減壓無負擔 
+            
+            ##美味提升 
+            
+            ##輕巧方便 
+            
+            ##米飯快速降溫 
+            
+            ##卓越瀝水力
+            
+        </p>
+    </div>
+</article>
+
+<!-- SPEC 表 ------------------------------------------------------------->
+<table class="spec">
+    <tbody>
+        
+        <tr>
+            <th>品名</th>
+            <td>解凍板</td>
+        </tr>
+        
+        <tr>
+            <th>定價</th>
+            <td>4,400日圓（含稅400日圓）</td>
+        </tr>
+        
+        <tr>
+            <th>型號</th>
+            <td>型號：4w1h_005</td>
+        </tr>
+        
+        <tr>
+            <th>尺寸</th>
+            <td>盤子 / 約21×15×高 2.3cm  
+蓋托盤 / 約21.5×15.5×高 3.1cm</td>
+        </tr>
+        
+        <tr>
+            <th>材質</th>
+            <td>板材 / 鋁合金（矽膠樹脂塗層）
+蓋托盤 / 聚碳酸酯</td>
+        </tr>
+        
+        <tr>
+            <th>重量</th>
+            <td>約680g（解凍板：約420g，蓋板：約130g（每片））</td>
+        </tr>
+        
+        <tr>
+            <th>顏色</th>
+            <td>黑色（本體）</td>
+        </tr>
+        
+        <tr>
+            <th>原產國</th>
+            <td>日本</td>
+        </tr>
+        
+    </tbody>
+</table>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<!-- 使用注意 ----------------------------------------------------------->
+<div class="feature-block">
+    <div class="main-text">
+        <p><span style="text-decoration: underline">注意事項</span></p>
+        <ul>
+            
+            <li style="text-align: left">原廠授權公司貨，請放心選購。</li>
+            
+            <li style="text-align: left">鑑賞期非試用期，經拆封使用過後無提供退換貨服務。</li>
+            
+            <li style="text-align: left">首次使用前請以中性清潔劑手洗並充分乾燥。</li>
+            
+            <li style="text-align: left">商品顏色會因拍照光線環境或手機螢幕色差等因素有所差異，依實際出貨為準。</li>
+            
+            <li style="text-align: left">商品細節如有疑問，歡迎聯繫客服。</li>
+            
+        </ul>
+        
+    </div>
+</div> 

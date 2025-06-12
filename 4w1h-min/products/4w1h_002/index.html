@@ -1,0 +1,599 @@
+
+<style>
+    /* ========== 共用區 ========== */
+    body {
+        font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .full-img {
+        display: block;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        height: auto;
+    }
+
+    .center-img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    /* 主要內容區塊寬度統一 */
+    .txt-wrap,
+    .spec,
+    .tags,
+    .notice,
+    .wh-containers {
+        max-width: 62%;
+        margin: 2.2em auto;
+    }
+
+    .txt-wrap {
+        line-height: 1;
+        text-align: left;
+    }
+
+    .tags {
+        text-align: center;
+        font-size: 0.9em;
+        color: #888;
+    }
+
+    /* 產品特點列表 */
+    .feature-list {
+        list-style: none;
+        padding-left: 1.4em;
+    }
+
+    .feature-list li {
+        position: relative;
+        margin: 0.9em 0;
+    }
+
+    .feature-list li::before {
+        content: "•";
+        position: absolute;
+        left: -1.2em;
+    }
+
+    /* 規格表格 */
+    .spec {
+        border-collapse: collapse;
+        font-size: 1em;
+        width: 100%;
+        max-width: 800px;
+        border: 1px solid #e9ecef;
+        margin: 2em auto;
+    }
+
+    .spec .note {
+        color: #c00;
+        font-weight: 500;
+    }
+
+    .spec th,
+    .spec td {
+        border: 1px solid #e9ecef;
+        padding: 1em;
+        text-align: left;
+    }
+
+    .spec th {
+        background: #f8f9fa;
+        width: 30%;
+        font-weight: 600;
+    }
+
+    /* 主文字區塊 */
+    .main-text {
+        max-width: 700px;
+        margin: 2em auto;
+        text-align: left;
+        font-size: 1em;
+    }
+
+    /* 主圖與主文字同寬容器 */
+    .main-block {
+        max-width: 900px;
+        margin: 0 auto 2em auto;
+        text-align: center;
+        position: relative;
+    }
+
+    .main-block img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto 1.2em auto;
+    }
+
+    .main-block .center-img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        max-width: 180px;
+        width: 32vw;
+        margin: 0;
+    }
+
+    /* YouTube 影片區塊 */
+    .youtube {
+        text-align: center;
+        margin: 2em auto 1.5em auto;
+        max-width: 700px;
+        margin-bottom: 2em;
+        margin-top: 2em;
+    }
+
+    .youtube iframe {
+        width: 100%;
+        max-width: 100%;
+        aspect-ratio: 16/9;
+        height: auto;
+        display: inline-block;
+        border: none;
+    }
+
+    /* hero區塊 */
+    .hero-section {
+        position: relative;
+        width: 100vw;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        overflow: hidden;
+        background: #fff;
+    }
+
+    .hero-img {
+        width: 100vw;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .hero-logo {
+        text-align: center;
+    }
+
+    .hero-logo img {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        width: 200px;
+        text-align: center;
+    }
+
+    /* feature區塊 */
+    .feature-block {
+        max-width: 900px;
+        margin: 0 auto 2.5em auto;
+        text-align: center;
+    }
+
+    /* .feature-block img,
+    .feature-block iframe {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        display: block;
+    } */
+    .rte img.full-img,
+    .feature-block img.full-img {
+        width: 100%;
+        max-width: 900px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .feature-block .main-text {
+        text-align: left;
+        margin: 0 auto;
+        max-width: 100%;
+        margin-bottom: 2em;
+        margin-top: 1.5em;
+        max-width: 700px;
+    }
+
+    /* 標題圖統一樣式 */
+    .wh-title-img {
+        height: 48px;
+        vertical-align: baseline;
+    }
+
+    .wh-title-img-why {
+        margin-bottom: -10px;
+    }
+
+    /* hashtag區塊 */
+    .hashtag-box {
+        background-image: repeating-linear-gradient(45deg,
+                #f2f3f4,
+                #f2f3f4 4px,
+                #f9f9f9 4px,
+                #f9f9f9 8px);
+        color: #777;
+        box-sizing: border-box;
+        border: 1px solid #e9ecef;
+        padding: 12px 16px;
+        margin: 2em auto;
+        font-size: 12px;
+        line-height: 1.8;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    /* 響應式設計 */
+    @media (max-width: 768px) {
+
+        .rte img.full-img,
+        .feature-block img.full-img {
+
+            width: 100vw;
+            max-width: none;
+            /* 移除原本的 max-width 限制 */
+            margin-left: calc(-50vw + 50%);
+        }
+
+        .main-text,
+        .feature-block {
+            max-width: 92%;
+            margin: 0 auto;
+            margin-bottom: 2em;
+            margin-top: 1.5em;
+        }
+
+        .main-text .p1 {
+            margin-top: 1.2em;
+            margin-bottom: 1.8em;
+        }
+
+        .main-block .center-img {
+            width: 30vw;
+            max-width: 320px;
+        }
+    }
+
+    /* Berry 間距優化：main-text 內段落行距與段距 */
+    .main-text .p1 {
+        line-height: 1.8;
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+    }
+</style>
+
+<!-- ===== HERO ===== -->
+<section class="hero-section">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002_hero.webp"
+        class="hero-img"
+        alt="4w1h_002"
+        loading="lazy"
+    >
+</section>
+<div class="hero-logo">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4W1H_logo.png"
+        alt="4W1H 品牌標誌"
+    >
+</div>
+<div class="main-text">
+    
+</div>
+
+<!-- When / Who / What / Why -------------------------------------------->
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+<article>
+    <div class="main-text">
+        <p style="text-align: center" class="p1">
+            <img
+                height="36"
+                width="220"
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002_thema.webp"
+                alt="想要輕鬆炸出美味。"
+            >
+            <br>
+        </p>
+        <p class="p1">
+            相比煮或烤，「炸」可能需要更多的氣勢和決心。  
+希望能像煮一點點食物那樣簡單，最好連清理也能一氣呵成。  
+為了追求這種便利，我們設計出了這款方形小巧的炸鍋。
+        </p>
+    </div>
+</article>
+
+<!-- 4W1H ----------------------------- -->
+<div class="wh-block" style="text-align: center">
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-when.png"
+            alt="When"
+        >
+        <div class="main-text">
+            <p class="p1">
+                只為兩人份，只為便當。只需少量的油。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-what.png"
+            alt="What"
+        >
+        <div class="main-text">
+            <p class="p1">
+                蝦子天婦羅和串炸，這些油炸食物其實都蠻細長的。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-why.png"
+            alt="Why"
+        >
+        <div class="main-text">
+            <p class="p1">
+                炸鍋通常是圓形且很大，能不能做得更小巧一些呢？
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-how.png"
+            alt="How"
+        >
+        <div class="main-text">
+            <p class="p1">
+                您是否在尋找一款可以儲存油且節省空間的油炸鍋呢？
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<section id="feature" class="inview view">
+    <div class="containers">
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002__flyer_feature_01.webp"
+                class="full-img"
+                alt="由於油量少卻能達到足夠的深度，自然而然地就能減少用油量。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">由於油量少卻能達到足夠的深度，自然而然地就能減少用油量。</span>
+                    <br>「適合小空間生活的最佳油炸鍋尺寸是什麼？」我們針對這個問題進行了研究，並製作了這款油炸鍋。注意到大多數油炸食材都是細長形狀，我們將鍋子的寬度縮小，設計成方形，結果發現它的大小幾乎與一片豬排相同。這款鍋非常適合1到2人的油炸需求。由於注入的油會有足夠的深度，因此可以減少用油量，更加健康。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002__flyer_feature_02.webp"
+                class="full-img"
+                alt="由於容量較小，容易加熱，油炸速度快。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">由於容量較小，容易加熱，油炸速度快。</span>
+                    <br>這款設計緊湊的油炸鍋能快速加熱油脂，讓你在短時間內輕鬆炸好食材。放在爐灶上時非常合適，即使旁邊的爐灶上有其他物品，也能輕鬆使用。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002__flyer_feature_03.webp"
+                class="full-img"
+                alt="雙面可用的2WAY網架，讓瀝油更有效率。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">雙面可用的2WAY網架，讓瀝油更有效率。</span>
+                    <br>附屬配件也非常齊全。將平放用的網架翻轉過來，就能變身為可豎立放置蔬菜炸物或豬排等食材的雙用網架！大幅傾斜設計提升瀝油效率。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002__flyer_feature_04.webp"
+                class="full-img"
+                alt="可以直接放在廚房當作油壺使用。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">可以直接放在廚房當作油壺使用。</span>
+                    <br>讓炸物變得麻煩的，就是清理工作。「4w1h」重新設計了這個讓人不禁覺得「好麻煩…」的過程。調理後可以直接作為油壺使用，讓油的存放變得更加方便。由於設計緊湊，不佔空間，放著就能讓「炸→清理→再炸」的流程更加順暢。
+                </p>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<!-- 尺寸示意 ---------------------------------------------------------- -->
+<div class="containers">
+    <div class="feature-block">
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002__flyer_slide_01.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002__flyer_slide_02.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_002__flyer_slide_03.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+    </div>
+</div>
+
+<article>
+    <div class="hashtag-box">
+        <meta charset="UTF-8">
+        <p>
+            
+            ##少油 
+            
+            ##快速炸熟 
+            
+            ##油壺 
+            
+            ##豬排尺寸 
+            
+            ##簡單清理 
+            
+            ##省空間
+            
+        </p>
+    </div>
+</article>
+
+<!-- SPEC 表 ------------------------------------------------------------->
+<table class="spec">
+    <tbody>
+        
+        <tr>
+            <th>品名</th>
+            <td>緊湊型油炸鍋</td>
+        </tr>
+        
+        <tr>
+            <th>定價</th>
+            <td>6,050日圓（含稅550日圓）</td>
+        </tr>
+        
+        <tr>
+            <th>型號</th>
+            <td>4w1h_002</td>
+        </tr>
+        
+        <tr>
+            <th>尺寸</th>
+            <td>約24×13×高 10cm（深度 約8cm）（底部厚度 約1.2mm）</td>
+        </tr>
+        
+        <tr>
+            <th>材質</th>
+            <td>本體 / 鐵（氟樹脂塗膜加工）
+蓋子・濾網 / 不鏽鋼
+蓋子握把 / 酚醛樹脂
+濾網 / 鐵（鉻鍍層）</td>
+        </tr>
+        
+        <tr>
+            <th>重量</th>
+            <td>約615g（僅鍋身） / 約1,060g（包含本體、蓋子、濾網、網架）</td>
+        </tr>
+        
+        <tr>
+            <th>滿水容量</th>
+            <td>約1.9L</td>
+        </tr>
+        
+        <tr>
+            <th>顏色</th>
+            <td>黑色（本體）</td>
+        </tr>
+        
+        <tr>
+            <th>原產國</th>
+            <td>日本</td>
+        </tr>
+        
+        <tr>
+            <th></th>
+            <td>※目皿和網架可單獨購買。</td>
+        </tr>
+        
+        <tr>
+            <th>其他</th>
+            <td>適用於IH爐與瓦斯爐</td>
+        </tr>
+        
+    </tbody>
+</table>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<!-- 使用注意 ----------------------------------------------------------->
+<div class="feature-block">
+    <div class="main-text">
+        <p><span style="text-decoration: underline">注意事項</span></p>
+        <ul>
+            
+            <li style="text-align: left">原廠授權公司貨，請放心選購。</li>
+            
+            <li style="text-align: left">鑑賞期非試用期，經拆封使用過後無提供退換貨服務。</li>
+            
+            <li style="text-align: left">首次使用前請以中性清潔劑手洗並充分乾燥。</li>
+            
+            <li style="text-align: left">商品顏色會因拍照光線環境或手機螢幕色差等因素有所差異，依實際出貨為準。</li>
+            
+            <li style="text-align: left">商品細節如有疑問，歡迎聯繫客服。</li>
+            
+        </ul>
+        
+    </div>
+</div> 

@@ -1,0 +1,172 @@
+{
+  "code": "4w1h_001R",
+  "name": "ホットサンドソロ",
+  "brand": "燕三条キッチン研究所",
+  "desc": "朝は胃袋だって寝起きモード。 そんなに多くは食べられません。\r\n      そこで朝食にピッタリな 「量」  「形態」  「食事時間」 を考えてみたら、\r\n      まったく新しいホットサンドメーカーができました。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "ホットサンドソロ"
+    },
+    {
+      "label": "定価",
+      "value": "4,950円(税450円)"
+    },
+    {
+      "label": "品番",
+      "value": "4w1h_001R"
+    },
+    {
+      "label": "サイズ",
+      "value": "約14×28.5×高さ 4cm"
+    },
+    {
+      "label": "材質",
+      "value": "本体 / アルミニウム合金（ふっ素樹脂塗膜加工）\r\n            ハンドル / フェノール樹脂\r\n            金具 / ステンレス"
+    },
+    {
+      "label": "重量",
+      "value": "約405g"
+    },
+    {
+      "label": "カラー",
+      "value": "ブラック×シルバー（本体）"
+    },
+    {
+      "label": "原産国",
+      "value": "日本"
+    },
+    {
+      "label": "その他",
+      "value": "IH非対応"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "朝は少食。"
+    },
+    {
+      "title": "Who",
+      "text": "だからトースト1枚がちょうどいい。"
+    },
+    {
+      "title": "What",
+      "text": "野菜やたんぱく質もプラスしたい。 例えばホットサンドのように。"
+    },
+    {
+      "title": "Why",
+      "text": "ホットサンドメーカーは食パン2枚使い。 それって量、多くない?"
+    },
+    {
+      "title": "How",
+      "text": "朝食には、食パン1枚使いのホットサンドがちょうどいい。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-4w1h_001R_mainimg.webp",
+      "url": null,
+      "alt": "4w1h_001R",
+      "status": "ok"
+    },
+    "hero": {
+      "filename": "uncle-benny-4w1h_001R_hero.webp",
+      "url": null,
+      "alt": "4w1h_001R",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-4w1h_001R_thema.webp",
+      "url": null,
+      "alt": "",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-4w1h_001R__hotsand_slide_01.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-4w1h_001R__hotsand_slide_02.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-4w1h_001R__hotsand_slide_03.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-4w1h_001R__hotsand_slide_04.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      }
+    ]
+  },
+  "features": [
+    {
+      "filename": null,
+      "alt": "",
+      "title": "2枚使いのホットサンド→1枚使いの波形ドッグに。",
+      "desc": "「食パン１枚でホットサンドができないか？」それを実現したのがこの形。食パン１枚で具をクルリと包み込んだ、新種系ホットサンドがつくれます。パンの耳を切らずにそのまま焼けるので、忙しい朝にピッタリ。弱火で約５〜６分加熱すれば、ふちはカリッと中はふんわり熱々の、時短&バランスのいい朝食ができ上がります。",
+      "youtube": "https://www.youtube.com/embed/3u4v7YWkxmc"
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_02.webp",
+      "alt": "食感がよく、しかもカワイイ、カリカリのふち。",
+      "title": "食感がよく、しかもカワイイ、カリカリのふち。",
+      "desc": "個性的な波形のふちにはワケがある！ホットサンドメーカーを閉じる時、パンの端がハミ出ないよう収まりよく、しっかり圧着させるための最適な形を研究しました。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_03.webp",
+      "alt": "具がこぼれにくく、すばやくパクパク食べられる。",
+      "title": "具がこぼれにくく、すばやくパクパク食べられる。",
+      "desc": "仕上がりは子どもも食べやすいひと口サイズ。片手で持ちながらパクパク食べすすめられて、トロリとジューシーな具もこぼれにくいのが特徴です。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_04.webp",
+      "alt": "間食や夜食など軽い食事に。携帯にも便利。",
+      "title": "間食や夜食など軽い食事に。携帯にも便利。",
+      "desc": "主食のパンに野菜やたんぱく質をプラスできるのが、ホットサンドのいいところ。このボリューム感を抑えたホットサンドなら、間食や夜食に理想的。持ち運びやすく携帯にも便利です。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_05.webp",
+      "alt": "ツートーンカラーで、返し間違いを防止。",
+      "title": "ツートーンカラーで、返し間違いを防止。",
+      "desc": "ひっくり返しながら両面を焼くホットサンド。朝、ほかのことをしながら調理していても「こっち面焼いたっけ？」とならないよう、ツートーンカラーのデザインにしています。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_06.webp",
+      "alt": "上下のプレートを、\r\n            取り外して使える着脱式。",
+      "title": "上下のプレートを、\r\n            取り外して使える着脱式。",
+      "desc": "多くのご要望にお応えし、具材の挟みやすさはそのままに、プレートが着脱できる仕様にリニューアル。上面を外し皿を乗せてひっくり返せば、熱々のホットサンドを触らずに盛り付けられます。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_07.webp",
+      "alt": "お弁当づくりに重宝する、\r\n            フライパンのような活用も。",
+      "title": "お弁当づくりに重宝する、\r\n            フライパンのような活用も。",
+      "desc": "着脱式だからできる楽しみのひとつが、片面だけをフライパン代わりに使ったグリル系調理。ウインナーのソテーのほか、目玉焼きや肉巻きアスパラなど、お弁当のおかずにぴったりなプチお惣菜づくりに活用してみては？",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_08.webp",
+      "alt": "いつでも取り外して丸洗い、\r\n            簡単お手入れで衛生的。",
+      "title": "いつでも取り外して丸洗い、\r\n            簡単お手入れで衛生的。",
+      "desc": "着脱部分を取り外せるため、使うたびに隅々までしっかり洗えて気分サッパリ。再び使う時は、ヨコ長の口にもう片面の先を差し込んで、引っ掛けるだけ。食洗機でも使えますが、塗装がはげやすくなるのでご注意を。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "#朝食 #少食 #時短 #1枚でホットサンド #ひと口サイズ #焼きめカリカリ #着脱式 #洗いやすい"
+}

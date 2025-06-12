@@ -1,0 +1,172 @@
+{
+  "code": "4w1h_001R",
+  "name": "熱壓三明治機 Solo",
+  "brand": "燕三条キッチン研究所",
+  "desc": "早上胃口還在剛醒的狀態，吃不了太多。  \n因此，我們思考了適合早餐的「份量」、「形態」和「用餐時間」，  \n於是誕生了一款全新的熱壓三明治機。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "熱壓三明治機 Solo"
+    },
+    {
+      "label": "定價",
+      "value": "4,950日圓（含稅450日圓）"
+    },
+    {
+      "label": "型號",
+      "value": "4w1h_001R"
+    },
+    {
+      "label": "尺寸",
+      "value": "約 14×28.5×高 4 公分"
+    },
+    {
+      "label": "材質",
+      "value": "本體 / 鋁合金（氟素樹脂塗膜加工）\n手柄 / 酚醛樹脂\n金屬配件 / 不鏽鋼"
+    },
+    {
+      "label": "重量",
+      "value": "約405克"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色×銀色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "不適用於IH爐具"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "早上食量不大。"
+    },
+    {
+      "title": "Who",
+      "text": "所以一片吐司剛剛好。"
+    },
+    {
+      "title": "What",
+      "text": "想要加點蔬菜和蛋白質，比如像熱壓三明治那樣。"
+    },
+    {
+      "title": "Why",
+      "text": "熱壓三明治機需要用到兩片吐司。這樣的量，不會太多嗎？"
+    },
+    {
+      "title": "How",
+      "text": "早餐時，用一片吐司做的熱壓三明治剛剛好。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-4w1h_001R_mainimg.webp",
+      "url": null,
+      "alt": "4w1h_001R",
+      "status": "ok"
+    },
+    "hero": {
+      "filename": "uncle-benny-4w1h_001R_hero.webp",
+      "url": null,
+      "alt": "4w1h_001R",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-4w1h_001R_thema.webp",
+      "url": null,
+      "alt": "",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-4w1h_001R__hotsand_slide_01.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-4w1h_001R__hotsand_slide_02.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-4w1h_001R__hotsand_slide_03.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-4w1h_001R__hotsand_slide_04.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      }
+    ]
+  },
+  "features": [
+    {
+      "filename": null,
+      "alt": "",
+      "title": "雙片吐司的熱壓三明治→單片吐司的波形熱狗。",
+      "desc": "「能不能只用一片吐司做出美味的熱壓三明治呢？」這款產品就是為了實現這個想法而誕生的。只需一片吐司，就能將餡料緊緊包裹，製作出全新風格的熱壓三明治。不需要切掉吐司邊，直接放進去烘烤，非常適合忙碌的早晨。只需用小火加熱約5到6分鐘，外皮酥脆、內餡鬆軟熱騰騰，讓你輕鬆享受快速又營養均衡的早餐。",
+      "youtube": "https://www.youtube.com/embed/3u4v7YWkxmc"
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_02.webp",
+      "alt": "口感絕佳，而且可愛，還有酥脆的邊緣。",
+      "title": "口感絕佳，而且可愛，還有酥脆的邊緣。",
+      "desc": "獨特的波浪形邊緣是有原因的！我們研究出最佳形狀，讓您在關閉熱壓三明治機時，麵包邊緣不會溢出，並能牢固壓合。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_03.webp",
+      "alt": "不容易掉餡，快速地大口享用。",
+      "title": "不容易掉餡，快速地大口享用。",
+      "desc": "成品是小朋友也能輕鬆享用的一口大小。可以單手拿著一口接一口地吃，且內餡濃郁多汁，不容易掉出來是它的特色。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_04.webp",
+      "alt": "適合當作點心或宵夜等輕食。攜帶也很方便。",
+      "title": "適合當作點心或宵夜等輕食。攜帶也很方便。",
+      "desc": "主食麵包加上蔬菜和蛋白質，這就是熱壓三明治的好處。這款控制了份量的熱壓三明治，非常適合當作點心或宵夜。攜帶方便，隨身帶著也很便利。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_05.webp",
+      "alt": "雙色設計，防止翻面錯誤。",
+      "title": "雙色設計，防止翻面錯誤。",
+      "desc": "翻面烘烤雙面的熱壓三明治。早上忙著做其他事情時，也不會忘記「這一面烤過了嗎？」因為我們採用了雙色設計。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_06.webp",
+      "alt": "上下的烤盤可以拆卸使用，方便清洗。",
+      "title": "上下的烤盤可以拆卸使用，方便清洗。",
+      "desc": "應廣大需求，我們在保留容易夾入食材的特性下，將設計升級為可拆卸的烤盤。只需將上蓋取下，將盤子放上並翻轉，就能輕鬆將熱騰騰的熱壓吐司盛盤，不需直接用手接觸。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_07.webp",
+      "alt": "在製作便當時非常實用，還可以像平底鍋一樣使用。",
+      "title": "在製作便當時非常實用，還可以像平底鍋一樣使用。",
+      "desc": "可拆卸設計帶來的樂趣之一，就是可以單面當作平底鍋來使用，進行燒烤類的料理。不論是香腸煎炒，還是煎蛋、肉捲蘆筍等，都非常適合用來製作便當的小菜喔！",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_001R__hotsand_feature_08.webp",
+      "alt": "隨時可以拆卸下來清洗，簡單保養又衛生。",
+      "title": "隨時可以拆卸下來清洗，簡單保養又衛生。",
+      "desc": "可拆卸的設計讓您每次使用後都能徹底清洗每個角落，保持清爽的心情。再次使用時，只需將另一側插入橫長的開口處，輕輕掛上即可。雖然可以使用洗碗機，但請注意可能會導致塗層容易脫落。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "#早餐 #少食 #省時 #一片麵包做熱壓三明治 #一口大小 #烤得酥脆 #可拆卸 #易清洗"
+}

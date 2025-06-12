@@ -1,0 +1,608 @@
+
+<style>
+    /* ========== 共用區 ========== */
+    body {
+        font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .full-img {
+        display: block;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        height: auto;
+    }
+
+    .center-img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    /* 主要內容區塊寬度統一 */
+    .txt-wrap,
+    .spec,
+    .tags,
+    .notice,
+    .wh-containers {
+        max-width: 62%;
+        margin: 2.2em auto;
+    }
+
+    .txt-wrap {
+        line-height: 1;
+        text-align: left;
+    }
+
+    .tags {
+        text-align: center;
+        font-size: 0.9em;
+        color: #888;
+    }
+
+    /* 產品特點列表 */
+    .feature-list {
+        list-style: none;
+        padding-left: 1.4em;
+    }
+
+    .feature-list li {
+        position: relative;
+        margin: 0.9em 0;
+    }
+
+    .feature-list li::before {
+        content: "•";
+        position: absolute;
+        left: -1.2em;
+    }
+
+    /* 規格表格 */
+    .spec {
+        border-collapse: collapse;
+        font-size: 1em;
+        width: 100%;
+        max-width: 800px;
+        border: 1px solid #e9ecef;
+        margin: 2em auto;
+    }
+
+    .spec .note {
+        color: #c00;
+        font-weight: 500;
+    }
+
+    .spec th,
+    .spec td {
+        border: 1px solid #e9ecef;
+        padding: 1em;
+        text-align: left;
+    }
+
+    .spec th {
+        background: #f8f9fa;
+        width: 30%;
+        font-weight: 600;
+    }
+
+    /* 主文字區塊 */
+    .main-text {
+        max-width: 700px;
+        margin: 2em auto;
+        text-align: left;
+        font-size: 1em;
+    }
+
+    /* 主圖與主文字同寬容器 */
+    .main-block {
+        max-width: 900px;
+        margin: 0 auto 2em auto;
+        text-align: center;
+        position: relative;
+    }
+
+    .main-block img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto 1.2em auto;
+    }
+
+    .main-block .center-img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        max-width: 180px;
+        width: 32vw;
+        margin: 0;
+    }
+
+    /* YouTube 影片區塊 */
+    .youtube {
+        text-align: center;
+        margin: 2em auto 1.5em auto;
+        max-width: 700px;
+        margin-bottom: 2em;
+        margin-top: 2em;
+    }
+
+    .youtube iframe {
+        width: 100%;
+        max-width: 100%;
+        aspect-ratio: 16/9;
+        height: auto;
+        display: inline-block;
+        border: none;
+    }
+
+    /* hero區塊 */
+    .hero-section {
+        position: relative;
+        width: 100vw;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        overflow: hidden;
+        background: #fff;
+    }
+
+    .hero-img {
+        width: 100vw;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .hero-logo {
+        text-align: center;
+    }
+
+    .hero-logo img {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        width: 200px;
+        text-align: center;
+    }
+
+    /* feature區塊 */
+    .feature-block {
+        max-width: 900px;
+        margin: 0 auto 2.5em auto;
+        text-align: center;
+    }
+
+    /* .feature-block img,
+    .feature-block iframe {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        display: block;
+    } */
+    .rte img.full-img,
+    .feature-block img.full-img {
+        width: 100%;
+        max-width: 900px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .feature-block .main-text {
+        text-align: left;
+        margin: 0 auto;
+        max-width: 100%;
+        margin-bottom: 2em;
+        margin-top: 1.5em;
+        max-width: 700px;
+    }
+
+    /* 標題圖統一樣式 */
+    .wh-title-img {
+        height: 48px;
+        vertical-align: baseline;
+    }
+
+    .wh-title-img-why {
+        margin-bottom: -10px;
+    }
+
+    /* hashtag區塊 */
+    .hashtag-box {
+        background-image: repeating-linear-gradient(45deg,
+                #f2f3f4,
+                #f2f3f4 4px,
+                #f9f9f9 4px,
+                #f9f9f9 8px);
+        color: #777;
+        box-sizing: border-box;
+        border: 1px solid #e9ecef;
+        padding: 12px 16px;
+        margin: 2em auto;
+        font-size: 12px;
+        line-height: 1.8;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    /* 響應式設計 */
+    @media (max-width: 768px) {
+
+        .rte img.full-img,
+        .feature-block img.full-img {
+
+            width: 100vw;
+            max-width: none;
+            /* 移除原本的 max-width 限制 */
+            margin-left: calc(-50vw + 50%);
+        }
+
+        .main-text,
+        .feature-block {
+            max-width: 92%;
+            margin: 0 auto;
+            margin-bottom: 2em;
+            margin-top: 1.5em;
+        }
+
+        .main-text .p1 {
+            margin-top: 1.2em;
+            margin-bottom: 1.8em;
+        }
+
+        .main-block .center-img {
+            width: 30vw;
+            max-width: 320px;
+        }
+    }
+
+    /* Berry 間距優化：main-text 內段落行距與段距 */
+    .main-text .p1 {
+        line-height: 1.8;
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+    }
+</style>
+
+<!-- ===== HERO ===== -->
+<section class="hero-section">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004_hero.webp"
+        class="hero-img"
+        alt="4w1h_004"
+        loading="lazy"
+    >
+</section>
+<div class="hero-logo">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4W1H_logo.png"
+        alt="4W1H 品牌標誌"
+    >
+</div>
+<div class="main-text">
+    
+</div>
+
+<!-- When / Who / What / Why -------------------------------------------->
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+<article>
+    <div class="main-text">
+        <p style="text-align: center" class="p1">
+            <img
+                height="36"
+                width="220"
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004_thema.webp"
+                alt="4w1h，讓料理更輕鬆。"
+            >
+            <br>
+        </p>
+        <p class="p1">
+            廚房工具和生活方式都進入了緊湊的時代。有時，小型的調理器具和標準尺寸的爐灶之間會出現縫隙。為了解決這種不穩定的困擾，我們推出了迷你尺寸的爐架。
+        </p>
+    </div>
+</article>
+
+<!-- 4W1H ----------------------------- -->
+<div class="wh-block" style="text-align: center">
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-who.png"
+            alt="Who"
+        >
+        <div class="main-text">
+            <p class="p1">
+                適合單身生活或雙人生活。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-when.png"
+            alt="When"
+        >
+        <div class="main-text">
+            <p class="p1">
+                使用小型調理器具的機會增加了。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-what.png"
+            alt="What"
+        >
+        <div class="main-text">
+            <p class="p1">
+                小巧食材、少量油、溫和加熱。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-why.png"
+            alt="Why"
+        >
+        <div class="main-text">
+            <p class="p1">
+                當您將烹飪器具放在爐灶上時，尺寸感會有很大的差異。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-how.png"
+            alt="How"
+        >
+        <div class="main-text">
+            <p class="p1">
+                爐具的穩定性是基本前提，如果不合適就會讓人不安。
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<section id="feature" class="inview view">
+    <div class="containers">
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004__stove-supporter_feature_01.webp"
+                class="full-img"
+                alt="完美貼合各種形狀的爐灶。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">完美貼合各種形狀的爐灶。</span>
+                    <br>為了適應各種不同類型的爐灶，我們在底部設計了多個卡扣。每邊有兩個卡扣，角落也各有兩個，這樣即使爐灶的形狀和大小不同，也能牢牢卡在卡扣之間的溝槽中，形成穩固不滑動的基座。也適用於卡式爐喔！
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004__stove-supporter_feature_02.webp"
+                class="full-img"
+                alt="提升單人熱壓三明治的穩定感。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">提升單人熱壓三明治的穩定感。</span>
+                    <br>「コンロサポーター上的小凹形是什麼？」答案就是專為ホットサンドソロ設計的手柄支架。這個「支撐」能有效防止晃動和不穩，大幅提升ホットサンドソロ的穩定性。這款便利的工具滿足了大家一直以來的需求，讓您可以輕鬆無須用手扶持地烘烤。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004__stove-supporter_feature_03.webp"
+                class="full-img"
+                alt="即使是小型油炸鍋，也能穩固不滑，使用安心。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">即使是小型油炸鍋，也能穩固不滑，使用安心。</span>
+                    <br>手感有點粗糙的霧面質感。這是為了讓平底的調理器具不易滑動而設計的穩定感巧思。不容易留下刮痕，所以請放心大膽使用吧。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004__stove-supporter_feature_04.webp"
+                class="full-img"
+                alt="像咖啡壺這樣的器具，放置得穩穩的。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">像咖啡壺這樣的器具，放置得穩穩的。</span>
+                    <br>除了適用於熱壓吐司機和迷你油炸鍋之外，還非常適合用於咖啡壺、牛奶鍋和濃縮咖啡機。能在加熱小型調理器具時發揮出色的性能。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004__stove-supporter_feature_05.webp"
+                class="full-img"
+                alt="掛在鉤子上，或是掛在架子上。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">掛在鉤子上，或是掛在架子上。</span>
+                    <br>這款設計就像是連結起來的方形框架，給人一種通透感，掛放選擇多多。只要掛在抽油煙機或是鐵絲架上，隨時都能輕鬆取用。
+                </p>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<!-- 尺寸示意 ---------------------------------------------------------- -->
+<div class="containers">
+    <div class="feature-block">
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004__stove-supporter_slide_01.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004__stove-supporter_slide_02.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_004__stove-supporter_slide_03.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+    </div>
+</div>
+
+<article>
+    <div class="hashtag-box">
+        <meta charset="UTF-8">
+        <p>
+            
+            ##適用於熱壓吐司機 
+            
+            ##適用於迷你油炸鍋 
+            
+            ##適用於小型烹飪器具 
+            
+            ##完美貼合爐具 
+            
+            ##穩定加熱 
+            
+            ##防止晃動
+            
+        </p>
+    </div>
+</article>
+
+<!-- SPEC 表 ------------------------------------------------------------->
+<table class="spec">
+    <tbody>
+        
+        <tr>
+            <th>品名</th>
+            <td>爐架支撐器</td>
+        </tr>
+        
+        <tr>
+            <th>定價</th>
+            <td>1,650日圓（含稅150日圓）</td>
+        </tr>
+        
+        <tr>
+            <th>型號</th>
+            <td>4w1h_004</td>
+        </tr>
+        
+        <tr>
+            <th>尺寸</th>
+            <td>約13.2×13.2×高 2.3cm</td>
+        </tr>
+        
+        <tr>
+            <th>材質</th>
+            <td>本體 / 鋼（矽膠樹脂塗裝）</td>
+        </tr>
+        
+        <tr>
+            <th>重量</th>
+            <td>約150克</td>
+        </tr>
+        
+        <tr>
+            <th>顏色</th>
+            <td>黑色（本體）</td>
+        </tr>
+        
+        <tr>
+            <th>原產國</th>
+            <td>日本</td>
+        </tr>
+        
+    </tbody>
+</table>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<!-- 使用注意 ----------------------------------------------------------->
+<div class="feature-block">
+    <div class="main-text">
+        <p><span style="text-decoration: underline">注意事項</span></p>
+        <ul>
+            
+            <li style="text-align: left">原廠授權公司貨，請放心選購。</li>
+            
+            <li style="text-align: left">鑑賞期非試用期，經拆封使用過後無提供退換貨服務。</li>
+            
+            <li style="text-align: left">首次使用前請以中性清潔劑手洗並充分乾燥。</li>
+            
+            <li style="text-align: left">商品顏色會因拍照光線環境或手機螢幕色差等因素有所差異，依實際出貨為準。</li>
+            
+            <li style="text-align: left">商品細節如有疑問，歡迎聯繫客服。</li>
+            
+        </ul>
+        
+    </div>
+</div> 

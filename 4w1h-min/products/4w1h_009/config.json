@@ -1,0 +1,141 @@
+{
+  "code": "4w1h_009",
+  "name": "ひし形レードル",
+  "brand": "燕三条キッチン研究所",
+  "desc": "カレーにシチューに、和風や中華風あんかけなど、人気の高いとろみ料理。\r\nでも丸いお玉では最後まですくいきれず、とろみが鍋底に残るのが悩みでした。\r\nそこですっきり逃さずこそげるための、ヘラのようなお玉ができました。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "ひし形レードル"
+    },
+    {
+      "label": "定価",
+      "value": "1,650円（税150円）"
+    },
+    {
+      "label": "品番",
+      "value": "4ｗ1ｈ_009"
+    },
+    {
+      "label": "サイズ",
+      "value": "約28.2×10.4×高さ 0.6cm\r\n    (頭部/約8.5×8.5cm)  (ハンドル/約1.6cm)"
+    },
+    {
+      "label": "材質",
+      "value": "シリコーン樹脂 (芯材/ステンレス鋼)"
+    },
+    {
+      "label": "耐熱温度",
+      "value": "約200℃"
+    },
+    {
+      "label": "重量",
+      "value": "約110g"
+    },
+    {
+      "label": "容量",
+      "value": "約50ml"
+    },
+    {
+      "label": "カラー",
+      "value": "ブラック（本体）"
+    },
+    {
+      "label": "原産国",
+      "value": "日本"
+    },
+    {
+      "label": "その他",
+      "value": "吊り下げ収納可"
+    }
+  ],
+  "wh": [
+    {
+      "title": "Who",
+      "text": "食べ盛り家族がいる家庭や、つくり置きもする自炊タイプ。"
+    },
+    {
+      "title": "What",
+      "text": "得意料理は、家族も大好き、かさ増しできるとろみ料理。"
+    },
+    {
+      "title": "When",
+      "text": "とはいえ食後、鍋のカピカピと格闘するのはかなり面倒。"
+    },
+    {
+      "title": "How",
+      "text": "かといって、ヘラを使うと洗い物が増えてしまう。"
+    },
+    {
+      "title": "how",
+      "text": "丸くて深くてすくいきれない、お玉の形は正解か？"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-4w1h_009_mainimg.webp",
+      "url": null,
+      "alt": "4w1h_009",
+      "status": "ok"
+    },
+    "hero": {
+      "filename": "uncle-benny-4w1h_009_hero.webp",
+      "url": null,
+      "alt": "4w1h_009",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-4w1h_009_thema.webp",
+      "url": null,
+      "alt": "お玉だって、こそげたい。",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-4w1h_009__ladle_slide_01.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      }
+    ]
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-4w1h_009__ladle_feature_01.webp",
+      "alt": "隅までグイッとこそげて、カレーもすっきり。",
+      "title": "隅までグイッとこそげて、カレーもすっきり。",
+      "desc": "お玉でありながらヘラの要素をミックスし、こそげるための機能を強化。シリコーンの直線的なフチがフィットして、フライパンを傷つけずにソース類を取り去ります。",
+      "youtube": null
+    },
+    {
+      "filename": null,
+      "alt": "",
+      "title": "少量もしっかりも、すくいやすい浅形タイプ。",
+      "desc": "ひとさじ50ml。できるだけ深さを抑えつつ、さじの底はフラットに仕上げました。スープ類をしっかりすくえる容量なのに、少量でも反発を感じにくい形状です。",
+      "youtube": "https://www.youtube.com/embed/WNehdPnhFAU?si=z0nEKrU8EPOIbHsI"
+    },
+    {
+      "filename": "uncle-benny-4w1h_009__ladle_feature_02.webp",
+      "alt": "味見や盛り付けに便利な、3つの角の注ぎ口。",
+      "title": "味見や盛り付けに便利な、3つの角の注ぎ口。",
+      "desc": "ひし形というフォルムにより、細かな作業で力を発揮する3つの角が出現。味見や小さな器への盛り付けなど、ピンポイントで注ぐ際に重宝します。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_009__ladle_feature_04.webp",
+      "alt": "利き手を選ばず、差し込みスムーズ。",
+      "title": "利き手を選ばず、差し込みスムーズ。",
+      "desc": "右利きでも左利きでも、心地いい自然な手の角度でスッと差し込めて、最小動作ですくえます。ひし形フライパンとのセット使いもおすすめです。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_009__ladle_feature_03.webp",
+      "alt": "汚れが溜まりにくく、キレイが長持ち。",
+      "title": "汚れが溜まりにくく、キレイが長持ち。",
+      "desc": "本体の持ち手まで継ぎ目なくシリコーンでカバー。汚れが溜まりにくく、色移りも目立ちません。水切れのいい素材感で、食洗機の使用も可能です。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "#こそげる #3口レードル #味見しやすい #小さい器もOK #両利きOK #食洗機OK #ひし形フライパンと相性抜群"
+}

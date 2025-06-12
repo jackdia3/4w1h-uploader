@@ -1,0 +1,53 @@
+{
+    "product_code": {
+        "selector": "table th:contains('品番') + td",
+        "fallback": ".code",
+        "note": "ladle 使用全形字元 4ｗ1ｈ_009"
+    },
+    "product_name": {
+        "selector": "title",
+        "regex": "^(.+?)\\s*\\|",
+        "fallback": "h2 img[alt]"
+    },
+    "brand": {
+        "value": "燕三条キッチン研究所",
+        "note": "固定值"
+    },
+    "desc": {
+        "selector": ".top_text p",
+        "note": "產品簡介，所有產品都有"
+    },
+    "wh": {
+        "container": "#wh",
+        "table_selector": "#wh table tr",
+        "how_selector": "#wh p.how",
+        "note": "4W1H 區塊的特殊處理邏輯"
+    },
+    "spec": {
+        "selector": "#specification table",
+        "exclude_parent": "#wh",
+        "note": "排除 #wh 內的 table"
+    },
+    "features": {
+        "selector": "#feature .flex > div",
+        "image_selector": "figure img",
+        "youtube_selector": "iframe[src*='youtube']",
+        "title_selector": "div.text > h4",
+        "desc_selector": "div.text > p"
+    },
+    "keywords": {
+        "selector": "#tags ul li",
+        "regex": "^#(.+)$",
+        "note": "去除 # 符號"
+    },
+    "notices": {
+        "selector": ".notice ul li",
+        "fallback": [],
+        "note": "大部分產品沒有專門的注意事項區塊"
+    },
+    "thema": {
+        "img_selector": ".mainimg img[alt]",
+        "text_selector": ".mainimg img",
+        "attr": "alt"
+    }
+}

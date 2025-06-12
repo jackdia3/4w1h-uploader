@@ -1,0 +1,130 @@
+{
+  "code": "4w1h_008",
+  "name": "菱形鍋鏟",
+  "brand": "燕三条キッチン研究所",
+  "desc": "是否能將每天煎鍋料理所需的功能集於一身呢？經過對翻炒、刮除、不破壞食材的翻面等各種動作的研究，終於誕生了一款能以舒適自由的角度輕鬆插入的獨特工具。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "菱形鍋鏟"
+    },
+    {
+      "label": "定價",
+      "value": "1,650日圓（含稅150日圓）"
+    },
+    {
+      "label": "型號",
+      "value": "4w1h_008"
+    },
+    {
+      "label": "尺寸",
+      "value": "約28×9.2×高 0.6cm  \n（頭部/約6.1×8.2cm） （手柄/約1.6cm）"
+    },
+    {
+      "label": "材質",
+      "value": "矽膠樹脂（芯材／不鏽鋼）"
+    },
+    {
+      "label": "耐熱溫度",
+      "value": "約200℃"
+    },
+    {
+      "label": "重量",
+      "value": "約70克"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "可吊掛收納"
+    }
+  ],
+  "wh": [
+    {
+      "title": "Who",
+      "text": "無論是料理、擺盤還是清理，這款產品都以簡便為優先。"
+    },
+    {
+      "title": "When",
+      "text": "因此，早、中、晚的餐點製作，主要工具就是平底鍋。"
+    },
+    {
+      "title": "What",
+      "text": "無論是肉、魚、蛋還是蔬菜，任何尺寸都能完美契合。"
+    },
+    {
+      "title": "Why",
+      "text": "只要有這一把工具，就能輕鬆輔助所有平底鍋料理！"
+    },
+    {
+      "title": "how",
+      "text": "可以縱向橫向、雙面使用，輕鬆炒、刮、翻。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-4w1h_008_mainimg.webp",
+      "url": null,
+      "alt": "4w1h_008",
+      "status": "ok"
+    },
+    "hero": {
+      "filename": "uncle-benny-4w1h_008_hero.webp",
+      "url": null,
+      "alt": "4w1h_008",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-4w1h_008_thema.webp",
+      "url": null,
+      "alt": "以自然的角度插入。",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-4w1h_008__turner_slide_01.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      }
+    ]
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-4w1h_008__turner_feature_01.webp",
+      "alt": "菱形與柔韌的尖端設計，方便插入。",
+      "title": "菱形與柔韌的尖端設計，方便插入。",
+      "desc": "為了讓使用者能以舒適自然的角度插入，這款鍋鏟的頭部設計成薄薄的菱形，並且前端柔軟可彎曲。此外，它不易變形，讓您輕鬆舉起食材，只需用手腕的小幅動作就能翻面，無需抬高手肘。",
+      "youtube": null
+    },
+    {
+      "filename": null,
+      "alt": "",
+      "title": "利用長短兩邊，根據不同需求靈活運用。",
+      "desc": "在需要細緻操作或狹小空間時，可以使用短邊；處理大量食材時，則使用長邊。我們特意採用了變形的菱形設計，讓您能根據不同情境，輕鬆找到最佳的操作方式。",
+      "youtube": "https://www.youtube.com/embed/SLr6VEUNP6o?si=gQu1vFJE0myuxG3m"
+    },
+    {
+      "filename": "uncle-benny-4w1h_008__turner_feature_02.webp",
+      "alt": "平坦的設計讓大型食材也能輕鬆放上。",
+      "title": "平坦的設計讓大型食材也能輕鬆放上。",
+      "desc": "握柄部分一直保持平坦。超薄的鏟頭可以輕鬆滑入較大的漢堡肉或燉魚底下，穩穩支撐。不僅雙面都能使用，無論慣用哪隻手都很方便，與菱形平底鍋的搭配更是絕佳。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_008__turner_feature_03.webp",
+      "alt": "不易積聚污垢，不會刮傷平底鍋。",
+      "title": "不易積聚污垢，不會刮傷平底鍋。",
+      "desc": "整體到握把部分都無縫接合，並覆蓋上黑色矽膠。不易顯現色移，且不會刮傷平底鍋。除了可以用洗碗機清洗外，材質的排水性也非常吸引人。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "#彈性佳 #易插入 #短邊長邊都能用 #大食材OK #左右手皆宜 #可用洗碗機清洗 #與菱形平底鍋絕配"
+}

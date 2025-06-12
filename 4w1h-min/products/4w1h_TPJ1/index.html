@@ -1,0 +1,675 @@
+
+<style>
+    /* ========== 共用區 ========== */
+    body {
+        font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .full-img {
+        display: block;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        height: auto;
+    }
+
+    .center-img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    /* 主要內容區塊寬度統一 */
+    .txt-wrap,
+    .spec,
+    .tags,
+    .notice,
+    .wh-containers {
+        max-width: 62%;
+        margin: 2.2em auto;
+    }
+
+    .txt-wrap {
+        line-height: 1;
+        text-align: left;
+    }
+
+    .tags {
+        text-align: center;
+        font-size: 0.9em;
+        color: #888;
+    }
+
+    /* 產品特點列表 */
+    .feature-list {
+        list-style: none;
+        padding-left: 1.4em;
+    }
+
+    .feature-list li {
+        position: relative;
+        margin: 0.9em 0;
+    }
+
+    .feature-list li::before {
+        content: "•";
+        position: absolute;
+        left: -1.2em;
+    }
+
+    /* 規格表格 */
+    .spec {
+        border-collapse: collapse;
+        font-size: 1em;
+        width: 100%;
+        max-width: 800px;
+        border: 1px solid #e9ecef;
+        margin: 2em auto;
+    }
+
+    .spec .note {
+        color: #c00;
+        font-weight: 500;
+    }
+
+    .spec th,
+    .spec td {
+        border: 1px solid #e9ecef;
+        padding: 1em;
+        text-align: left;
+    }
+
+    .spec th {
+        background: #f8f9fa;
+        width: 30%;
+        font-weight: 600;
+    }
+
+    /* 主文字區塊 */
+    .main-text {
+        max-width: 700px;
+        margin: 2em auto;
+        text-align: left;
+        font-size: 1em;
+    }
+
+    /* 主圖與主文字同寬容器 */
+    .main-block {
+        max-width: 900px;
+        margin: 0 auto 2em auto;
+        text-align: center;
+        position: relative;
+    }
+
+    .main-block img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto 1.2em auto;
+    }
+
+    .main-block .center-img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        max-width: 180px;
+        width: 32vw;
+        margin: 0;
+    }
+
+    /* YouTube 影片區塊 */
+    .youtube {
+        text-align: center;
+        margin: 2em auto 1.5em auto;
+        max-width: 700px;
+        margin-bottom: 2em;
+        margin-top: 2em;
+    }
+
+    .youtube iframe {
+        width: 100%;
+        max-width: 100%;
+        aspect-ratio: 16/9;
+        height: auto;
+        display: inline-block;
+        border: none;
+    }
+
+    /* hero區塊 */
+    .hero-section {
+        position: relative;
+        width: 100vw;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        overflow: hidden;
+        background: #fff;
+    }
+
+    .hero-img {
+        width: 100vw;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .hero-logo {
+        text-align: center;
+    }
+
+    .hero-logo img {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        width: 200px;
+        text-align: center;
+    }
+
+    /* feature區塊 */
+    .feature-block {
+        max-width: 900px;
+        margin: 0 auto 2.5em auto;
+        text-align: center;
+    }
+
+    /* .feature-block img,
+    .feature-block iframe {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        display: block;
+    } */
+    .rte img.full-img,
+    .feature-block img.full-img {
+        width: 100%;
+        max-width: 900px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .feature-block .main-text {
+        text-align: left;
+        margin: 0 auto;
+        max-width: 100%;
+        margin-bottom: 2em;
+        margin-top: 1.5em;
+        max-width: 700px;
+    }
+
+    /* 標題圖統一樣式 */
+    .wh-title-img {
+        height: 48px;
+        vertical-align: baseline;
+    }
+
+    .wh-title-img-why {
+        margin-bottom: -10px;
+    }
+
+    /* hashtag區塊 */
+    .hashtag-box {
+        background-image: repeating-linear-gradient(45deg,
+                #f2f3f4,
+                #f2f3f4 4px,
+                #f9f9f9 4px,
+                #f9f9f9 8px);
+        color: #777;
+        box-sizing: border-box;
+        border: 1px solid #e9ecef;
+        padding: 12px 16px;
+        margin: 2em auto;
+        font-size: 12px;
+        line-height: 1.8;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    /* 響應式設計 */
+    @media (max-width: 768px) {
+
+        .rte img.full-img,
+        .feature-block img.full-img {
+
+            width: 100vw;
+            max-width: none;
+            /* 移除原本的 max-width 限制 */
+            margin-left: calc(-50vw + 50%);
+        }
+
+        .main-text,
+        .feature-block {
+            max-width: 92%;
+            margin: 0 auto;
+            margin-bottom: 2em;
+            margin-top: 1.5em;
+        }
+
+        .main-text .p1 {
+            margin-top: 1.2em;
+            margin-bottom: 1.8em;
+        }
+
+        .main-block .center-img {
+            width: 30vw;
+            max-width: 320px;
+        }
+    }
+
+    /* Berry 間距優化：main-text 內段落行距與段距 */
+    .main-text .p1 {
+        line-height: 1.8;
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+    }
+</style>
+
+<!-- ===== HERO ===== -->
+<section class="hero-section">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1_hero.webp"
+        class="hero-img"
+        alt="4w1h_TPJ1"
+        loading="lazy"
+    >
+</section>
+<div class="hero-logo">
+    <img
+        src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4W1H_logo.png"
+        alt="4W1H 品牌標誌"
+    >
+</div>
+<div class="main-text">
+    
+</div>
+
+<!-- When / Who / What / Why -------------------------------------------->
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+<article>
+    <div class="main-text">
+        <p style="text-align: center" class="p1">
+            <img
+                height="36"
+                width="220"
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1_thema.webp"
+                alt="將美麗的羽根餃子，端上餐桌。"
+            >
+            <br>
+        </p>
+        <p class="p1">
+            製作美味的羽根也是餃子的一大樂趣。  
+那酥脆的口感、適中的份量，都是不可或缺的要素。  
+經過仔細分析後，我們打造出了能提升羽根餃子完成度的專用平底鍋。
+        </p>
+    </div>
+</article>
+
+<!-- 4W1H ----------------------------- -->
+<div class="wh-block" style="text-align: center">
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-when.png"
+            alt="When"
+        >
+        <div class="main-text">
+            <p class="p1">
+                作為晚餐的配菜或啤酒的好搭檔。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-what.png"
+            alt="What"
+        >
+        <div class="main-text">
+            <p class="p1">
+                想要輕鬆享用一整袋12顆的餃子。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-who.png"
+            alt="Who"
+        >
+        <div class="main-text">
+            <p class="p1">
+                為熱愛羽根煎餃的人而設。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-how.png"
+            alt="How"
+        >
+        <div class="main-text">
+            <p class="p1">
+                讓從平底鍋到盤子的移動更加安全順暢。
+            </p>
+        </div>
+    </div>
+    
+    <div class="wh-item">
+        <img
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-ttl-why.png"
+            alt="Why"
+        >
+        <div class="main-text">
+            <p class="p1">
+                沒有專門用來享受羽根餃子的平底鍋嗎？
+            </p>
+        </div>
+    </div>
+    
+</div>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<section id="feature" class="inview view">
+    <div class="containers">
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_point.webp"
+                class="full-img"
+                alt="在「餃子日」的前一天，與味之素冷凍食品合作的商品誕生了。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline"></span>
+                    <br>這款商品正如其名，是從味の素冷凍食品的企劃「冷凍餃子平底鍋挑戰」中誕生的。起因是一則在社群媒體上提到「冷凍餃子會黏在平底鍋上」的貼文。為了解決焦底的原因，我們收集了各種平底鍋，並將其重新打造為專門用來製作羽根つき餃子的專用平底鍋。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_feature_01.webp"
+                class="full-img"
+                alt=""
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline"></span>
+                    <br>
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_feature_02.webp"
+                class="full-img"
+                alt="如何讓超過3,000個的平底鍋煥然一新？"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">如何讓超過3,000個的平底鍋煥然一新？</span>
+                    <br>透過這次企劃，我們從「餃子」愛好者那裡收集了超過3,000個使用過的平底鍋。經過檢驗後的平底鍋，會在群馬縣的回收工廠進行篩選和熔解，然後重新資源化為鋁材。接著，這些鋁材來到了燕三條，準備重獲新生。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_feature_03.webp"
+                class="full-img"
+                alt="考量到剛好能煎12個餃子的尺寸。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">考量到剛好能煎12個餃子的尺寸。</span>
+                    <br>4w1h的目標是打造「為愛餃子的人設計的平底鍋」。因此，我們專注於製作能讓羽根餃子完美呈現，以及從平底鍋輕鬆盛到盤子的設計，開始了這項開發。大小和形狀則決定為剛好能煎下一袋12顆餃子的直徑約22cm圓盤。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_feature_04.webp"
+                class="full-img"
+                alt="追求酥脆完美的餃子羽根。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">追求酥脆完美的餃子羽根。</span>
+                    <br>首先，我們深入研究了羽根的酥脆感、外觀以及不易破損的特性。經過多次調整，底部與側面連接的圓弧角度得出「約10度是最佳」的結論。此外，為了讓餃子在移動時羽根不會破損，我們設計了深度約35mm的淺型鍋。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_feature_05.webp"
+                class="full-img"
+                alt="使用盤狀手柄，翻面更輕鬆。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">使用盤狀手柄，翻面更輕鬆。</span>
+                    <br>最後要保護餃子的羽根，就是在盛盤時的穩定性。我們設想的是將煎好的餃子翻面的情景。透過設計從鍋身平坦延伸出的「盤托手柄」，可以穩固地支撐覆蓋的盤子，協助翻面動作。
+                </p>
+            </div>
+        </div>
+        
+        <div class="feature-block">
+            
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_feature_06.webp"
+                class="full-img"
+                alt="貼心設計，不易燙傷。"
+            >
+            
+            
+            <div class="main-text">
+                <p class="p1">
+                    <span style="text-decoration: underline">貼心設計，不易燙傷。</span>
+                    <br>本體是比常見的24公分平底鍋還要小的尺寸。透過在邊緣和手柄上蓋上一個像蓋子一樣的盤子，可以最大限度地避免油濺出或手碰到側面而造成燙傷。我們也特別考慮了盛盤時的安全性。
+                </p>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<!-- 尺寸示意 ---------------------------------------------------------- -->
+<div class="containers">
+    <div class="feature-block">
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_slide_01.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_slide_02.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_slide_03.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+        <figure>
+            <img
+                src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/uncle-benny-4w1h_TPJ1__gyouza-pan_slide_04.webp"
+                class="full-img"
+                alt=""
+            >
+        </figure>
+        
+    </div>
+</div>
+
+<article>
+    <div class="hashtag-box">
+        <meta charset="UTF-8">
+        <p>
+            
+            ##羽根餃子專用平底鍋 
+            
+            ##味之素冷凍食品餃子1袋・12個輕鬆煎 
+            
+            ##冷凍餃子平底鍋挑戰 
+            
+            ##平底鍋再生 
+            
+            ##盤子式手柄 
+            
+            ##容易盛盤 
+            
+            ##方便收納 
+            
+            ##其實也適合煎蛋捲
+            
+        </p>
+    </div>
+</article>
+
+<!-- SPEC 表 ------------------------------------------------------------->
+<table class="spec">
+    <tbody>
+        
+        <tr>
+            <th>品名</th>
+            <td>從冷凍餃子平底鍋挑戰中誕生的平底鍋</td>
+        </tr>
+        
+        <tr>
+            <th>定價</th>
+            <td>5,280日圓（含稅480日圓）</td>
+        </tr>
+        
+        <tr>
+            <th>型號</th>
+            <td>4w1h_TPJ1</td>
+        </tr>
+        
+        <tr>
+            <th>尺寸</th>
+            <td>約23 × 40 × 高度8.5cm</td>
+        </tr>
+        
+        <tr>
+            <th>鍋子尺寸</th>
+            <td>約Φ22 × 高度4cm</td>
+        </tr>
+        
+        <tr>
+            <th>材質</th>
+            <td>本體・手柄金具 / 鋁合金（氟樹脂塗膜加工）  
+底部 / 不鏽鋼（鉻18%）（底部厚度約3.0mm（含底部））  
+手柄・蓋子把手 / 酚醛樹脂  
+玻璃蓋 / 強化玻璃</td>
+        </tr>
+        
+        <tr>
+            <th>重量</th>
+            <td>約700g（僅鍋身）/ 約1,100g（含蓋）</td>
+        </tr>
+        
+        <tr>
+            <th>滿水容量</th>
+            <td>約1.4L</td>
+        </tr>
+        
+        <tr>
+            <th>顏色</th>
+            <td>黑色（本體）  
+※蓋子把手和手柄邊緣為紅色（限首批生產）</td>
+        </tr>
+        
+        <tr>
+            <th>原產國</th>
+            <td>日本</td>
+        </tr>
+        
+        <tr>
+            <th>其他</th>
+            <td>適用於IH爐與瓦斯爐</td>
+        </tr>
+        
+    </tbody>
+</table>
+
+<article>
+    <div style="text-align: center">
+        <img
+            style="margin-bottom: 16px; float: none"
+            alt=""
+            src="https://cdn.shopify.com/s/files/1/0633/7511/4460/files/4w1h-divider.png"
+        >
+    </div>
+</article>
+
+<!-- 使用注意 ----------------------------------------------------------->
+<div class="feature-block">
+    <div class="main-text">
+        <p><span style="text-decoration: underline">注意事項</span></p>
+        <ul>
+            
+            <li style="text-align: left">原廠授權公司貨，請放心選購。</li>
+            
+            <li style="text-align: left">鑑賞期非試用期，經拆封使用過後無提供退換貨服務。</li>
+            
+            <li style="text-align: left">首次使用前請以中性清潔劑手洗並充分乾燥。</li>
+            
+            <li style="text-align: left">商品顏色會因拍照光線環境或手機螢幕色差等因素有所差異，依實際出貨為準。</li>
+            
+            <li style="text-align: left">商品細節如有疑問，歡迎聯繫客服。</li>
+            
+        </ul>
+        
+    </div>
+</div> 

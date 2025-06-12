@@ -1,0 +1,156 @@
+{
+  "code": "4w1h_010",
+  "name": "米飯烹煮雙享鍋",
+  "brand": "燕三条キッチン研究所",
+  "desc": "隨著麵包、麵類和即食米飯的普及，沒有電鍋的家庭似乎越來越多？考量到現代的米飯需求，我們追求即使是少量也能煮出美味的方式，最終研發出這款適合兩人份的簡便炊飯鍋，採用慢速蒸汽加熱。",
+  "spec": [
+    {
+      "label": "品名",
+      "value": "米飯烹煮雙享鍋"
+    },
+    {
+      "label": "定價",
+      "value": "6,600日圓（含稅600日圓）"
+    },
+    {
+      "label": "型號",
+      "value": "4w1h_010"
+    },
+    {
+      "label": "尺寸",
+      "value": "約15.8 × 20.4 × 高度11.7cm  \n（外鍋深度約9.5cm，內鍋約6cm）(底部厚度約0.7mm)"
+    },
+    {
+      "label": "材質",
+      "value": "外鍋・內鍋 / 不鏽鋼(含鉻18%)  \n              (外鍋 / 氟素樹脂塗膜加工)  \n              蓋把手 / 酚醛樹脂  \n              蓋 / 不鏽鋼"
+    },
+    {
+      "label": "重量",
+      "value": "約790g"
+    },
+    {
+      "label": "滿水容量",
+      "value": "外鍋 / 約2.0L 內鍋 / 約0.7L"
+    },
+    {
+      "label": "顏色",
+      "value": "黑色（本體）"
+    },
+    {
+      "label": "原產國",
+      "value": "日本"
+    },
+    {
+      "label": "其他",
+      "value": "適用於IH爐與瓦斯爐"
+    }
+  ],
+  "wh": [
+    {
+      "title": "When",
+      "text": "早上吃麵包，中午吃便利商店的食物，吃飯的機會越來越少。"
+    },
+    {
+      "title": "Who",
+      "text": "對於一個人或兩個人生活來說，煮飯這件事本身就有點麻煩。"
+    },
+    {
+      "title": "What",
+      "text": "如果要吃飯，基本上都會追求「美味的米飯」。"
+    },
+    {
+      "title": "Why",
+      "text": "電鍋通常沉重且佔據固定位置。"
+    },
+    {
+      "title": "How",
+      "text": "什麼樣的煮飯工具可以讓你輕鬆洗米、冷卻、不用調整火候，還能輕鬆收拾呢？"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-4w1h_010_mainimg.webp",
+      "url": null,
+      "alt": "4w1h_010",
+      "status": "ok"
+    },
+    "hero": {
+      "filename": "uncle-benny-4w1h_010_hero.webp",
+      "url": null,
+      "alt": "4w1h_010",
+      "status": "ok"
+    },
+    "thema": {
+      "filename": "uncle-benny-4w1h_010_thema.webp",
+      "url": null,
+      "alt": "適合兩位大人享用的飯量。",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-4w1h_010__rice_slide_01.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-4w1h_010__rice_slide_02.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-4w1h_010__rice_slide_03.webp",
+        "url": null,
+        "alt": "",
+        "status": "ok"
+      }
+    ]
+  },
+  "features": [
+    {
+      "filename": "uncle-benny-4w1h_010__rice_feature_01.webp",
+      "alt": "讓米飯變得輕鬆簡單，適中的尺寸感",
+      "title": "讓米飯變得輕鬆簡單，適中的尺寸感",
+      "desc": "這款全不鏽鋼鍋可以煮出適合兩位大人享用的剛好份量的米飯。即使家中沒有電鍋，也能在想吃的時候輕鬆享受現煮的美味白飯。容量最大可達約1.5合，煮好後最多可達約500克的米飯。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_010__rice_feature_02.webp",
+      "alt": "只需放在火上，就能輕鬆煮飯。",
+      "title": "只需放在火上，就能輕鬆煮飯。",
+      "desc": "只需在外鍋加水加熱即可。透過蒸氣孔流入內鍋的蒸氣力量，讓米飯慢慢熟透。因此，即使不調整火力，也能煮出不焦不糊、蓬鬆光亮的米飯。\n\n※白米需浸泡約30分鐘，加熱約20分鐘，蒸約10分鐘即可完成。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_010__rice_feature_03.webp",
+      "alt": "冷啟動與慢慢蒸氣的實力是什麼呢？",
+      "title": "冷啟動與慢慢蒸氣的實力是什麼呢？",
+      "desc": "採用的是「加入冰塊後，能讓米飯變得更加鬆軟甘甜」的原理。據說這是因為加熱時溫度會慢慢上升。因此，我們選用了這種「蒸氣」炊飯法。洗米後，將整個鍋子放入冰箱冷藏，可以期待更緩慢的溫度上升。",
+      "youtube": null
+    },
+    {
+      "filename": null,
+      "alt": "",
+      "title": "輕鬆搖晃洗米，簡便又快速。",
+      "desc": "將意外繁瑣的「洗米」變得更加輕鬆愉快。只需將水加到內鍋的八分滿，然後上下搖晃大約10次就可以了！接著將蓋子旋轉約45度並按住，從蒸氣孔迅速瀝水。重複這個步驟大約兩次就完成洗米了。",
+      "youtube": "https://www.youtube.com/embed/HnU-AdkAFG0?si=2f98j9G0KM8WMaJY"
+    },
+    {
+      "filename": "uncle-benny-4w1h_010__rice_feature_04.webp",
+      "alt": "可放入洗碗機清洗，材質堅固且不易刮傷。",
+      "title": "可放入洗碗機清洗，材質堅固且不易刮傷。",
+      "desc": "由於內鍋採用不鏽鋼材質，因此不必擔心電飯鍋常見的氟素塗層脫落問題。清洗時可以放心用力刷洗，不易刮傷且耐用。採用「蒸氣」炊飯方式，不會產生焦底，與洗碗機的相容性也非常優秀。",
+      "youtube": null
+    },
+    {
+      "filename": "uncle-benny-4w1h_010__rice_feature_05.webp",
+      "alt": "也可以用來蒸料理或製作起司火鍋等多種變化料理。",
+      "title": "也可以用來蒸料理或製作起司火鍋等多種變化料理。",
+      "desc": "健康的蒸料理、肉包與燒賣，甚至是起司或巧克力火鍋等派對菜單都能輕鬆應對！還可以用內鍋整體製作布丁和蒸蛋糕等甜點。",
+      "youtube": null
+    }
+  ],
+  "notices": [],
+  "hashtags": "#雙人份炊飯鍋 #簡便米食 #蒸氣慢煮 #冰箱浸水 #搖晃洗米 #蒸煮料理 #起司火鍋"
+}
