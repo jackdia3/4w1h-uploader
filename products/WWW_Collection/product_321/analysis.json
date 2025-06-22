@@ -609,30 +609,30 @@
       "local_path": "product_321\\images\\F2203_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_01.jpg",
       "selling_points": [
         {
-          "local_path": "product_321/images/F2203_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_01-crop01.jpg",
-          "summary": "此圖片展示了戰術面紙套以及各樣戶外生存工具的配置，強調了產品的多功能存儲設計和耐用材質。",
+          "local_path": "product_321/images/F2203_Wet-Tissue-Case_필드컷_01-crop01.jpg",
+          "summary": "此圖片展示了各種戶外或野營用品整齊擺放，突出展示了「Wild Wild West 戰術面紙套」和其他配件。這強調了產品與其他戶外裝備的兼容性和功能性。",
           "text_blocks": []
         },
         {
-          "local_path": "product_321/images/F2203_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_01-crop03.jpg",
-          "summary": "通過展示戰術面紙套的側面和前面的包裝標籤，凸顯了產品的品牌元素及高質感材料。",
+          "local_path": "product_321/images/F2203_Wet-Tissue-Case_필드컷_01-crop03.jpg",
+          "summary": "此圖特寫了「Wild Wild West 戰術面紙套」的外部設計，包括戰術環和標籤。圖像聚焦於產品的細部和質地，突出其耐用的材料和功能性設計。",
           "text_blocks": []
         }
       ],
       "use_cases": [
         {
-          "local_path": "product_321/images/F2203_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_01-crop02.jpg",
-          "summary": "圖片中展示了裝滿各種戶外用具的戰術面紙套，包括刀具、緊急求生工具等，強調產品在野外活動中的實際使用情境。",
+          "local_path": "product_321/images/F2203_Wet-Tissue-Case_필드컷_01-crop02.jpg",
+          "summary": "圖片展示了在營地或戶外活動中實際使用「Wild Wild West 戰術面紙套」存放各類工具和裝備的情境。這提供了使用產品的具體案例。",
           "text_blocks": []
         },
         {
-          "local_path": "product_321/images/F2203_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_01-crop04.jpg",
-          "summary": "此圖片展示了戰術面紙套內部裝有野營專用金屬碗和其他用品，指出產品的實用性和野營場景中的使用。",
+          "local_path": "product_321/images/F2203_Wet-Tissue-Case_필드컷_01-crop04.jpg",
+          "summary": "圖片顯示了「Wild Wild West 戰術面紙套」如何在夜間或低光環境下存儲必需的戶外裝備，包括食物容器和火具，示範了產品在實際使用中的多功能性。",
           "text_blocks": []
         },
         {
-          "local_path": "product_321/images/F2203_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_01-crop05.jpg",
-          "summary": "圖片中展示的是戰術面紙套在草地上的使用情境，含括多用途工具和存储特性，確認了其在户外的實用性。",
+          "local_path": "product_321/images/F2203_Wet-Tissue-Case_필드컷_01-crop05.jpg",
+          "summary": "在這幅圖片中，「Wild Wild West 戰術面紙套」被使用於野餐或戶外活動，顯示了可以存放多種工具及設備，包括飲食具，強調了其在不同戶外環境下的適用情境。",
           "text_blocks": []
         }
       ],
@@ -651,23 +651,37 @@
       "local_path": "product_321\\images\\F2204_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_02.jpg",
       "selling_points": [
         {
-          "local_path": "product_321/images/F2204_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_02-crop03.jpg",
-          "summary": "這張圖片聚焦於產品的細節呈現，包括面紙套上的品牌標籤和精緻的縫製技巧。可以看到「Wild Wild West」的文字標籤，顯示出產品品牌和高品質的製造來源，這強調了它的賣點。",
-          "text_blocks": []
-        }
-      ],
-      "use_cases": [
-        {
-          "local_path": "product_321/images/F2204_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_02-crop01.jpg",
-          "summary": "這張照片展示了戰術面紙套在一個精心佈置的營地環境中的使用情景。產品陳列在歷經苦痛的場合，周圍擺放著石油燈和木材，烘托出野外使用的氛圍。",
-          "text_blocks": []
+          "local_path": "product_321/images/F2204_Wet-Tissue-Case_필드컷_02-crop01.jpg",
+          "summary": "這張照片集中展示了「Wild Wild West  戰術面紙套」的多個產品特點，如材質和設計。",
+          "text_blocks": [
+            {
+              "type": "product_name",
+              "content": "Wild Wild West 戰術面紙套"
+            }
+          ]
         },
         {
-          "local_path": "product_321/images/F2204_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_02-crop02.jpg",
-          "summary": "這張照片著重展示面紙套的 practical 使用情境，置於黑色戶外活動裝備上。這顯示了產品在實際生活中的用途，符合 'use_case' 的定義。",
-          "text_blocks": []
+          "local_path": "product_321/images/F2204_Wet-Tissue-Case_필드컷_02-crop02.jpg",
+          "summary": "照片展示了特寫細節，如產品標籤和其矩陣掃描條碼標籤，強調了設計細節和製造資訊。",
+          "text_blocks": [
+            {
+              "type": "product_label",
+              "content": "Wild Wild West 戰術面紙套 含制造商資訊"
+            }
+          ]
+        },
+        {
+          "local_path": "product_321/images/F2204_Wet-Tissue-Case_필드컷_02-crop03.jpg",
+          "summary": "這張圖片聚焦於特定產品的标签，展示设计精緻性和製造细节。",
+          "text_blocks": [
+            {
+              "type": "product_label",
+              "content": "Wild Wild West 戰術面紙套 含製造商資訊"
+            }
+          ]
         }
       ],
+      "use_cases": [],
       "spec_images": [],
       "generic_images": []
     },
@@ -684,27 +698,22 @@
       "selling_points": [],
       "use_cases": [
         {
-          "local_path": "product_321/images/F2205_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_03-crop01.jpg",
-          "summary": "此圖展示了「Wild Wild West 戰術面紙套」在露營等戶外活動中的應用場景，適合強調其在特定情境下的使用價值。",
-          "text_blocks": [
-            {
-              "type": "translation",
-              "content": "契約：Wild Wild West - 根據1962年聯合國公海法第二百權條所擬定及其它適用國際條約 Made in Korea"
-            }
-          ]
-        },
-        {
-          "local_path": "product_321/images/F2205_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_03-crop02.jpg",
-          "summary": "此圖同樣展示了「Wild Wild West 戰術面紙套」在戶外露營環境中的使用情境，特別是放置於營地桌上的實際應用。",
+          "local_path": "product_321/images/F2205_Wet-Tissue-Case_필드컷_03-crop01.jpg",
+          "summary": "產品在戶外營地使用的情景展示，強調面紙套在實際使用中的方便性。",
           "text_blocks": []
         },
         {
-          "local_path": "product_321/images/F2205_Wet-Tissue-Case_%ED%95%84%EB%93%9C%EC%BB%B7_03-crop03.jpg",
-          "summary": "圖片顯示晚上使用「Wild Wild West 戰術面紙套」的情境，接近篝火或燐光，增強產品的夜間實用性展示。",
+          "local_path": "product_321/images/F2205_Wet-Tissue-Case_필드컷_03-crop02.jpg",
+          "summary": "圖片顯示面紙套置於戶外營地桌上，隨時可供使用，展示其實用性和使用情境。",
+          "text_blocks": []
+        },
+        {
+          "local_path": "product_321/images/F2205_Wet-Tissue-Case_필드컷_03-crop03.jpg",
+          "summary": "夜晚的營地使用情景，突出面紙套在戶外活動中的便利性和必要性。",
           "text_blocks": [
             {
               "type": "translation",
-              "content": "契約：Wild Wild West - 根據1962年聯合國公海法第二百權條所擬定及其它適用國際條約 Made in Korea"
+              "content": "文字描述為產品的名稱與品牌，沒有具體的韓文需翻譯。"
             }
           ]
         }

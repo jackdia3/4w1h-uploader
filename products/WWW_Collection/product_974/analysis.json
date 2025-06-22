@@ -14,7 +14,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": true,
-      "local_path": "product_974\\images\\F6204_HW_main_06.jpg"
+      "local_path": "product_974\\images\\F6204_HW_main_06.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2025/05/28/F6205_HW_main_07.jpg",
@@ -25,7 +29,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": true,
-      "local_path": "product_974\\images\\F6205_HW_main_07.jpg"
+      "local_path": "product_974\\images\\F6205_HW_main_07.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2025/05/28/F6206_HW_main_05.jpg",
@@ -36,7 +44,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": true,
-      "local_path": "product_974\\images\\F6206_HW_main_05.jpg"
+      "local_path": "product_974\\images\\F6206_HW_main_05.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2025/05/28/F6207_HW_main_02.jpg",
@@ -47,7 +59,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": true,
-      "local_path": "product_974\\images\\F6207_HW_main_02.jpg"
+      "local_path": "product_974\\images\\F6207_HW_main_02.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2025/05/28/F6199_Log-table-limited-edition_01.jpg",
@@ -109,7 +125,8 @@
             }
           ]
         }
-      ]
+      ],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2025/05/28/F6200_Log-table-limited-edition_02.jpg",
@@ -164,7 +181,9 @@
           "summary": "此圖涵蓋多個產品在野營情境中的應用，如飲料保持、照明裝置支援等，顯示出該產品群的多樣化使用方式和場景適用性。",
           "text_blocks": []
         }
-      ]
+      ],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2025/05/28/F6201_Log-table-limited-edition_03.jpg",
@@ -252,7 +271,9 @@
           "summary": "圖片中一只手輕觸著具有「Wild Wild West」圖案的鋁合金表面，展示了產品質感和紋理的接近觀察，同時也傳達出手感的細膩程度。",
           "text_blocks": []
         }
-      ]
+      ],
+      "use_cases": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2025/05/28/F6202_Log-table-limited-edition_04.jpg",
@@ -339,7 +360,8 @@
           "summary": "此圖像顯示了焚火桌配套的存放袋，其中包含桌面的部分以及袋子的詳細設計，展示了產品如何被實用地攜帶與存儲。",
           "text_blocks": []
         }
-      ]
+      ],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2025/05/28/F6203_Log-table-limited-edition_05.jpg",
@@ -367,7 +389,10 @@
           "summary": "此圖再次展示了焚火桌用於休閒娛樂的情境，桌上有壺和玻璃杯，旁邊是戶外設備，整體場景強調了桌子在戶外使用的多功能性。",
           "text_blocks": []
         }
-      ]
+      ],
+      "selling_points": [],
+      "spec_images": [],
+      "generic_images": []
     }
   ],
   "specs": [

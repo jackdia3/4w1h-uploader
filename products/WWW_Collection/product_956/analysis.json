@@ -14,7 +14,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": true,
-      "local_path": "product_956\\images\\F5930_main_FG00.jpg"
+      "local_path": "product_956\\images\\F5930_main_FG00.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5931_main_FG01.jpg",
@@ -25,7 +29,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": true,
-      "local_path": "product_956\\images\\F5931_main_FG01.jpg"
+      "local_path": "product_956\\images\\F5931_main_FG01.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5932_main_FG02.jpg",
@@ -36,7 +44,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": true,
-      "local_path": "product_956\\images\\F5932_main_FG02.jpg"
+      "local_path": "product_956\\images\\F5932_main_FG02.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5933_main_FG03.jpg",
@@ -47,7 +59,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": true,
-      "local_path": "product_956\\images\\F5933_main_FG03.jpg"
+      "local_path": "product_956\\images\\F5933_main_FG03.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5920_Fire-Gloves-PRO_01.jpg",
@@ -58,7 +74,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": false,
-      "local_path": "product_956\\images\\F5920_Fire-Gloves-PRO_01.jpg"
+      "local_path": "product_956\\images\\F5920_Fire-Gloves-PRO_01.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5921_Fire-Gloves-PRO_02.jpg",
@@ -69,7 +89,11 @@
       "parent_class": [],
       "parent_id": "",
       "is_main": false,
-      "local_path": "product_956\\images\\F5921_Fire-Gloves-PRO_02.jpg"
+      "local_path": "product_956\\images\\F5921_Fire-Gloves-PRO_02.jpg",
+      "selling_points": [],
+      "use_cases": [],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5922_Fire-Gloves-PRO_03.jpg",
@@ -129,7 +153,9 @@
           "summary": "此圖片展示了手套的具體尺寸，從不同角度提供尺寸的詳細度量，清晰顯示是用來解釋尺寸和規格的。",
           "text_blocks": []
         }
-      ]
+      ],
+      "use_cases": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5923_Fire-Gloves-PRO_04.jpg",
@@ -164,7 +190,9 @@
             }
           ]
         }
-      ]
+      ],
+      "spec_images": [],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5924_Fire-Gloves-PRO_05.jpg",
@@ -226,7 +254,8 @@
           "summary": "此圖展示了手套整體的設計以及其掛勾，適合作為展示其在各種戶外活動中如何掛掛掛實用的實例。",
           "text_blocks": []
         }
-      ]
+      ],
+      "generic_images": []
     },
     {
       "src": "https://wildwildwest.co.kr/wp-content/uploads/mangboard/2024/12/23/F5925_Fire-Gloves-PRO_06.jpg",
@@ -266,7 +295,9 @@
           "summary": "圖片中的使用者正在使用手套處理燃料盒，突出了手套在保護手部安全和操作方便性方面的用途。",
           "text_blocks": []
         }
-      ]
+      ],
+      "spec_images": [],
+      "generic_images": []
     }
   ],
   "specs": [
