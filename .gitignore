@@ -1,1 +1,8 @@
-4w1h-min/scripts/.env
+# Log files
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env

@@ -1,0 +1,216 @@
+{%- macro render_story(image) -%}
+<article class="product-story">
+    {%- if image.text -%}
+    <div class="product-story__text">
+        <p>{{ image.text | nl2br }}</p>
+    </div>
+    {%- else -%}
+    <img src="{{ image.src }}" alt="" class="product-story__image">
+    {%- endif -%}
+</article>
+{%- endmacro -%}
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ product_name }}</title>
+    <meta name="description" content="{{ meta_description }}">
+    <style>
+    .full-img {
+        display: block;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        height: auto;
+    }
+    .main-text {
+        max-width: 700px;
+        margin: 2em auto;
+        text-align: left;
+        font-size: 1em;
+    }
+    .main-text p {
+        line-height: 1.8;
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+    }
+    .hero-section {
+        position: relative;
+        width: 100vw;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        overflow: hidden;
+        background: #fff;
+    }
+    .hero-img {
+        width: 100vw;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+    .hero-logo {
+        text-align: center;
+    }
+    .hero-logo img {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        width: 200px;
+        text-align: center;
+    }
+    .section-title {
+        font-size: 1.8em;
+        font-weight: 600;
+        text-align: center;
+        margin-top: 2.5em;
+        margin-bottom: 1.5em;
+        letter-spacing: 2px;
+        color: #333;
+    }
+    .feature-block {
+        max-width: 900px;
+        margin: 0 auto 2.5em auto;
+        text-align: center;
+    }
+    .feature-block .main-text {
+        text-align: left;
+        margin: 1.5em auto 2em auto;
+        max-width: 700px;
+    }
+    .spec {
+        border-collapse: collapse;
+        font-size: 1em;
+        width: 100%;
+        max-width: 800px;
+        border: 1px solid #e9ecef;
+        margin: 2em auto;
+    }
+    .spec th,
+    .spec td {
+        border: 1px solid #e9ecef;
+        padding: 1em;
+        text-align: left;
+    }
+    .spec th {
+        background: #f8f9fa;
+        width: 30%;
+        font-weight: 600;
+    }
+    @media (max-width: 768px) {
+        .hero-section img,
+        .feature-block .full-img {
+            width: 100vw;
+            max-width: none;
+            margin-left: calc(-50vw + 50%);
+        }
+        .main-text,
+        .feature-block .main-text {
+            max-width: 92%;
+            margin: 1.5em auto 2em auto;
+        }
+    }
+    </style>
+</head>
+<body>
+
+<!-- ===== HERO ===== -->
+<section class="hero-section">
+    {%- if hero_image -%}
+    <img src="{{ to_cdn(hero_image.local_path) }}" alt="{{ product_name }}" class="hero-img" loading="lazy">
+    {%- endif -%}
+</section>
+
+<!-- ===== LOGO & INTRO ===== -->
+<div class="hero-logo">
+    <img src="{{ logo_url }}" alt="{{ brand_name }} Logo">
+</div>
+{%- if intro_text -%}
+<div class="main-text">
+    <p>{{ intro_text | nl2br }}</p>
+</div>
+{%- endif -%}
+
+<!-- ===== SELLING POINTS ===== -->
+{% if selling_points %}
+<section id="selling-points">
+    <h2 class="section-title">產品特點</h2>
+    {%- for item in selling_points -%}
+    <div class="feature-block">
+        <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="{{ item.summary | striptags | replace('\n', ' ') }}">
+        {%- if item.summary -%}
+        <div class="main-text">
+            <p>{{ item.summary | nl2br }}</p>
+        </div>
+        {%- endif -%}
+    </div>
+    {%- endfor -%}
+</section>
+{% endif %}
+
+<!-- ===== USE CASES ===== -->
+{% if use_cases %}
+<section id="use-cases">
+    <h2 class="section-title">使用情境</h2>
+    {%- for item in use_cases -%}
+    <div class="feature-block">
+        <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="{{ item.summary | striptags | replace('\n', ' ') }}">
+        {%- if item.summary -%}
+        <div class="main-text">
+            <p>{{ item.summary | nl2br }}</p>
+        </div>
+        {%- endif -%}
+    </div>
+    {%- endfor -%}
+</section>
+{% endif %}
+
+<!-- ===== SPECIFICATIONS ===== -->
+<section id="specifications">
+    <h2 class="section-title">規格說明</h2>
+    {%- if spec_images -%}
+        {%- for item in spec_images -%}
+        <div class="feature-block">
+            <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="規格說明圖">
+            {%- if item.summary -%}
+            <div class="main-text">
+                <p>{{ item.summary | nl2br }}</p>
+            </div>
+            {%- endif -%}
+        </div>
+        {%- endfor -%}
+    {%- endif -%}
+
+    {%- if specs -%}
+    <table class="spec">
+        <tbody>
+            {%- for row in specs -%}
+            <tr>
+                <th>{{ row.label }}</th>
+                <td>{{ row.value }}</td>
+            </tr>
+            {%- endfor -%}
+        </tbody>
+    </table>
+    {%- endif -%}
+</section>
+
+<!-- ===== NOTICES ===== -->
+{%- if notices -%}
+<div class="feature-block">
+    <div class="main-text">
+        <p style="text-decoration: underline;">注意事項</p>
+        <ul style="padding-left: 1.5em; list-style-position: outside;">
+            {%- for notice in notices -%}
+            <li style="text-align: left; margin-bottom: 0.5em;">{{ notice }}</li>
+            {%- endfor -%}
+        </ul>
+    </div>
+</div>
+{%- endif -%}
+
+</body>
+</html> 

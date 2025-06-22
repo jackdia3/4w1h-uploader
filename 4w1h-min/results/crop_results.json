@@ -1,0 +1,2260 @@
+[
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2695_LTmain01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2695_LTmain01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2695_LTmain01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 117,
+        "height": 117
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2695_LTmain01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2695_LTmain01_crop02.jpg",
+        "y_start": 117,
+        "y_end": 297,
+        "height": 180
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2695_LTmain01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2695_LTmain01_crop03.jpg",
+        "y_start": 297,
+        "y_end": 1440,
+        "height": 1143
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop03.jpg",
+        "y_start": 82,
+        "y_end": 238,
+        "height": 156
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop04.jpg",
+        "y_start": 238,
+        "y_end": 392,
+        "height": 154
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop02.jpg",
+        "y_start": 20,
+        "y_end": 202,
+        "height": 182
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop03.jpg",
+        "y_start": 202,
+        "y_end": 365,
+        "height": 163
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop04.jpg",
+        "y_start": 365,
+        "y_end": 606,
+        "height": 241
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop05.jpg",
+        "y_start": 606,
+        "y_end": 836,
+        "height": 230
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop06.jpg",
+        "y_start": 836,
+        "y_end": 1063,
+        "height": 227
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2696_LTmain02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2696_LTmain02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2696_LTmain02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 468,
+        "height": 468
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2696_LTmain02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2696_LTmain02_crop54.jpg",
+        "y_start": 587,
+        "y_end": 1440,
+        "height": 853
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD_crop05.jpg",
+        "y_start": 246,
+        "y_end": 350,
+        "height": 104
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD_crop06.jpg",
+        "y_start": 350,
+        "y_end": 440,
+        "height": 90
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD_crop07.jpg",
+        "y_start": 440,
+        "y_end": 560,
+        "height": 120
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F3593_%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%A7%A4%EC%A0%84%ED%99%95%EC%9D%B8%EC%82%AC%ED%95%AD_crop09.jpg",
+        "y_start": 636,
+        "y_end": 735,
+        "height": 99
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6076_Log-table_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6076_Log-table_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6076_Log-table_01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 747,
+        "height": 747
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6076_Log-table_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6076_Log-table_01_crop02.jpg",
+        "y_start": 747,
+        "y_end": 952,
+        "height": 205
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6076_Log-table_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6076_Log-table_01_crop03.jpg",
+        "y_start": 952,
+        "y_end": 1550,
+        "height": 598
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6076_Log-table_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6076_Log-table_01_crop04.jpg",
+        "y_start": 1550,
+        "y_end": 2177,
+        "height": 627
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6076_Log-table_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6076_Log-table_01_crop05.jpg",
+        "y_start": 2177,
+        "y_end": 2960,
+        "height": 783
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6077_Log-table_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6077_Log-table_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6077_Log-table_02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 2168,
+        "height": 2168
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6077_Log-table_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6077_Log-table_02_crop02.jpg",
+        "y_start": 2168,
+        "y_end": 2551,
+        "height": 383
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6077_Log-table_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6077_Log-table_02_crop03.jpg",
+        "y_start": 2551,
+        "y_end": 4145,
+        "height": 1594
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6077_Log-table_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6077_Log-table_02_crop04.jpg",
+        "y_start": 4145,
+        "y_end": 4541,
+        "height": 396
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6078_Log-table_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6078_Log-table_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6078_Log-table_03_crop01.jpg",
+        "y_start": 0,
+        "y_end": 376,
+        "height": 376
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6078_Log-table_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6078_Log-table_03_crop02.jpg",
+        "y_start": 376,
+        "y_end": 1221,
+        "height": 845
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6078_Log-table_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6078_Log-table_03_crop03.jpg",
+        "y_start": 1221,
+        "y_end": 6118,
+        "height": 4897
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6078_Log-table_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6078_Log-table_03_crop04.jpg",
+        "y_start": 6118,
+        "y_end": 6443,
+        "height": 325
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6078_Log-table_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6078_Log-table_03_crop05.jpg",
+        "y_start": 6443,
+        "y_end": 7371,
+        "height": 928
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6078_Log-table_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6078_Log-table_03_crop06.jpg",
+        "y_start": 7371,
+        "y_end": 7806,
+        "height": 435
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6079_main_LT01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6079_main_LT01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6079_main_LT01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 511,
+        "height": 511
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F6079_main_LT01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F6079_main_LT01_crop60.jpg",
+        "y_start": 725,
+        "y_end": 1000,
+        "height": 275
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop03.jpg",
+        "y_start": 82,
+        "y_end": 238,
+        "height": 156
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop04.jpg",
+        "y_start": 238,
+        "y_end": 392,
+        "height": 154
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop02.jpg",
+        "y_start": 20,
+        "y_end": 202,
+        "height": 182
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop03.jpg",
+        "y_start": 202,
+        "y_end": 365,
+        "height": 163
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop04.jpg",
+        "y_start": 365,
+        "y_end": 606,
+        "height": 241
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop05.jpg",
+        "y_start": 606,
+        "y_end": 836,
+        "height": 230
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop06.jpg",
+        "y_start": 836,
+        "y_end": 1063,
+        "height": 227
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3791_Log-table-Black-99.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3791_Log-table-Black-99.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3791_Log-table-Black-99_crop05.jpg",
+        "y_start": 246,
+        "y_end": 350,
+        "height": 104
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3791_Log-table-Black-99.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3791_Log-table-Black-99_crop06.jpg",
+        "y_start": 350,
+        "y_end": 440,
+        "height": 90
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3791_Log-table-Black-99.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3791_Log-table-Black-99_crop07.jpg",
+        "y_start": 440,
+        "y_end": 530,
+        "height": 90
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3791_Log-table-Black-99.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3791_Log-table-Black-99_crop08.jpg",
+        "y_start": 530,
+        "y_end": 621,
+        "height": 91
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3791_Log-table-Black-99.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3791_Log-table-Black-99_crop09.jpg",
+        "y_start": 621,
+        "y_end": 735,
+        "height": 114
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2706_Untitled-1.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2706_Untitled-1.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2706_Untitled-1_crop01.jpg",
+        "y_start": 0,
+        "y_end": 123,
+        "height": 123
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2706_Untitled-1.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\cropped\\F2706_Untitled-1_crop09.jpg",
+        "y_start": 292,
+        "y_end": 3720,
+        "height": 3428
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2778_LogTableSS_01.jpg",
+    "crops": []
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3856_Log-table-Black-01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3856_Log-table-Black-01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3856_Log-table-Black-01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 155,
+        "height": 155
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3856_Log-table-Black-01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3856_Log-table-Black-01_crop02.jpg",
+        "y_start": 155,
+        "y_end": 1547,
+        "height": 1392
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3856_Log-table-Black-01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3856_Log-table-Black-01_crop03.jpg",
+        "y_start": 1547,
+        "y_end": 2000,
+        "height": 453
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_383\\images\\F2762_LogTableSS_02.jpg",
+    "crops": []
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3857_Log-table-Black-02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3857_Log-table-Black-02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3857_Log-table-Black-02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 157,
+        "height": 157
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3857_Log-table-Black-02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3857_Log-table-Black-02_crop02.jpg",
+        "y_start": 157,
+        "y_end": 1166,
+        "height": 1009
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3857_Log-table-Black-02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3857_Log-table-Black-02_crop03.jpg",
+        "y_start": 1166,
+        "y_end": 2000,
+        "height": 834
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3859_Log-table-Black-04.jpg",
+    "crops": []
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6120_Log-table-Black_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6120_Log-table-Black_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6120_Log-table-Black_01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 747,
+        "height": 747
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6120_Log-table-Black_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6120_Log-table-Black_01_crop02.jpg",
+        "y_start": 747,
+        "y_end": 949,
+        "height": 202
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6120_Log-table-Black_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6120_Log-table-Black_01_crop03.jpg",
+        "y_start": 949,
+        "y_end": 1717,
+        "height": 768
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6120_Log-table-Black_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6120_Log-table-Black_01_crop04.jpg",
+        "y_start": 1717,
+        "y_end": 2351,
+        "height": 634
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6120_Log-table-Black_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6120_Log-table-Black_01_crop05.jpg",
+        "y_start": 2351,
+        "y_end": 3009,
+        "height": 658
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6120_Log-table-Black_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6120_Log-table-Black_01_crop06.jpg",
+        "y_start": 3009,
+        "y_end": 3849,
+        "height": 840
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3858_Log-table-Black-03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3858_Log-table-Black-03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3858_Log-table-Black-03_crop01.jpg",
+        "y_start": 0,
+        "y_end": 666,
+        "height": 666
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3858_Log-table-Black-03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3858_Log-table-Black-03_crop98.jpg",
+        "y_start": 1052,
+        "y_end": 1196,
+        "height": 144
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3858_Log-table-Black-03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3858_Log-table-Black-03_crop124.jpg",
+        "y_start": 1379,
+        "y_end": 2000,
+        "height": 621
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6121_Log-table-Black_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6121_Log-table-Black_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6121_Log-table-Black_02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 664,
+        "height": 664
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6121_Log-table-Black_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6121_Log-table-Black_02_crop05.jpg",
+        "y_start": 690,
+        "y_end": 1354,
+        "height": 664
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6121_Log-table-Black_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6121_Log-table-Black_02_crop09.jpg",
+        "y_start": 1379,
+        "y_end": 2043,
+        "height": 664
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6121_Log-table-Black_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6121_Log-table-Black_02_crop11.jpg",
+        "y_start": 2044,
+        "y_end": 2304,
+        "height": 260
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6121_Log-table-Black_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6121_Log-table-Black_02_crop14.jpg",
+        "y_start": 2309,
+        "y_end": 2659,
+        "height": 350
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3792_Log-table-Black-FC_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3792_Log-table-Black-FC_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3792_Log-table-Black-FC_01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 4922,
+        "height": 4922
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3792_Log-table-Black-FC_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F3792_Log-table-Black-FC_01_crop02.jpg",
+        "y_start": 4922,
+        "y_end": 5034,
+        "height": 112
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop03.jpg",
+        "y_start": 82,
+        "y_end": 238,
+        "height": 156
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop04.jpg",
+        "y_start": 238,
+        "y_end": 392,
+        "height": 154
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop02.jpg",
+        "y_start": 20,
+        "y_end": 202,
+        "height": 182
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop03.jpg",
+        "y_start": 202,
+        "y_end": 365,
+        "height": 163
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop04.jpg",
+        "y_start": 365,
+        "y_end": 606,
+        "height": 241
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop05.jpg",
+        "y_start": 606,
+        "y_end": 836,
+        "height": 230
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop06.jpg",
+        "y_start": 836,
+        "y_end": 1063,
+        "height": 227
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6123_Log-table-Black_04.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6123_Log-table-Black_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6123_Log-table-Black_04_crop01.jpg",
+        "y_start": 0,
+        "y_end": 135,
+        "height": 135
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6123_Log-table-Black_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6123_Log-table-Black_04_crop02.jpg",
+        "y_start": 135,
+        "y_end": 849,
+        "height": 714
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6123_Log-table-Black_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6123_Log-table-Black_04_crop03.jpg",
+        "y_start": 849,
+        "y_end": 1991,
+        "height": 1142
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6123_Log-table-Black_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6123_Log-table-Black_04_crop04.jpg",
+        "y_start": 1991,
+        "y_end": 6842,
+        "height": 4851
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6123_Log-table-Black_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6123_Log-table-Black_04_crop05.jpg",
+        "y_start": 6842,
+        "y_end": 7181,
+        "height": 339
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6123_Log-table-Black_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\cropped\\F6123_Log-table-Black_04_crop06.jpg",
+        "y_start": 7181,
+        "y_end": 8245,
+        "height": 1064
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4470_goalzero_04.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4470_goalzero_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4470_goalzero_04_crop02.jpg",
+        "y_start": 42,
+        "y_end": 183,
+        "height": 141
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4470_goalzero_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4470_goalzero_04_crop03.jpg",
+        "y_start": 183,
+        "y_end": 312,
+        "height": 129
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4470_goalzero_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4470_goalzero_04_crop04.jpg",
+        "y_start": 312,
+        "y_end": 441,
+        "height": 129
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4470_goalzero_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4470_goalzero_04_crop05.jpg",
+        "y_start": 441,
+        "y_end": 689,
+        "height": 248
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4471_goalzero_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4471_goalzero_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4471_goalzero_02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 713,
+        "height": 713
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4471_goalzero_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4471_goalzero_02_crop50.jpg",
+        "y_start": 827,
+        "y_end": 1230,
+        "height": 403
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4472_goalzero_10.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4472_goalzero_10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4472_goalzero_10_crop02.jpg",
+        "y_start": 71,
+        "y_end": 240,
+        "height": 169
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4472_goalzero_10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4472_goalzero_10_crop03.jpg",
+        "y_start": 240,
+        "y_end": 346,
+        "height": 106
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4472_goalzero_10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4472_goalzero_10_crop04.jpg",
+        "y_start": 346,
+        "y_end": 482,
+        "height": 136
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4472_goalzero_10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4472_goalzero_10_crop05.jpg",
+        "y_start": 482,
+        "y_end": 580,
+        "height": 98
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4472_goalzero_10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4472_goalzero_10_crop06.jpg",
+        "y_start": 580,
+        "y_end": 790,
+        "height": 210
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4472_goalzero_10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4472_goalzero_10_crop07.jpg",
+        "y_start": 790,
+        "y_end": 1064,
+        "height": 274
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4469_goalzero_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4469_goalzero_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4469_goalzero_01_crop02.jpg",
+        "y_start": 68,
+        "y_end": 519,
+        "height": 451
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F3793_Log-table-Black-FC_02.jpg",
+    "crops": []
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4486_goalzero_09.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4486_goalzero_09.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4486_goalzero_09_crop02.jpg",
+        "y_start": 39,
+        "y_end": 411,
+        "height": 372
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4486_goalzero_09.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4486_goalzero_09_crop03.jpg",
+        "y_start": 411,
+        "y_end": 944,
+        "height": 533
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4486_goalzero_09.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4486_goalzero_09_crop04.jpg",
+        "y_start": 944,
+        "y_end": 1198,
+        "height": 254
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4486_goalzero_09.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4486_goalzero_09_crop05.jpg",
+        "y_start": 1198,
+        "y_end": 1440,
+        "height": 242
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4493_goalzero_07.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4493_goalzero_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4493_goalzero_07_crop02.jpg",
+        "y_start": 53,
+        "y_end": 201,
+        "height": 148
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4493_goalzero_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4493_goalzero_07_crop03.jpg",
+        "y_start": 201,
+        "y_end": 1104,
+        "height": 903
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4493_goalzero_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4493_goalzero_07_crop04.jpg",
+        "y_start": 1104,
+        "y_end": 2497,
+        "height": 1393
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4493_goalzero_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4493_goalzero_07_crop05.jpg",
+        "y_start": 2497,
+        "y_end": 2732,
+        "height": 235
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4494_goalzero_08.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4494_goalzero_08.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4494_goalzero_08_crop02.jpg",
+        "y_start": 39,
+        "y_end": 173,
+        "height": 134
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4494_goalzero_08.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4494_goalzero_08_crop03.jpg",
+        "y_start": 173,
+        "y_end": 906,
+        "height": 733
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4494_goalzero_08.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4494_goalzero_08_crop04.jpg",
+        "y_start": 906,
+        "y_end": 1813,
+        "height": 907
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4494_goalzero_08.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4494_goalzero_08_crop05.jpg",
+        "y_start": 1813,
+        "y_end": 2092,
+        "height": 279
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4496_GZ_06.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4496_GZ_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4496_GZ_06_crop01.jpg",
+        "y_start": 0,
+        "y_end": 812,
+        "height": 812
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4496_GZ_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4496_GZ_06_crop60.jpg",
+        "y_start": 909,
+        "y_end": 2000,
+        "height": 1091
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4497_GZ_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4497_GZ_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4497_GZ_03_crop01.jpg",
+        "y_start": 0,
+        "y_end": 887,
+        "height": 887
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4497_GZ_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4497_GZ_03_crop198.jpg",
+        "y_start": 1232,
+        "y_end": 2000,
+        "height": 768
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4498_GZ_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4498_GZ_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4498_GZ_02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 201,
+        "height": 201
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4498_GZ_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4498_GZ_02_crop02.jpg",
+        "y_start": 201,
+        "y_end": 799,
+        "height": 598
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4498_GZ_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4498_GZ_02_crop03.jpg",
+        "y_start": 799,
+        "y_end": 2000,
+        "height": 1201
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4499_GZ_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4499_GZ_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4499_GZ_01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 1181,
+        "height": 1181
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4499_GZ_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4499_GZ_01_crop51.jpg",
+        "y_start": 1314,
+        "y_end": 2000,
+        "height": 686
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop03.jpg",
+        "y_start": 82,
+        "y_end": 238,
+        "height": 156
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop04.jpg",
+        "y_start": 238,
+        "y_end": 392,
+        "height": 154
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop02.jpg",
+        "y_start": 20,
+        "y_end": 202,
+        "height": 182
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop03.jpg",
+        "y_start": 202,
+        "y_end": 365,
+        "height": 163
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop04.jpg",
+        "y_start": 365,
+        "y_end": 606,
+        "height": 241
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop05.jpg",
+        "y_start": 606,
+        "y_end": 836,
+        "height": 230
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop06.jpg",
+        "y_start": 836,
+        "y_end": 1063,
+        "height": 227
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4474_goalzero_05.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4474_goalzero_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4474_goalzero_05_crop04.jpg",
+        "y_start": 8,
+        "y_end": 261,
+        "height": 253
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4474_goalzero_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4474_goalzero_05_crop96.jpg",
+        "y_start": 544,
+        "y_end": 658,
+        "height": 114
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4474_goalzero_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4474_goalzero_05_crop97.jpg",
+        "y_start": 658,
+        "y_end": 3429,
+        "height": 2771
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4474_goalzero_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4474_goalzero_05_crop103.jpg",
+        "y_start": 3442,
+        "y_end": 3980,
+        "height": 538
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4474_goalzero_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4474_goalzero_05_crop104.jpg",
+        "y_start": 3980,
+        "y_end": 4580,
+        "height": 600
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4474_goalzero_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4474_goalzero_05_crop111.jpg",
+        "y_start": 4640,
+        "y_end": 4799,
+        "height": 159
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4475_goalzero_06.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4475_goalzero_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4475_goalzero_06_crop09.jpg",
+        "y_start": 24,
+        "y_end": 2862,
+        "height": 2838
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\F4475_goalzero_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_630\\images\\cropped\\F4475_goalzero_06_crop31.jpg",
+        "y_start": 2930,
+        "y_end": 4660,
+        "height": 1730
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5413_main-6.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5413_main-6.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5413_main-6_crop01.jpg",
+        "y_start": 0,
+        "y_end": 813,
+        "height": 813
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5413_main-6.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5413_main-6_crop57.jpg",
+        "y_start": 924,
+        "y_end": 2000,
+        "height": 1076
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_516\\images\\F6122_Log-table-Black_03.jpg",
+    "crops": []
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5415_main-10.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5415_main-10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5415_main-10_crop01.jpg",
+        "y_start": 0,
+        "y_end": 201,
+        "height": 201
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5415_main-10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5415_main-10_crop02.jpg",
+        "y_start": 201,
+        "y_end": 798,
+        "height": 597
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5415_main-10.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5415_main-10_crop03.jpg",
+        "y_start": 798,
+        "y_end": 2000,
+        "height": 1202
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5416_main-11.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5416_main-11.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5416_main-11_crop01.jpg",
+        "y_start": 0,
+        "y_end": 432,
+        "height": 432
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5416_main-11.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5416_main-11_crop02.jpg",
+        "y_start": 432,
+        "y_end": 953,
+        "height": 521
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5416_main-11.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5416_main-11_crop03.jpg",
+        "y_start": 953,
+        "y_end": 2000,
+        "height": 1047
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5422_goalzero_BLACK_05.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5422_goalzero_BLACK_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5422_goalzero_BLACK_05_crop02.jpg",
+        "y_start": 38,
+        "y_end": 188,
+        "height": 150
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5422_goalzero_BLACK_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5422_goalzero_BLACK_05_crop03.jpg",
+        "y_start": 188,
+        "y_end": 608,
+        "height": 420
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5422_goalzero_BLACK_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5422_goalzero_BLACK_05_crop04.jpg",
+        "y_start": 608,
+        "y_end": 1020,
+        "height": 412
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5422_goalzero_BLACK_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5422_goalzero_BLACK_05_crop05.jpg",
+        "y_start": 1020,
+        "y_end": 1114,
+        "height": 94
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5422_goalzero_BLACK_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5422_goalzero_BLACK_05_crop06.jpg",
+        "y_start": 1114,
+        "y_end": 1381,
+        "height": 267
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5414_main-9.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5414_main-9.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5414_main-9_crop01.jpg",
+        "y_start": 0,
+        "y_end": 873,
+        "height": 873
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5414_main-9.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5414_main-9_crop192.jpg",
+        "y_start": 1225,
+        "y_end": 2000,
+        "height": 775
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5411_goalzero_BLACK_photo_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5411_goalzero_BLACK_photo_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5411_goalzero_BLACK_photo_01_crop02.jpg",
+        "y_start": 1,
+        "y_end": 264,
+        "height": 263
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5411_goalzero_BLACK_photo_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5411_goalzero_BLACK_photo_01_crop89.jpg",
+        "y_start": 468,
+        "y_end": 3433,
+        "height": 2965
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5411_goalzero_BLACK_photo_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5411_goalzero_BLACK_photo_01_crop96.jpg",
+        "y_start": 3454,
+        "y_end": 4223,
+        "height": 769
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5411_goalzero_BLACK_photo_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5411_goalzero_BLACK_photo_01_crop98.jpg",
+        "y_start": 4265,
+        "y_end": 4514,
+        "height": 249
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5411_goalzero_BLACK_photo_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5411_goalzero_BLACK_photo_01_crop99.jpg",
+        "y_start": 4514,
+        "y_end": 4638,
+        "height": 124
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5411_goalzero_BLACK_photo_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5411_goalzero_BLACK_photo_01_crop101.jpg",
+        "y_start": 4662,
+        "y_end": 4756,
+        "height": 94
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5426_goalzero_BLACK_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5426_goalzero_BLACK_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5426_goalzero_BLACK_03_crop01.jpg",
+        "y_start": 0,
+        "y_end": 114,
+        "height": 114
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5426_goalzero_BLACK_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5426_goalzero_BLACK_03_crop02.jpg",
+        "y_start": 114,
+        "y_end": 876,
+        "height": 762
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5426_goalzero_BLACK_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5426_goalzero_BLACK_03_crop03.jpg",
+        "y_start": 876,
+        "y_end": 1815,
+        "height": 939
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5426_goalzero_BLACK_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5426_goalzero_BLACK_03_crop04.jpg",
+        "y_start": 1815,
+        "y_end": 2180,
+        "height": 365
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5426_goalzero_BLACK_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5426_goalzero_BLACK_03_crop05.jpg",
+        "y_start": 2180,
+        "y_end": 2693,
+        "height": 513
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5426_goalzero_BLACK_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5426_goalzero_BLACK_03_crop06.jpg",
+        "y_start": 2693,
+        "y_end": 3578,
+        "height": 885
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5427_goalzero_BLACK_04.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5427_goalzero_BLACK_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5427_goalzero_BLACK_04_crop01.jpg",
+        "y_start": 0,
+        "y_end": 200,
+        "height": 200
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5427_goalzero_BLACK_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5427_goalzero_BLACK_04_crop02.jpg",
+        "y_start": 200,
+        "y_end": 458,
+        "height": 258
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5427_goalzero_BLACK_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5427_goalzero_BLACK_04_crop03.jpg",
+        "y_start": 458,
+        "y_end": 1184,
+        "height": 726
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5427_goalzero_BLACK_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5427_goalzero_BLACK_04_crop04.jpg",
+        "y_start": 1184,
+        "y_end": 1601,
+        "height": 417
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5428_goalzero_BLACK_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5428_goalzero_BLACK_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5428_goalzero_BLACK_01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 749,
+        "height": 749
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5428_goalzero_BLACK_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5428_goalzero_BLACK_01_crop02.jpg",
+        "y_start": 749,
+        "y_end": 1487,
+        "height": 738
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5428_goalzero_BLACK_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5428_goalzero_BLACK_01_crop03.jpg",
+        "y_start": 1487,
+        "y_end": 1787,
+        "height": 300
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5428_goalzero_BLACK_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5428_goalzero_BLACK_01_crop04.jpg",
+        "y_start": 1787,
+        "y_end": 2523,
+        "height": 736
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5428_goalzero_BLACK_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5428_goalzero_BLACK_01_crop05.jpg",
+        "y_start": 2523,
+        "y_end": 3692,
+        "height": 1169
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5429_goalzero_BLACK_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5429_goalzero_BLACK_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5429_goalzero_BLACK_02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 112,
+        "height": 112
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5429_goalzero_BLACK_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5429_goalzero_BLACK_02_crop02.jpg",
+        "y_start": 112,
+        "y_end": 1037,
+        "height": 925
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5429_goalzero_BLACK_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5429_goalzero_BLACK_02_crop03.jpg",
+        "y_start": 1037,
+        "y_end": 2471,
+        "height": 1434
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5429_goalzero_BLACK_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5429_goalzero_BLACK_02_crop04.jpg",
+        "y_start": 2471,
+        "y_end": 2839,
+        "height": 368
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop03.jpg",
+        "y_start": 82,
+        "y_end": 238,
+        "height": 156
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop04.jpg",
+        "y_start": 238,
+        "y_end": 392,
+        "height": 154
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop02.jpg",
+        "y_start": 20,
+        "y_end": 202,
+        "height": 182
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop03.jpg",
+        "y_start": 202,
+        "y_end": 365,
+        "height": 163
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop04.jpg",
+        "y_start": 365,
+        "y_end": 606,
+        "height": 241
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop05.jpg",
+        "y_start": 606,
+        "y_end": 836,
+        "height": 230
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop06.jpg",
+        "y_start": 836,
+        "y_end": 1063,
+        "height": 227
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5920_Fire-Gloves-PRO_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5920_Fire-Gloves-PRO_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5920_Fire-Gloves-PRO_01_crop17.jpg",
+        "y_start": 65,
+        "y_end": 171,
+        "height": 106
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5920_Fire-Gloves-PRO_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5920_Fire-Gloves-PRO_01_crop19.jpg",
+        "y_start": 198,
+        "y_end": 367,
+        "height": 169
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5920_Fire-Gloves-PRO_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5920_Fire-Gloves-PRO_01_crop20.jpg",
+        "y_start": 367,
+        "y_end": 615,
+        "height": 248
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5921_Fire-Gloves-PRO_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5921_Fire-Gloves-PRO_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5921_Fire-Gloves-PRO_02_crop02.jpg",
+        "y_start": 59,
+        "y_end": 152,
+        "height": 93
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5921_Fire-Gloves-PRO_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5921_Fire-Gloves-PRO_02_crop08.jpg",
+        "y_start": 431,
+        "y_end": 576,
+        "height": 145
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5922_Fire-Gloves-PRO_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5922_Fire-Gloves-PRO_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5922_Fire-Gloves-PRO_03_crop01.jpg",
+        "y_start": 0,
+        "y_end": 1148,
+        "height": 1148
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5922_Fire-Gloves-PRO_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5922_Fire-Gloves-PRO_03_crop02.jpg",
+        "y_start": 1148,
+        "y_end": 1752,
+        "height": 604
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5922_Fire-Gloves-PRO_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5922_Fire-Gloves-PRO_03_crop03.jpg",
+        "y_start": 1752,
+        "y_end": 2838,
+        "height": 1086
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5923_Fire-Gloves-PRO_04.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5923_Fire-Gloves-PRO_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5923_Fire-Gloves-PRO_04_crop02.jpg",
+        "y_start": 59,
+        "y_end": 1109,
+        "height": 1050
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5923_Fire-Gloves-PRO_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5923_Fire-Gloves-PRO_04_crop03.jpg",
+        "y_start": 1109,
+        "y_end": 2311,
+        "height": 1202
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5923_Fire-Gloves-PRO_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5923_Fire-Gloves-PRO_04_crop04.jpg",
+        "y_start": 2311,
+        "y_end": 2658,
+        "height": 347
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5924_Fire-Gloves-PRO_05.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5924_Fire-Gloves-PRO_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5924_Fire-Gloves-PRO_05_crop01.jpg",
+        "y_start": 0,
+        "y_end": 2253,
+        "height": 2253
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5924_Fire-Gloves-PRO_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5924_Fire-Gloves-PRO_05_crop02.jpg",
+        "y_start": 2253,
+        "y_end": 3483,
+        "height": 1230
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5924_Fire-Gloves-PRO_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5924_Fire-Gloves-PRO_05_crop03.jpg",
+        "y_start": 3483,
+        "y_end": 4857,
+        "height": 1374
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5412_goalzero_BLACK_photo_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5412_goalzero_BLACK_photo_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5412_goalzero_BLACK_photo_02_crop06.jpg",
+        "y_start": 8,
+        "y_end": 2896,
+        "height": 2888
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5412_goalzero_BLACK_photo_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5412_goalzero_BLACK_photo_02_crop08.jpg",
+        "y_start": 2907,
+        "y_end": 4639,
+        "height": 1732
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5930_main_FG00.jpg",
+    "crops": []
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5931_main_FG01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5931_main_FG01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5931_main_FG01_crop02.jpg",
+        "y_start": 60,
+        "y_end": 191,
+        "height": 131
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5931_main_FG01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5931_main_FG01_crop03.jpg",
+        "y_start": 191,
+        "y_end": 1500,
+        "height": 1309
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5932_main_FG02.jpg",
+    "crops": []
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5424_goalzero_BLACK_07.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5424_goalzero_BLACK_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5424_goalzero_BLACK_07_crop01.jpg",
+        "y_start": 0,
+        "y_end": 1991,
+        "height": 1991
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5424_goalzero_BLACK_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5424_goalzero_BLACK_07_crop58.jpg",
+        "y_start": 2166,
+        "y_end": 2250,
+        "height": 84
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5424_goalzero_BLACK_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5424_goalzero_BLACK_07_crop60.jpg",
+        "y_start": 2304,
+        "y_end": 2401,
+        "height": 97
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5424_goalzero_BLACK_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5424_goalzero_BLACK_07_crop101.jpg",
+        "y_start": 2864,
+        "y_end": 3021,
+        "height": 157
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5424_goalzero_BLACK_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5424_goalzero_BLACK_07_crop102.jpg",
+        "y_start": 3021,
+        "y_end": 3266,
+        "height": 245
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5424_goalzero_BLACK_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5424_goalzero_BLACK_07_crop103.jpg",
+        "y_start": 3266,
+        "y_end": 4141,
+        "height": 875
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop03.jpg",
+        "y_start": 82,
+        "y_end": 238,
+        "height": 156
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F2775_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_02_crop04.jpg",
+        "y_start": 238,
+        "y_end": 392,
+        "height": 154
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5933_main_FG03.jpg",
+    "crops": []
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop02.jpg",
+        "y_start": 20,
+        "y_end": 202,
+        "height": 182
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop03.jpg",
+        "y_start": 202,
+        "y_end": 365,
+        "height": 163
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop04.jpg",
+        "y_start": 365,
+        "y_end": 606,
+        "height": 241
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop05.jpg",
+        "y_start": 606,
+        "y_end": 836,
+        "height": 230
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F2776_%EB%B0%B0%EC%86%A1%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD_03_crop06.jpg",
+        "y_start": 836,
+        "y_end": 1063,
+        "height": 227
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6199_Log-table-limited-edition_01.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6199_Log-table-limited-edition_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6199_Log-table-limited-edition_01_crop01.jpg",
+        "y_start": 0,
+        "y_end": 748,
+        "height": 748
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6199_Log-table-limited-edition_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6199_Log-table-limited-edition_01_crop02.jpg",
+        "y_start": 748,
+        "y_end": 1018,
+        "height": 270
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6199_Log-table-limited-edition_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6199_Log-table-limited-edition_01_crop03.jpg",
+        "y_start": 1018,
+        "y_end": 1377,
+        "height": 359
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6199_Log-table-limited-edition_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6199_Log-table-limited-edition_01_crop04.jpg",
+        "y_start": 1377,
+        "y_end": 1843,
+        "height": 466
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6199_Log-table-limited-edition_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6199_Log-table-limited-edition_01_crop05.jpg",
+        "y_start": 1843,
+        "y_end": 2138,
+        "height": 295
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6199_Log-table-limited-edition_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6199_Log-table-limited-edition_01_crop06.jpg",
+        "y_start": 2138,
+        "y_end": 2876,
+        "height": 738
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6199_Log-table-limited-edition_01.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6199_Log-table-limited-edition_01_crop07.jpg",
+        "y_start": 2876,
+        "y_end": 3647,
+        "height": 771
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6201_Log-table-limited-edition_03.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6201_Log-table-limited-edition_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6201_Log-table-limited-edition_03_crop01.jpg",
+        "y_start": 0,
+        "y_end": 754,
+        "height": 754
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6201_Log-table-limited-edition_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6201_Log-table-limited-edition_03_crop02.jpg",
+        "y_start": 754,
+        "y_end": 1810,
+        "height": 1056
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6201_Log-table-limited-edition_03.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6201_Log-table-limited-edition_03_crop03.jpg",
+        "y_start": 1810,
+        "y_end": 7137,
+        "height": 5327
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5423_goalzero_BLACK_06.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5423_goalzero_BLACK_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5423_goalzero_BLACK_06_crop01.jpg",
+        "y_start": 0,
+        "y_end": 2948,
+        "height": 2948
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5423_goalzero_BLACK_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5423_goalzero_BLACK_06_crop02.jpg",
+        "y_start": 2948,
+        "y_end": 3101,
+        "height": 153
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5423_goalzero_BLACK_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5423_goalzero_BLACK_06_crop03.jpg",
+        "y_start": 3101,
+        "y_end": 3198,
+        "height": 97
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5423_goalzero_BLACK_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5423_goalzero_BLACK_06_crop135.jpg",
+        "y_start": 3632,
+        "y_end": 3870,
+        "height": 238
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\F5423_goalzero_BLACK_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_907\\images\\cropped\\F5423_goalzero_BLACK_06_crop137.jpg",
+        "y_start": 3882,
+        "y_end": 5482,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop01.jpg",
+        "y_start": 0,
+        "y_end": 664,
+        "height": 664
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop05.jpg",
+        "y_start": 688,
+        "y_end": 1352,
+        "height": 664
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop08.jpg",
+        "y_start": 1376,
+        "y_end": 2041,
+        "height": 665
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop12.jpg",
+        "y_start": 2066,
+        "y_end": 2730,
+        "height": 664
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop16.jpg",
+        "y_start": 2755,
+        "y_end": 4070,
+        "height": 1315
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop18.jpg",
+        "y_start": 4071,
+        "y_end": 4485,
+        "height": 414
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop20.jpg",
+        "y_start": 4486,
+        "y_end": 4691,
+        "height": 205
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop26.jpg",
+        "y_start": 4703,
+        "y_end": 4931,
+        "height": 228
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop41.jpg",
+        "y_start": 4951,
+        "y_end": 5150,
+        "height": 199
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop45.jpg",
+        "y_start": 5178,
+        "y_end": 5948,
+        "height": 770
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6202_Log-table-limited-edition_04.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6202_Log-table-limited-edition_04_crop49.jpg",
+        "y_start": 5977,
+        "y_end": 6641,
+        "height": 664
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6204_HW_main_06.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6204_HW_main_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6204_HW_main_06_crop01.jpg",
+        "y_start": 0,
+        "y_end": 185,
+        "height": 185
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6204_HW_main_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6204_HW_main_06_crop02.jpg",
+        "y_start": 185,
+        "y_end": 753,
+        "height": 568
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6204_HW_main_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6204_HW_main_06_crop03.jpg",
+        "y_start": 753,
+        "y_end": 1500,
+        "height": 747
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6205_HW_main_07.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6205_HW_main_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6205_HW_main_07_crop01.jpg",
+        "y_start": 0,
+        "y_end": 156,
+        "height": 156
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6205_HW_main_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6205_HW_main_07_crop02.jpg",
+        "y_start": 156,
+        "y_end": 827,
+        "height": 671
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6205_HW_main_07.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6205_HW_main_07_crop03.jpg",
+        "y_start": 827,
+        "y_end": 1500,
+        "height": 673
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6206_HW_main_05.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6206_HW_main_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6206_HW_main_05_crop01.jpg",
+        "y_start": 0,
+        "y_end": 394,
+        "height": 394
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6206_HW_main_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6206_HW_main_05_crop02.jpg",
+        "y_start": 394,
+        "y_end": 1072,
+        "height": 678
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6206_HW_main_05.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6206_HW_main_05_crop03.jpg",
+        "y_start": 1072,
+        "y_end": 1500,
+        "height": 428
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6207_HW_main_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6207_HW_main_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6207_HW_main_02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 542,
+        "height": 542
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6207_HW_main_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6207_HW_main_02_crop223.jpg",
+        "y_start": 969,
+        "y_end": 1061,
+        "height": 92
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6207_HW_main_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6207_HW_main_02_crop224.jpg",
+        "y_start": 1061,
+        "y_end": 1500,
+        "height": 439
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5925_Fire-Gloves-PRO_06.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5925_Fire-Gloves-PRO_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5925_Fire-Gloves-PRO_06_crop01.jpg",
+        "y_start": 0,
+        "y_end": 335,
+        "height": 335
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5925_Fire-Gloves-PRO_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5925_Fire-Gloves-PRO_06_crop37.jpg",
+        "y_start": 671,
+        "y_end": 6413,
+        "height": 5742
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\F5925_Fire-Gloves-PRO_06.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_956\\images\\cropped\\F5925_Fire-Gloves-PRO_06_crop88.jpg",
+        "y_start": 6671,
+        "y_end": 6770,
+        "height": 99
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6200_Log-table-limited-edition_02.jpg",
+    "crops": [
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6200_Log-table-limited-edition_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6200_Log-table-limited-edition_02_crop01.jpg",
+        "y_start": 0,
+        "y_end": 143,
+        "height": 143
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6200_Log-table-limited-edition_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6200_Log-table-limited-edition_02_crop41.jpg",
+        "y_start": 244,
+        "y_end": 664,
+        "height": 420
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6200_Log-table-limited-edition_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6200_Log-table-limited-edition_02_crop45.jpg",
+        "y_start": 689,
+        "y_end": 864,
+        "height": 175
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6200_Log-table-limited-edition_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6200_Log-table-limited-edition_02_crop49.jpg",
+        "y_start": 907,
+        "y_end": 1353,
+        "height": 446
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6200_Log-table-limited-edition_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6200_Log-table-limited-edition_02_crop53.jpg",
+        "y_start": 1378,
+        "y_end": 2042,
+        "height": 664
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6200_Log-table-limited-edition_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6200_Log-table-limited-edition_02_crop55.jpg",
+        "y_start": 2043,
+        "y_end": 2209,
+        "height": 166
+      },
+      {
+        "src": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6200_Log-table-limited-edition_02.jpg",
+        "dst": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\cropped\\F6200_Log-table-limited-edition_02_crop107.jpg",
+        "y_start": 2279,
+        "y_end": 6718,
+        "height": 4439
+      }
+    ]
+  },
+  {
+    "status": "success",
+    "path": "D:\\OneDrive\\Documents\\GitHub\\berry\\4w1h-min\\products\\WWW_Collection\\product_974\\images\\F6203_Log-table-limited-edition_05.jpg",
+    "crops": []
+  }
+]

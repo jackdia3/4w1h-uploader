@@ -1,0 +1,276 @@
+{
+  "code": "flyer",
+  "name": "燕三条キッチン研究所",
+  "brand": "燕三条キッチン研究所",
+  "desc": "比起煮、烤，炸東西總讓人覺得麻煩又費工。這款小方鍋，專為台灣小家庭設計，油量省、省空間，炸完直接當油壺收納，讓你輕鬆享受炸物美味，後續清理也不再是負擔。",
+  "spec": {
+    "": "傳統炸鍋又大又佔空間，這款小方鍋讓你炸物也能很輕鬆。"
+  },
+  "wh": [
+    {
+      "icon": null,
+      "icon_alt": "When",
+      "title": "什麼時候適合用？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "只想炸一點點、做便當、或兩人小聚，油不用多，剛剛好。"
+    },
+    {
+      "icon": null,
+      "icon_alt": "Who",
+      "title": "誰適合？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "租屋族、小家庭、怕油煙、怕麻煩但又愛吃炸物的你。"
+    },
+    {
+      "icon": null,
+      "icon_alt": "What",
+      "title": "可以炸什麼？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "蝦子、炸雞、蔬菜、天婦羅、薯條、甚至小魚乾都沒問題。"
+    },
+    {
+      "icon": null,
+      "icon_alt": "Why",
+      "title": "為什麼要選這個？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "小巧不佔空間，油量省，炸完直接當油壺收納，超方便。"
+    },
+    {
+      "icon": null,
+      "icon_alt": "How",
+      "title": "怎麼用最方便？",
+      "title_pc": null,
+      "title_sp": null,
+      "text": "炸完直接蓋上鍋蓋，油留著下次用，省時又省力。"
+    }
+  ],
+  "images": {
+    "main": {
+      "filename": "uncle-benny-flyer_main.webp",
+      "url": null,
+      "alt": "コンパクトに、揚げたい。",
+      "status": "ok"
+    },
+    "slides": [
+      {
+        "filename": "uncle-benny-flyer_slides_01.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_slides_02.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_slides_03.webp",
+        "url": null,
+        "alt": "slides",
+        "status": "ok"
+      }
+    ],
+    "features": [
+      {
+        "filename": "uncle-benny-flyer_features_01.webp",
+        "url": null,
+        "alt": "features",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_features_02.webp",
+        "url": null,
+        "alt": "features",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_features_03.webp",
+        "url": null,
+        "alt": "features",
+        "status": "ok"
+      },
+      {
+        "filename": "uncle-benny-flyer_features_04.webp",
+        "url": null,
+        "alt": "features",
+        "status": "ok"
+      }
+    ],
+    "background": {
+      "filename": "uncle-benny-flyer_main.webp",
+      "url": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_flyer_mainimg.jpg",
+      "status": "ok"
+    },
+    "hero": {
+      "filename": "uncle-benny-hotsand_main.webp",
+      "alt": "4w1h Hot-Sand Solo 一片吐司熱壓鍋主視覺"
+    },
+    "logo": {
+      "filename": "4W1H_logo.png",
+      "alt": "4W1H 品牌標誌"
+    },
+    "divider": {
+      "filename": "4w1h-divider.png",
+      "alt": ""
+    },
+    "thema": {
+      "filename": "hotsand_thema.png",
+      "alt": "4W1H 主題圖"
+    },
+    "notice": {
+      "filename": "uncle-benny-hotsand_about.webp",
+      "alt": "沖壓加工痕示意圖"
+    }
+  },
+  "notices": [],
+  "features": [
+    {
+      "image": {
+        "filename": "uncle-benny-hotsand_features_01.webp",
+        "alt": "酥脆可愛的波浪封邊 實拍圖"
+      },
+      "title": "酥脆可愛的波浪封邊",
+      "description": "獨特的波浪邊緣不只是造型，經過反覆研究，這個形狀能讓吐司邊緣完整包覆、壓合緊密，餡料不易外漏，烘烤時食材也不會輕易跑出來。"
+    },
+    {
+      "image": {
+        "filename": "uncle-benny-hotsand_features_02.webp",
+        "alt": "餡料不易掉落 實拍圖"
+      },
+      "title": "方便快速享用",
+      "description": "完成後是一口大小，連小朋友都能輕鬆吃。單手拿著也能快速享用。"
+    },
+    {
+      "image": {
+        "filename": "uncle-benny-hotsand_features_03.webp",
+        "alt": "輕食、宵夜都適合 實拍圖"
+      },
+      "title": "方便好攜帶，全日各時段只要想來點吃的都適合",
+      "description": "可依各人喜好加入各式食材，份量好剛好的設計，不會太過於負擔，無論是早餐、下午茶或宵夜時段，隨時都可以享用美味小輕食。"
+    },
+    {
+      "image": {
+        "filename": "uncle-benny-hotsand_features_04.webp",
+        "alt": "雙色上蓋 實拍圖"
+      },
+      "title": "雙面不同色的設計，方便分辨",
+      "description": "為了烘烤時更順手，我們把吐司夾做成雙面雙色外觀，要翻面時，一眼就知道哪一面已經烤過、哪面還沒，邊忙別的事也不會心裡犯嘀咕：「欸？這面翻了沒？」翻錯機率直接歸零，輕鬆烤出兩面都香酥的熱壓吐司。"
+    },
+    {
+      "image": {
+        "filename": "uncle-benny-hotsand_features_05.webp",
+        "alt": "上下板可拆 實拍圖"
+      },
+      "title": "可拆卸設計",
+      "description": "烤好後把上蓋一掀、盤子一放、整份吐司直接裝盤，手不用碰觸到熱源，熱呼呼也能優雅上桌。"
+    },
+    {
+      "image": {
+        "filename": "uncle-benny-hotsand_features_06.webp",
+        "alt": "單面可當平底鍋 實拍圖"
+      },
+      "title": "還能當小煎盤使用",
+      "description": "可拆卸設計的一大樂趣，就是可以單面當小煎盤使用，不管是煎香腸、煎蛋，還是煎個培根蘆筍捲，做便當配菜超方便。"
+    },
+    {
+      "image": {
+        "filename": "uncle-benny-hotsand_features_07.webp",
+        "alt": "可拆洗設計 實拍圖"
+      },
+      "title": "方便清潔的設計",
+      "description": "拆卸後可以徹底清洗每個角落，保持衛生。<br>可使用用洗碗機，但塗層可能會損耗較快，請斟酌使用。"
+    }
+  ],
+  "keywords": [
+    "#省油省空間",
+    "#小家庭必備",
+    "#炸鍋油壺二合一",
+    "#快速加熱",
+    "#炸物不麻煩",
+    "#廚房收納神器"
+  ],
+  "attributes": {},
+  "intro_paragraphs": [
+    "在人們的價值觀與生活方式不斷改變的現在，我們試著回頭思考，那些被視為理所當然的日常。從根本出發，只為做出真正好用的工具。",
+    "我們的設計理念源自 5W1H，刻意拿掉「Where（地點）」留下的是：「Why」「When」「Who」「What」「How」",
+    "從這四個提問出發，重新想像人與器具的關係，找到真正貼近生活的設計。",
+    "我們是來自新潟燕三條料理道具研究所，用思考與雙手打造出陪你過生活的器物。",
+    "願你在這些器具中，找到新的選擇、自由的餐桌，以及最貼近你生活節奏的使用方式。"
+  ],
+  "product_intro": "早晨連胃口都還在半夢半醒的狀態，總是吃不了太多。<br>於是我們重新思考了「份量 × 形式 × 用餐時間」<br>打造出這款半半熱壓吐司夾，只需一片吐司、短短 5～6 分鐘，就能輕鬆完成一份剛剛好的早餐。",
+  "wh_items": [
+    {
+      "title_img": {
+        "filename": "4w1h-ttl-why.png",
+        "alt": "why"
+      },
+      "description": "早晨是輕食的時間，無論是平日的上班前準備時間不會太多，或是露營撤收時想要盡快完成一份不將就的早餐或是吃完鹹口味想再來一份甜口味，各一片吐司，不會太負擔。"
+    },
+    {
+      "title_img": {
+        "filename": "4w1h-ttl-when.png",
+        "alt": "when"
+      },
+      "description": "早晨本就是輕食的時段，不管是平日上班前，時間有限；還是露營撤收日，想快速完成一份熱騰騰不將就的早餐；又或者鹹口味吃完後，還想來一份甜的，一片吐司的份量，剛剛好，不多也不膩。"
+    },
+    {
+      "title_img": {
+        "filename": "4w1h-ttl-who.png",
+        "alt": "who"
+      },
+      "description": "想吃點東西，卻又不想太撐的人，來點輕食節奏，慢慢展開一天的你。"
+    },
+    {
+      "title_img": {
+        "filename": "4w1h-ttl-what.png",
+        "alt": "what"
+      },
+      "description": "除了吐司之外，也想夾點蛋白質和蔬菜，一壓成型，份量剛好，營養也剛剛好。"
+    },
+    {
+      "title_img": {
+        "filename": "4w1h-ttl-how.png",
+        "alt": "how"
+      },
+      "description": "簡單一壓、迅速完成，適合忙碌的早晨與還沒完全醒的胃。"
+    }
+  ],
+  "youtube_video": {
+    "title": "YouTube 產品介紹影片",
+    "embed_url": "https://www.youtube.com/embed/3u4v7YWkxmc"
+  },
+  "hashtags": [
+    "日本製",
+    "早餐好物",
+    "小食份量",
+    "省時料理",
+    "一片吐司也能熱壓",
+    "一口大小剛剛好",
+    "雙面酥脆烤痕",
+    "可拆式設計",
+    "好清洗不費力"
+  ],
+  "spec": {
+    "型號": "4w1h_001R",
+    "尺寸": "約 14 × 28.5 × H4 cm",
+    "重量": "約 405 g",
+    "材質": "本體｜鋁合金（氟素塗膜）<br>把手｜電木　金具｜不鏽鋼",
+    "顏色": "黑 × 銀",
+    "產地": "日本",
+    "備註": "不支援 IH 電磁爐"
+  },
+  "notices": [
+    "原廠授權公司貨，請放心選購。",
+    "鑑賞期非試用期，經拆封使用過後無提供退換貨服務。",
+    "首次使用前請以中性清潔劑手洗並充分乾燥，",
+    "弱火加熱即可，避免火焰太大溢出吐司夾本體，也不可以空燒。",
+    "可洗碗機清潔，但需注意的是塗層會損耗較快，請自行斟酌。",
+    "商品顏色會因拍照光線環境或手機螢幕色差等因素有所差異，依實際出貨為準。",
+    "側邊線條為沖壓加工痕跡，請參考下方圖示，此為正常現象，完全不影響使用，也不屬於瑕疵範圍。"
+  ]
+}

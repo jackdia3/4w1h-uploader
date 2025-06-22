@@ -1,0 +1,26 @@
+{
+    "4w1h": {
+        "main": {
+            "selector": ".item_name figure img",
+            "fallback_url_pattern": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_{code}_mainimg.jpg"
+        },
+        "thema": {
+            "selector": ".mainimg img",
+            "fallback_url_pattern": "https://4w1h.jp/wp-content/themes/4w1h_v1.3/img/product/_{code}_thema.png"
+        },
+        "slides": {
+            "selector": "#item_slide > div img",
+            "note": "產品規格展示圖"
+        },
+        "features": {
+            "selector": "#feature figure img",
+            "exclude": "iframe",
+            "note": "特性說明圖，排除 YouTube 影片"
+        },
+        "notice_img": {
+            "selector": ".notice img",
+            "fallback": null,
+            "note": "大部分產品沒有注意事項圖片"
+        }
+    }
+}

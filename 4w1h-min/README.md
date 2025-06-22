@@ -66,32 +66,33 @@
 
 ## 🔄 工作流程
 
-1. 使用 `crawl.py` 抓取原始產品資料
-2. 使用 `translate_config.py` 翻譯配置檔
-3. 使用 `black.py` 處理主題圖片
-4. 使用 `render_template.py` 生成產品頁面
+1. 使用 `crawl.py` 抓取原始產品資料 python crawl.py
+2. 使用 `translate_config.py` 翻譯配置檔 python translate_config.py
+3. 使用 `black.py` 處理主題圖片 python black.py
+4. 使用 `render_template.py` 生成產品頁面 python render_template.py --all
+   ../products/
 
 ## 📝 配置檔格式
 
 ```json
 {
-    "code": "產品代碼",
-    "name": "產品名稱",
-    "brand": "品牌名稱",
-    "desc": "產品描述",
-    "spec": [
-        {
-            "label": "規格項目",
-            "value": "規格值"
-        }
-    ],
-    "features": [
-        {
-            "title": "特點標題",
-            "desc": "特點描述",
-            "youtube": "YouTube 影片網址"
-        }
-    ]
+  "code": "產品代碼",
+  "name": "產品名稱",
+  "brand": "品牌名稱",
+  "desc": "產品描述",
+  "spec": [
+    {
+      "label": "規格項目",
+      "value": "規格值"
+    }
+  ],
+  "features": [
+    {
+      "title": "特點標題",
+      "desc": "特點描述",
+      "youtube": "YouTube 影片網址"
+    }
+  ]
 }
 ```
 
