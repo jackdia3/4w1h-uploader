@@ -73,7 +73,7 @@
     }
     .feature-block {
         max-width: 900px;
-        margin: 0 auto 2.5em auto;
+        margin: 0 auto 0.5rem auto;
         text-align: center;
     }
     .feature-block .main-text {
@@ -134,83 +134,118 @@
 </div>
 {%- endif -%}
 
-<!-- ===== SELLING POINTS ===== -->
-{% if selling_points %}
-<section id="selling-points">
-    <h2 class="section-title">產品特點</h2>
-    {%- for item in selling_points -%}
-    <div class="feature-block">
-        <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="{{ item.summary | striptags | replace('\n', ' ') }}">
-        {%- if item.summary -%}
-        <div class="main-text">
-            <p>{{ item.summary | nl2br }}</p>
-        </div>
-        {%- endif -%}
-    </div>
-    {%- endfor -%}
-</section>
-{% endif %}
+<main>
+    {# <h1 class="product-title">{{ product_name }}</h1> #}
 
-<!-- ===== USE CASES ===== -->
-{% if use_cases %}
-<section id="use-cases">
-    <h2 class="section-title">使用情境</h2>
-    {%- for item in use_cases -%}
+    {% if main_description_image %}
     <div class="feature-block">
-        <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="{{ item.summary | striptags | replace('\n', ' ') }}">
-        {%- if item.summary -%}
-        <div class="main-text">
-            <p>{{ item.summary | nl2br }}</p>
-        </div>
-        {%- endif -%}
-    </div>
-    {%- endfor -%}
-</section>
-{% endif %}
-
-<!-- ===== SPECIFICATIONS ===== -->
-<section id="specifications">
-    <h2 class="section-title">規格說明</h2>
-    {%- if spec_images -%}
-        {%- for item in spec_images -%}
-        <div class="feature-block">
-            <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="規格說明圖">
-            {%- if item.summary -%}
+        {%- if main_description_image.text_blocks and main_description_image.text_blocks[0].content -%}
+            {# This is a text-only block. Render just the text content. #}
             <div class="main-text">
-                <p>{{ item.summary | nl2br }}</p>
+                {% for block in main_description_image.text_blocks %}
+                    <p>{{ block.content | nl2br }}</p>
+                {% endfor %}
             </div>
+        {%- else -%}
+            {# This is a standard image block. No visible summary. #}
+            <img src="{{ to_cdn(main_description_image.local_path) }}" class="full-img" alt="{{ main_description_image.get('summary', '') | striptags | replace('\\n', ' ') }}">
+        {%- endif -%}
+    </div>
+    {% endif %}
+
+    <!-- ===== SELLING POINTS ===== -->
+    {% if selling_points %}
+    <section id="selling-points">
+        {# <h2 class="section-title">產品特點</h2> #}
+        {%- for item in selling_points -%}
+        <div class="feature-block">
+            {%- if item.text_blocks and item.text_blocks[0].content -%}
+                {# This is a text-only block. Render just the text content. #}
+                <div class="main-text">
+                    {% for block in item.text_blocks %}
+                        <p>{{ block.content | nl2br }}</p>
+                    {% endfor %}
+                </div>
+            {%- else -%}
+                {# This is a standard image block. No visible summary. #}
+                <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="{{ item.summary | striptags | replace('\\n', ' ') if item.summary }}">
             {%- endif -%}
         </div>
         {%- endfor -%}
-    {%- endif -%}
+    </section>
+    {% endif %}
 
-    {%- if specs -%}
-    <table class="spec">
-        <tbody>
-            {%- for row in specs -%}
-            <tr>
-                <th>{{ row.label }}</th>
-                <td>{{ row.value }}</td>
-            </tr>
-            {%- endfor -%}
-        </tbody>
-    </table>
-    {%- endif -%}
-</section>
+    <!-- ===== USE CASES ===== -->
+    {% if use_cases %}
+    <section id="use-cases">
+        {# <h2 class="section-title">使用情境</h2> #}
+        {%- for item in use_cases -%}
+        <div class="feature-block">
+            {%- if item.text_blocks and item.text_blocks[0].content -%}
+                {# This is a text-only block. Render just the text content. #}
+                <div class="main-text">
+                    {% for block in item.text_blocks %}
+                        <p>{{ block.content | nl2br }}</p>
+                    {% endfor %}
+                </div>
+            {%- else -%}
+                {# This is a standard image block. No visible summary. #}
+                <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="{{ item.summary | striptags | replace('\\n', ' ') if item.summary }}">
+            {%- endif -%}
+        </div>
+        {%- endfor -%}
+    </section>
+    {% endif %}
 
-<!-- ===== NOTICES ===== -->
-{%- if notices -%}
-<div class="feature-block">
-    <div class="main-text">
-        <p style="text-decoration: underline;">注意事項</p>
-        <ul style="padding-left: 1.5em; list-style-position: outside;">
-            {%- for notice in notices -%}
-            <li style="text-align: left; margin-bottom: 0.5em;">{{ notice }}</li>
+    <!-- ===== SPECIFICATIONS ===== -->
+    <section id="specifications">
+        {# <h2 class="section-title">規格說明</h2> #}
+        {%- if spec_images -%}
+            {%- for item in spec_images -%}
+            <div class="feature-block">
+                {%- if item.text_blocks and item.text_blocks[0].content -%}
+                    {# This is a text-only block. Render just the text content. #}
+                    <div class="main-text">
+                        {% for block in item.text_blocks %}
+                            <p>{{ block.content | nl2br }}</p>
+                        {% endfor %}
+                    </div>
+                {%- else -%}
+                    {# This is a standard image block. No visible summary. #}
+                    <img src="{{ to_cdn(item.local_path) }}" class="full-img" alt="{{ item.summary | striptags | replace('\\n', ' ') if item.summary }}">
+                {%- endif -%}
+            </div>
             {%- endfor -%}
-        </ul>
+        {%- endif -%}
+
+        {%- if specs -%}
+        <table class="spec">
+            <tbody>
+                {%- for row in specs -%}
+                <tr>
+                    <th>{{ row.label }}</th>
+                    <td>{{ row.value }}</td>
+                </tr>
+                {%- endfor -%}
+            </tbody>
+        </table>
+        {%- endif -%}
+    </section>
+
+    <!-- ===== NOTICES ===== -->
+    {%- if notices -%}
+    <div class="feature-block">
+        <div class="main-text">
+            <p style="text-decoration: underline;">注意事項</p>
+            <ul style="padding-left: 1.5em; list-style-position: outside;">
+                {%- for notice in notices -%}
+                <li style="text-align: left; margin-bottom: 0.5em;">{{ notice }}</li>
+                {%- endfor -%}
+            </ul>
+        </div>
     </div>
-</div>
-{%- endif -%}
+    {%- endif -%}
+</main>
 
 </body>
 </html> 

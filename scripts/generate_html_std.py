@@ -33,44 +33,56 @@ def to_cdn(local_path):
     """Converts a local file path to its CDN URL."""
     if not local_path:
         return ""
-    return f"{CDN_BASE_URL}{Path(local_path).name}"
+    filename = Path(local_path).name
+    return f"{CDN_BASE_URL}{filename}"
 
 def extract_render_context(raw_data):
     """
-    Extracts and structures all necessary data for rendering directly from the
-    AI-processed analysis.json.
+    Extracts and structures all necessary data for rendering from the
+    rebuilt, nested analysis.json.
     """
+    all_images_source = raw_data.get('images', [])
+    
     hero_image = None
-    selling_points = []
-    use_cases = []
-    spec_images = []
-    generic_images = []
+    main_description_image = None
+    
+    # First pass: identify and separate special images
+    for img in all_images_source:
+        if img.get('is_main'):
+            hero_image = img
+        if img.get('is_main_description'):
+            main_description_image = img
 
-    # Find the main hero image and collect all categorized images
-    for img_info in raw_data.get('images', []):
-        # The hero image is the one that contains the categorized lists
-        if any(key in img_info for key in ['selling_points', 'use_cases', 'spec_images']):
-            hero_image = img_info
-            selling_points.extend(img_info.get('selling_points', []))
-            use_cases.extend(img_info.get('use_cases', []))
-            spec_images.extend(img_info.get('spec_images', []))
-            generic_images.extend(img_info.get('generic_images', []))
+    # Filter out special images from the main processing list to avoid duplicates
+    all_images = [
+        img for img in all_images_source 
+        if not img.get('is_main') and not img.get('is_main_description')
+    ]
 
-    # Determine intro text: use summary from the first selling point, then remove it
-    intro_text = ""
-    if selling_points and selling_points[0].get('summary'):
-        intro_text = selling_points.pop(0).get('summary')
-    elif use_cases and use_cases[0].get('summary'):
-        intro_text = use_cases.pop(0).get('summary')
+    all_selling_points = []
+    all_use_cases = []
+    all_spec_images = []
 
-    return {
+    # Aggregate all categorized images from the remaining parent images
+    for img_info in all_images:
+        all_selling_points.extend(img_info.get('selling_points', []))
+        all_use_cases.extend(img_info.get('use_cases', []))
+        all_spec_images.extend(img_info.get('spec_images', []))
+
+    # Prepare the final context for the template
+    context = {
+        'product_name': raw_data.get('product_name', ''),
+        'title': raw_data.get('title', ''),
+        'meta_description': raw_data.get('meta_description', ''),
         'hero_image': hero_image,
-        'selling_points': selling_points,
-        'use_cases': use_cases,
-        'spec_images': spec_images,
-        'generic_images': generic_images,
-        'intro_text': intro_text,
+        'main_description_image': main_description_image,
+        'selling_points': all_selling_points,
+        'use_cases': all_use_cases,
+        'spec_images': all_spec_images,
+        'specs': raw_data.get('specs', []),
+        'to_cdn': to_cdn
     }
+    return context
 
 def process_product(prod_path, template):
     """Loads data for a single product and renders its HTML page."""
@@ -96,10 +108,10 @@ def process_product(prod_path, template):
         'logo_url': LOGO_URL,
         'specs': raw_specs,
         'hero_image': page_context['hero_image'],
+        'main_description_image': page_context['main_description_image'],
         'selling_points': page_context['selling_points'],
         'use_cases': page_context['use_cases'],
         'spec_images': page_context['spec_images'],
-        'intro_text': page_context['intro_text'],
         'notices': NOTICE_TEXT[1:] # Pass notices without the title
     }
     
